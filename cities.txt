@@ -1,0 +1,37 @@
+8
+Atlanta
+Boston
+Cupertino
+New York
+San Francisco
+Philadelphia
+Fremont
+Redmond
+Atlanta, Boston, 1074
+Atlanta, Cupertino, 2445
+Atlanta, New York, 
+Atlanta, San Francisco, 
+Atlanta, Philadelphia, 
+Atlanta, Fremont, 
+Atlanta, Redmond, 
+Boston, Cupertino, 
+Boston, New York, 
+Boston, San Francisco, 
+Boston, Philadelphia, 
+Boston, Fremont, 
+Boston, Redmond, 
+Cupertino, New York, 
+Cupertino, San Francisco, 
+Cupertino, Philadelphia, 
+Cupertino, Fremont, 
+Cupertino, Redmond, 
+New York, San Francisco, 
+New York, Philadelphia, 
+New York, Fremont, 
+New York, Redmond, 
+San Francisco, Philadelphia, 
+San Francisco, Fremont, 
+San Francisco, Redmond, 
+Philadelphia, Fremont, 
+Philadelphia, Redmond, 
+Fremont, Redmond,

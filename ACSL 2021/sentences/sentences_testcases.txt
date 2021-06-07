@@ -1,0 +1,103 @@
+3
+N money tree sky
+C grow fall
+P on from
+ICNPTN ICPTN
+Grow money on the tree. Fall from the sky.
+4
+J ageless
+N money tree
+P on from
+V grows falls
+QNVPAJN
+What money grows on an ageless tree?
+6
+N money tree
+B quickly
+C take collect
+V grows falls runs
+J indigenous free
+P on from
+QNVPAN DNVPAJN ECTNPTNB ICTJNB
+What money grows on a tree? Money falls from an indigenous tree. Take the money on the tree quickly! Collect the free money quickly.
+5
+N dog skateboard oriole
+J small brown orange big
+V struck saw took
+P on
+B suddenly restlessly
+ETJJNPTNVTJNB
+The small brown dog on the skateboard struck the orange oriole suddenly!
+5
+V saw bit took
+J small orange
+B very restlessly
+N dog fish oriole waves
+C help
+DTJNVTJNBB ICTN
+The small dog saw the orange fish very restlessly. Help the oriole.
+3
+N dog fish bird waves
+C stop help fix
+J angry small orange
+ICTJN ICTJJN ICTJN
+Stop the angry dog. Help the small orange fish. Fix the angry bird.
+6
+J big small
+B suddenly tirelessly
+N seed orange oriole desk
+C stop code help fix
+V fed saw bit
+P in on to at of
+QJNPTNVTJN ICB ECBPTJN
+What big seed in the orange fed the small oriole? Stop suddenly. Code tirelessly on the big desk!
+5
+N apples trees birds clouds frogs
+B freely happily very
+J tall green
+V grow fly
+P on below upon above over
+DNVPJJN QNVBPTN DNVB EVPN QNVBJ DNVBPJN
+Apples grow on tall green trees. What birds fly freely below the clouds? Frogs grow happily. Fly upon apples! What trees grow very tall? Birds fly freely above green clouds.
+6
+C jump catch
+V struck saw sunk took
+N dog fish oriole waves
+J green small big orange
+B nearly suddenly restlessly
+P over above
+EAJNBVAJNB QBVAN DTNBVTJN ECBPTN ICANBPTN
+A green dog nearly struck a small fish suddenly! What restlessly saw an oriole? The waves nearly sunk the big dog. Jump suddenly over the fish! Catch an oriole restlessly above the waves.
+6
+N dog fish oriole wave
+C help catch ride
+V caught saw bit took
+J green small big orange
+B suddenly slowly
+P through on over
+DANVAJN EANVAJN QVTNB ICTNCAJJN ECBPTJNPAN
+A dog caught a green fish. An oriole saw a small wave! What bit the dog suddenly? Help the fish catch a big orange oriole. Ride slowly through the green wave on a dog!
+6
+N dog fish worm oriole
+C stop code help fix
+V bit saw
+B suddenly restlessly
+P on over through
+J orange small big
+ICAN QNVAJN DAJNVAJN DANVPAJN
+Stop a dog. What fish bit an orange worm? A small oriole saw a big dog. A fish bit on an orange worm.
+6
+V told
+J big orange small
+B suddenly restlessly
+C code stop help fix
+P on from about
+N message man airplane
+ICAN EC ICANPTJJN DANPTNVPAN
+Code a message. Stop! Help a man on the big orange airplane. A message from the man told about an airplane.
+3
+V stops
+B quickly freely abruptly
+C stop
+ICB QV ECB IC QVB EC IC QV ECB IC
+Stop quickly. What stops? Stop freely! Stop. What stops abruptly? Stop! Stop. What stops? Stop quickly! Stop.
