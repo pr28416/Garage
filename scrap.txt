@@ -1,0 +1,117 @@
+{
+	"version": "1.0",
+	"session": {
+		"new": false,
+		"sessionId": "amzn1.echo-api.session.0ae97233-0b71-4a22-b87a-be10c60f586a",
+		"application": {
+			"applicationId": "amzn1.ask.skill.d2d50469-56da-495c-9b01-f8ac403d5cf2"
+		},
+		"user": {
+			"userId": "amzn1.ask.account.AF4SQFDHHOYZJFQOR5LWQDB76HARHP6DAXN2IVYA4AFKQUWGZMZ4RV7GTD2UOMQEBFDTS5OIUW2PMN4KYIW4NM3LH7BIJ56CCVTWEXJSTGQMXAF7M5AH2I6VAVMK4HW54NBLK6UJE2L4JW2SHBF3L6BUC5MQLUG2XKI2RCZG423UILQLC7WSM5SNEALLIQHMMHFJKOU64XP4N7Q"
+		}
+	},
+	"context": {
+		"Viewports": [
+			{
+				"type": "APL",
+				"id": "main",
+				"shape": "RECTANGLE",
+				"dpi": 213,
+				"presentationType": "STANDARD",
+				"canRotate": false,
+				"configuration": {
+					"current": {
+						"mode": "HUB",
+						"video": {
+							"codecs": [
+								"H_264_42",
+								"H_264_41"
+							]
+						},
+						"size": {
+							"type": "DISCRETE",
+							"pixelWidth": 1280,
+							"pixelHeight": 800
+						}
+					}
+				}
+			}
+		],
+		"Viewport": {
+			"experiences": [
+				{
+					"arcMinuteWidth": 346,
+					"arcMinuteHeight": 216,
+					"canRotate": false,
+					"canResize": false
+				}
+			],
+			"mode": "HUB",
+			"shape": "RECTANGLE",
+			"pixelWidth": 1280,
+			"pixelHeight": 800,
+			"dpi": 213,
+			"currentPixelWidth": 1280,
+			"currentPixelHeight": 800,
+			"touch": [
+				"SINGLE"
+			],
+			"video": {
+				"codecs": [
+					"H_264_42",
+					"H_264_41"
+				]
+			}
+		},
+		"Extensions": {
+			"available": {
+				"aplext:backstack:10": {}
+			}
+		},
+		"System": {
+			"application": {
+				"applicationId": "amzn1.ask.skill.d2d50469-56da-495c-9b01-f8ac403d5cf2"
+			},
+			"user": {
+				"userId": "amzn1.ask.account.AF4SQFDHHOYZJFQOR5LWQDB76HARHP6DAXN2IVYA4AFKQUWGZMZ4RV7GTD2UOMQEBFDTS5OIUW2PMN4KYIW4NM3LH7BIJ56CCVTWEXJSTGQMXAF7M5AH2I6VAVMK4HW54NBLK6UJE2L4JW2SHBF3L6BUC5MQLUG2XKI2RCZG423UILQLC7WSM5SNEALLIQHMMHFJKOU64XP4N7Q"
+			},
+			"device": {
+				"deviceId": "amzn1.ask.device.AHIEI7ETV2SNGX7DVJX2KWBCBVP44YLOGSTPTRBXCTZ4Z3RAVRO6F5QRI5TFZIB3QLV3QJWMGM5BTGHLBBWEEYKG6TK6P5ILPH4T7ZZEEEZFYOPOOWCMC7FWRUACPOKBYGQ4F6262AEIS65JWYCUSN6NRW6W47TZ2K2VJ5A2BW6YFG4TRVISW",
+				"supportedInterfaces": {}
+			},
+			"apiEndpoint": "https://api.amazonalexa.com",
+			"apiAccessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjEifQ.eyJhdWQiOiJodHRwczovL2FwaS5hbWF6b25hbGV4YS5jb20iLCJpc3MiOiJBbGV4YVNraWxsS2l0Iiwic3ViIjoiYW16bjEuYXNrLnNraWxsLmQyZDUwNDY5LTU2ZGEtNDk1Yy05YjAxLWY4YWM0MDNkNWNmMiIsImV4cCI6MTYyMzYzMTY1OCwiaWF0IjoxNjIzNjMxMzU4LCJuYmYiOjE2MjM2MzEzNTgsInByaXZhdGVDbGFpbXMiOnsiY29udGV4dCI6IkFBQUFBQUFBQUFDOXRRc1dJSmo4MytzMjErSkViT3FyS3dFQUFBQUFBQUIzekVDK21Dc2tmMGpVRWNPYXdLZWJaNndqK0pEMmFMVDZDKzZZZngwNVRzbUNUa3Vxdm91QWdqbUsvS2FCQVdPejNGODcxTE9vbDhoenJmTmxrZlNLK3RHYkNHMjBoWmRQU2lJQVZNcXBtOFpvRXl3d2JrWVNoazF4VklWR0NRSHFYOWNpb2pHakFDdmMrWk9JVHhJenR3SDVJQlFvaURGVjllenFhajVKYWZ6V29IMFo3a2pWRTVsUE05TC9keDJaRmJIaG1NeTBjRS9TQmV5MWtJMWNkZ1pJNGY2dGo3UGN0WmwzZm82bUpheTBxZFk0cktkZ3VVZEdXUjZOZkVLemg2a0kxVUQ1RkxGU01tRWoxSjBSUDd6STMwdDZBdHVBVWFRaGdJbXY3d1dYbXRMM0RLMEx0NFVKbXU0VEVxOVpHcnBjSS8wTlIwTFluSWFCSVFlL3JkSlU3ZGtPQ3hGZXBSUWl0blRramZKbndoT0wzUHFtSXFGT25tZmJ1aGQ2SlNOT0dYSVhNUWhHdkE9PSIsImNvbnNlbnRUb2tlbiI6bnVsbCwiZGV2aWNlSWQiOiJhbXpuMS5hc2suZGV2aWNlLkFISUVJN0VUVjJTTkdYN0RWSlgyS1dCQ0JWUDQ0WUxPR1NUUFRSQlhDVFo0WjNSQVZSTzZGNVFSSTVURlpJQjNRTFYzUUpXTUdNNUJUR0hMQkJXRUVZS0c2VEs2UDVJTFBINFQ3WlpFRUVaRllPUE9PV0NNQzdGV1JVQUNQT0tCWUdRNEY2MjYyQUVJUzY1SldZQ1VTTjZOUlc2VzQ3VFoySzJWSjVBMkJXNllGRzRUUlZJU1ciLCJ1c2VySWQiOiJhbXpuMS5hc2suYWNjb3VudC5BRjRTUUZESEhPWVpKRlFPUjVMV1FEQjc2SEFSSFA2REFYTjJJVllBNEFGS1FVV0daTVo0UlY3R1REMlVPTVFFQkZEVFM1T0lVVzJQTU40S1lJVzROTTNMSDdCSUo1NkNDVlRXRVhKU1RHUU1YQUY3TTVBSDJJNlZBVk1LNEhXNTROQkxLNlVKRTJMNEpXMlNIQkYzTDZCVUM1TVFMVUcyWEtJMlJDWkc0MjNVSUxRTEM3V1NNNVNORUFMTElRSE1NSEZKS09VNjRYUDRON1EifX0.d5M15iOw8jpks6iOmUs08ol1__ozwlUGQbSWSGpODMIzfpTowLkhUDYNtHTlZi7zG_mC_tINp_guu4XgL51YLzQP17_2DsaYMAwwoMoJttQSiHHy1KXj82lYC-Ft_4o8I3Z96utde8IZCtFOc4hJUhYnLYrUUumGArAErIMAd8a5WhjqZ7TrB7mXXqZYR9QPHePNQicazdVXGAuhq6oc6XLfBpLuQgapiJZ4J7FsqJvTSg7xUi_w3wvSgzFK6JvEIYP1v7UC_DyqRzMakMGtj2I3bp4Hk8bK5GpIfUk95I5EUbq2mZsHmXKvRpAmc-3MG6jsXirGdr-Veed3nBOreg"
+		}
+	},
+	"request": {
+		"type": "IntentRequest",
+		"requestId": "amzn1.echo-api.request.acf9b0e8-a35a-4ecf-aadb-cafe40f8deb3",
+		"locale": "en-US",
+		"timestamp": "2021-06-14T00:42:39Z",
+		"intent": {
+			"name": "AddEventIntent",
+			"confirmationStatus": "NONE",
+			"slots": {
+				"eventName": {
+					"name": "eventName",
+					"value": "dentist appointment",
+					"confirmationStatus": "NONE",
+					"source": "USER"
+				},
+				"startTime": {
+					"name": "startTime",
+					"value": "21:00",
+					"confirmationStatus": "NONE",
+					"source": "USER"
+				},
+				"endTime": {
+					"name": "endTime",
+					"value": "23:00",
+					"confirmationStatus": "NONE",
+					"source": "USER"
+				}
+			}
+		},
+		"dialogState": "COMPLETED"
+	}
+}

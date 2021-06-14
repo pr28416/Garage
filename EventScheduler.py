@@ -51,11 +51,12 @@ def fillSchedule(events):
 
 
 format = "%Y-%m-%d %H:%M:%S"
+today = datetime.today().strftime('%Y-%m-%d')
 events = [
-    Event("Event ABC", "2021-06-06 9:00:00", "2021-06-06 10:00:00", format),
-    Event("Event DEF", "2021-06-06 8:00:00", "2021-06-06 9:00:00", format),
-    Event("Event GHI", "2021-06-06 4:00:00", "2021-06-06 6:00:00", format),
-    Event("Event JKL", "2021-06-06 7:00:00", "2021-06-06 11:00:00", format, True),
+    Event("Event ABC", f"{today} 9:00:00", f"{today} 10:00:00", format),
+    Event("Event DEF", f"{today} 8:00:00", f"{today} 9:00:00", format),
+    Event("Event GHI", f"{today} 4:00:00", f"{today} 6:00:00", format),
+    Event("Event JKL", f"{today} 7:00:00", f"{today} 11:00:00", format),
 ]
 schedule = fillSchedule(events)
 for i in schedule:
@@ -67,4 +68,15 @@ _ABC                                    *--*
 *DEF                                *--*
 _GHI                *------*
 _JKL                            *--------------*
+"""
+# event = Event("Event ABC", f"{today} 9:00:00", f"{today} 10:00:00", format)
+# speak_output = f"From {event.start_time.strftime('%H:%M')} to {event.start_time.strftime('%H:%M')}"
+
+"""
+open greedy scheduler
+add dentist appointment from 9 AM to 10 AM
+add soccer game from 8 AM to 9 AM
+add watch Loki show from 4 AM to 6 AM
+add birthday party from 7 AM to 11 AM
+tell me the events I have today
 """
