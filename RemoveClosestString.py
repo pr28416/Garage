@@ -1,0 +1,2 @@
+def removeClosestString(string, lst):
+    
