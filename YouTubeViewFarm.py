@@ -21,8 +21,11 @@ def runVideo(_thread_name):
     sleep(seconds)
     browser.quit()
 
-for i in range(1000):
+i = 0
+while i < 100000:
+# for i in range(1000):
     runVideo(f"T{i}")
+    i += 1
 # threads = [threading.Thread(target=runVideo, args=(f"T{i}", None)) for i in range(5)]
 # for thd in threads:
 #     thd.start()
