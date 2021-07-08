@@ -1,5 +1,4 @@
-import warnings
-
+from collections import deque
 
 class Node:
     def __init__(self, val, left=None, right=None):
@@ -52,37 +51,38 @@ class BST:
         else:
             travNode.right = Node(val)
 
-    # def delete(self, val):
-    #     # Check if BST is empty
-    #     if self.length == 0:
-    #         return None
-    #     return self._delete(self.root, val)
+    def inorder(self):
+        return self._iterate(self.root, "inorder")
 
-    # def _delete(self, root, val): # Recursion
-    #     if
-    #
-    #     prevNode = None
-    #     travNode = self.root
-    #     while not travNode.isLeaf():
-    #         if val == travNode.val: # Check if val found
-    #             pass
-    #         elif val < travNode.val: # Check if go left
-    #             pass
-    #         else: # Go right
-    #             pass
+    def preOrder(self):
+        return self._iterate(self.root, "preorder")
 
-    def preOrderIterate(self):
-        return self._preOrderIterate(self.root)
+    def postOrder(self):
+        return self._iterate(self.root, "postorder")
 
-    def _preOrderIterate(self, travNode):
+    def levelOrder(self):
+        queue = deque()
+        queue.appendleft(self.root)
+        while len(queue) > 0:
+            trav = queue.pop()
+            if trav == None: continue
+            yield trav.val
+            queue.appendleft(trav.left)
+            queue.appendleft(trav.right)
+
+    def _iterate(self, travNode, itype):
         if travNode is None: return
-        yield travNode.val
-        yield from self._preOrderIterate(travNode.left)
-        # print(travNode.val)
-        yield from self._preOrderIterate(travNode.right)
+        if itype == "preorder": yield travNode.val
+        yield from self._iterate(travNode.left, itype)
+        if itype == "inorder": yield travNode.val
+        yield from self._iterate(travNode.right, itype)
+        if itype == "postorder": yield travNode.val
 
 bst = BST()
 for i in "PTERODACTYL":
     bst.insert(i)
 
-print(list(bst.preOrderIterate()))
+print(list(bst.preOrder()))
+print(list(bst.inorder()))
+print(list(bst.postOrder()))
+print(list(bst.levelOrder()))
