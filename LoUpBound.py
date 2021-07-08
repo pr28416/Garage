@@ -1,3 +1,8 @@
+# This is a regular comment
+"""
+Block comment
+"""
+
 def lowerbound(x, lst):
     lo, up = 0, len(lst)
     while lo < up:
