@@ -1,9 +1,19 @@
+import java.util.*;
+
 class test {
     public static void main(String[] args) {
-        String str1 = "Advanced Placement";
-        String str2 = "Advanced Placement";
 
-        System.out.println(str1.equals(str2));
-        System.out.println(str1 == str2);
+        ArrayList<ArrayList<Integer>> list = new ArrayList<ArrayList<Integer>>();
+        System.out.println(list);
+        list.add(new ArrayList<Integer>());
+        list.add(new ArrayList<Integer>());
+        list.add(new ArrayList<Integer>());
+        System.out.println(list);
+        for (int i = 0; i < 3; i++) {
+            for (int j = 0; j < 3; j++) {
+                list.get(i).add(3*i+j);
+            }
+        }
+        System.out.println(list);
     }
 }
