@@ -4,12 +4,14 @@ TODO:
 """
 
 
+from curses.textpad import Textbox
 from turtle import heading
 import pygame, math
 import pygame_widgets
 from pygame_widgets.button import Button
 from pygame_widgets.slider import Slider
 from pygame_widgets.textbox import TextBox
+from pygame_widgets.toggle import Toggle
 from datetime import datetime
 w, h = 0, 1
 
@@ -70,16 +72,14 @@ class Game:
             "starting_launch_velocity": 450,
             "starting_launch_angle": 45,
             "starting_gravity": (0,400),
-            # "projectile_default_starting_pos": (100,300+self.cannonImg.get_height()),
-            # "projectile_starting_pos": (100,300+self.cannonImg.get_height()),
-            # "projectile_current_pos": (100,300+self.cannonImg.get_height()),
             "run_sim": False,
             "projectile_has_reset": False,
             "projectile_start_tick": 0,
             "is_playing_explosion": False,
             "explosion_current_idx": 0,
             "didAccountForCeilingHit": False,
-            "dataEntries": []
+            "dataEntries": [],
+            "enableVelocityArrows": False
         }
         self.setGameParam("cannon_pos", (100, self.getGameParam("cliff_dimensions")[h]+self.cannonImg.get_height()-10))
         self.setGameParam("projectile_default_starting_pos", (100, self.getGameParam("cliff_dimensions")[h]+self.cannonImg.get_height()-10))
@@ -134,7 +134,7 @@ class Game:
             else:
                 i = self.getGameParam("explosion_current_idx")
                 pos = self.getGameParam("projectile_current_pos")
-                self.screen.blit(self.explosionImgs[i//10], (pos[w]-self.personImg.get_width()//2, pos[h]-self.personImg.get_height()))
+                self.screen.blit(self.explosionImgs[i//10], (pos[w]-self.personImg.get_width()//2, pos[h]-2*self.personImg.get_height()))
                 self.setGameParam("explosion_current_idx", i+1)
 
         # Move projectile along trajectory
@@ -183,6 +183,42 @@ class Game:
                 # Render projectile image
                 self.screen.blit(rotPersonImg, rotPersonPos)
 
+                # Render velocity arrows
+                if self.getGameParam("enableVelocityArrows"):
+                    signum = lambda x: 1 if x > 0 else -1 if x < 0 else 0
+                    pygame.draw.polygon( # vel_x
+                        self.screen,
+                        (0,0,255),
+                        tuple(map(
+                            lambda t: (t[0]+rotPersonPos.centerx, t[1]+rotPersonPos.centery),
+                            (
+                                (0,0),
+                                (vx//5,0),
+                                (vx//5,5),
+                                (vx//5+signum(vx)*5*2/3**0.5,0),
+                                (vx//5,-5),
+                                (vx//5,0)
+                            )
+                        )),
+                        width=4
+                    )
+                    pygame.draw.polygon( # vel_y
+                        self.screen,
+                        (255,0,0),
+                        tuple(map(
+                            lambda t: (t[0]+rotPersonPos.centerx, t[1]+rotPersonPos.centery),
+                            (
+                                (0,0),
+                                (0,-vy//5),
+                                (5,-vy//5),
+                                (0,-(vy//5+signum(vy)*5*2/3**0.5)),
+                                (-5,-vy//5),
+                                (0,-vy//5),
+                            )
+                        )),
+                        width=4
+                    )
+
     def drawEnvironment(self):
         # Background
         self.screen.fill((255,255,255))
@@ -224,30 +260,46 @@ class Game:
         clock = pygame.time.Clock()
 
         # GUI controls
+        # Run button
         runSimButton = Button(self.screen, 12, 12, 144, 36,
                             text="Run simulation", fontSize=24, textColour=(255,255,255),
                             inactiveColour=(40,80,120),
                             onClick=lambda: self.setGameParam("run_sim", True))                            
+        
+        # Launch velocity
         launchVelocitySlider = Slider(self.screen, 24, Game.SCREEN_DIMENSIONS[h]+24, 144, 28,
                             min=0, max=1000, step=10, initial=400)
         launchVelocityText = TextBox(self.screen, 16, Game.SCREEN_DIMENSIONS[h]+68, 160, 36, fontSize=24, borderThickness=1)
         launchVelocityText.disable()
+
+        # Launch angle
         launchAngleSlider = Slider(self.screen, 24+180, Game.SCREEN_DIMENSIONS[h]+24, 144, 28,
                             min=0, max=90, step=1, initial=45)
         launchAngleText = TextBox(self.screen, 16+180, Game.SCREEN_DIMENSIONS[h]+68, 160, 36, fontSize=24, borderThickness=1)
         launchAngleText.disable()
+
+        # Gravity
         gravitySlider = Slider(self.screen, 24+360, Game.SCREEN_DIMENSIONS[h]+24, 144, 28,
-                            min=0, max=1000, step=10, initial=500)
+                            min=10, max=1000, step=10, initial=500)
         gravityText = TextBox(self.screen, 16+360, Game.SCREEN_DIMENSIONS[h]+68, 160, 36, fontSize=24, borderThickness=1)
         gravityText.disable()
+
+        # Cliff width
         cliffWidthSlider = Slider(self.screen, 24+540, Game.SCREEN_DIMENSIONS[h]+24, 144, 28,
                             min=self.cannonImg.get_width(), max=Game.SCREEN_DIMENSIONS[w]//2, step=10, initial=self.getGameParam("cliff_dimensions")[w])
         cliffWidthText = TextBox(self.screen, 16+540, Game.SCREEN_DIMENSIONS[h]+68, 160, 36, fontSize=24, borderThickness=1)
         cliffWidthText.disable()
+
+        # Cliff height
         cliffHeightSlider = Slider(self.screen, 24+720, Game.SCREEN_DIMENSIONS[h]+24, 144, 28,
                             min=self.cannonImg.get_height(), max=Game.SCREEN_DIMENSIONS[w]//2, step=10, initial=self.getGameParam("cliff_dimensions")[h])
         cliffHeightText = TextBox(self.screen, 16+720, Game.SCREEN_DIMENSIONS[h]+68, 160, 36, fontSize=24, borderThickness=1)
         cliffHeightText.disable()
+
+        # Velocity arrows toggle
+        velocityArrowsToggle = Toggle(self.screen, 24+900, Game.SCREEN_DIMENSIONS[h]+24, 40, 28)
+        velocityArrowsText = TextBox(self.screen, 16+900, Game.SCREEN_DIMENSIONS[h]+68, 160, 36, fontSize=18, borderThickness=1)
+        velocityArrowsText.disable()
 
         while self.getGameParam("PROGRAM_RUNNING"):
             tick = pygame.time.get_ticks()
@@ -270,6 +322,8 @@ class Game:
             self.setGameParam("cliff_dimensions", (cliffWidthSlider.getValue(), cliffHeightSlider.getValue()))
             cliffWidthText.setText(f"{cliffWidthSlider.getValue()} px cliff width")
             cliffHeightText.setText(f"{cliffHeightSlider.getValue()} px cliff height")
+            self.setGameParam("enableVelocityArrows", velocityArrowsToggle.getValue())
+            velocityArrowsText.setText(f"Show vel arrows: {velocityArrowsToggle.getValue()}")
 
             # Update projectile position
             if self.getGameParam("run_sim"):
