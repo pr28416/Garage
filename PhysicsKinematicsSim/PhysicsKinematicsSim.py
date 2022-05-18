@@ -58,6 +58,7 @@ class Game:
         pygame.init()
         self.screen = pygame.display.set_mode((Game.SCREEN_DIMENSIONS[w]+Game.SIDE_PALETTE_WIDTH, Game.SCREEN_DIMENSIONS[h]+Game.BOTTOM_PALETTE_HEIGHT))
         # Load images
+        self.backdrop = pygame.image.load("backdrop.jpeg")
         self.personImg = pygame.image.load("person.png")
         self.personImg = pygame.transform.scale(self.personImg, (self.personImg.get_width()//8, self.personImg.get_height()//8))
         self.cannonImg = pygame.image.load("cannon1.png")
@@ -221,7 +222,8 @@ class Game:
 
     def drawEnvironment(self):
         # Background
-        self.screen.fill((255,255,255))
+        # self.screen.fill((255,255,255))
+        self.screen.blit(self.backdrop, (0,0))
 
         # Cliff
         cliff = pygame.Rect(0, Game.SCREEN_DIMENSIONS[h]-(self.getGameParam("cliff_dimensions")[h]-self.cannonImg.get_height()+10), *self.getGameParam("cliff_dimensions"))
