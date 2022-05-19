@@ -1,11 +1,3 @@
-"""
-TODO:
-- Add ability to view velocity and acceleration arrows at each position during a simulation
-"""
-
-
-from curses.textpad import Textbox
-from turtle import heading
 import pygame, math
 import pygame_widgets
 from pygame_widgets.button import Button
@@ -50,7 +42,7 @@ class Game:
     # Game constants
     SCREEN_DIMENSIONS = (1080,720) # width x height
     BOTTOM_PALETTE_HEIGHT = 120
-    SIDE_PALETTE_WIDTH = 200
+    SIDE_PALETTE_WIDTH = 0
     MAX_FRAMERATE = 60 # fps
 
     def __init__(self):
@@ -269,7 +261,7 @@ class Game:
         runSimButton = Button(self.screen, 12, 12, 144, 36,
                             text="Run simulation", fontSize=24, textColour=(255,255,255),
                             inactiveColour=(40,80,120),
-                            onClick=lambda: self.setGameParam("run_sim", True))                            
+                            onClick=lambda: self.setGameParam("run_sim", True))
         
         # Launch velocity
         launchVelocitySlider = Slider(self.screen, 24, Game.SCREEN_DIMENSIONS[h]+24, 144, 28,
