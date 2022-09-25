@@ -1,0 +1,16 @@
+hamburger 3.50
+hotdog 3.00
+tunamelt 5.00
+chicken 7.50
+pizza 6.75
+wings 4.50
+fries 2.50
+chips 1.50
+fruit 1.25
+salad 3.75
+pie 4.00
+icecream 3.25
+soda 1.50
+milk 1.00
+juice 1.80
+water 0.00
