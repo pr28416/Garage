@@ -1,6 +1,3 @@
-from contextlib import nullcontext
-
-
 class ListNode:
     def __init__(self, val=0, next=None):
         self.val = val
@@ -13,6 +10,9 @@ class ListNode:
             arr.append(head.val)
             head = head.next
         return f'[{", ".join(list(map(str, arr)))}]'
+
+    def __repr__(self):
+        return f'<ListNode v: {self.val}, hasNext: {self.next is not None}>'
 
 def listgen(arr):
     head = ListNode()
@@ -36,15 +36,14 @@ def removeDups(head):
     return head
 
 def kthToLast(head, k):
-    n = 0
-    trav = head
-    while trav:
-        n += 1
-        trav = trav.next
-    trav = head
-    for _ in range(n-k):
-        trav = trav.next
-    return trav
+    p1, p2 = head, head
+    for _ in range(k):
+        if not p2: return None
+        p2 = p2.next
+    while p2:
+        p1 = p1.next
+        p2 = p2.next
+    return p1
 
 def deleteMiddleNode(middle):
     trav = middle
@@ -103,7 +102,30 @@ def checkPalindrome(head):
     trav = head
     while trav or prev:
         if not (trav and prev) or trav.val != prev.val: return False
+        trav = trav.next
+        prev = prev.next
     return True
+
+def intersection(one, two):
+    st = set()
+    trav = one
+    while trav:
+        st.add(trav)
+        trav = trav.next
+    trav = two
+    while trav:
+        if trav in st: return True
+        trav = trav.next
+    return False
+
+def loopDetection(head):
+    st = set()
+    trav = head
+    while trav:
+        if trav in st: return trav
+        st.add(trav)
+        trav = trav.next
+    return head
 
 if __name__ == '__main__':
     # head = ListNode(1, ListNode(2, ListNode(3, ListNode(2, ListNode(5)))))
@@ -123,6 +145,8 @@ if __name__ == '__main__':
     # print(head)
     # head = listgen([1,2,3,4,5])
     # print(*[kthToLast(head, i).val for i in range(1, 6)])
+    # head = listgen([1,2])
+    # print(*[repr(kthToLast(head, i)) for i in range(1, 6)])
     # head = listgen([1,2,3,4,5])
     # deleteMiddleNode(head.next.next.next)
     # print(head)
@@ -134,8 +158,20 @@ if __name__ == '__main__':
     # one = listgen([6,1,7])
     # two = listgen([2,9,5])
     # print(sumLists(one, two))
-    print(checkPalindrome(listgen([1,2,3,2,1])))
-    print(checkPalindrome(listgen([1,2,3,2,2])))
-    print(checkPalindrome(listgen([1,2,1])))
-    print(checkPalindrome(listgen([1])))
-    print(checkPalindrome(listgen([2,2,1])))
+    # print(checkPalindrome(listgen([1,2,3,2,1])))
+    # print(checkPalindrome(listgen([1,2,3,2,2])))
+    # print(checkPalindrome(listgen([1,2,1])))
+    # print(checkPalindrome(listgen([1])))
+    # print(checkPalindrome(listgen([2,2,1])))
+    # print(checkPalindrome(listgen([2,2])))
+    # intersect = listgen([5,6,7])
+    # one = listgen([1,0])
+    # one.next.next = intersect
+    # two = listgen([2,3,4])
+    # two.next.next.next = intersect
+    # print(intersection(one, two))
+    one = listgen(['A','B'])
+    loop = listgen(['C','D','E'])
+    loop.next.next.next = loop
+    one.next = loop
+    print(repr(loopDetection(one)))
