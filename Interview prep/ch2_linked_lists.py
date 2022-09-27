@@ -1,3 +1,6 @@
+from contextlib import nullcontext
+
+
 class ListNode:
     def __init__(self, val=0, next=None):
         self.val = val
@@ -91,6 +94,17 @@ def sumLists(one, two):
         sm.next = ListNode(carry)
     return hd.next
 
+def checkPalindrome(head):
+    trav = head
+    prev = None
+    while trav:
+        prev = ListNode(trav.val, prev)
+        trav = trav.next
+    trav = head
+    while trav or prev:
+        if not (trav and prev) or trav.val != prev.val: return False
+    return True
+
 if __name__ == '__main__':
     # head = ListNode(1, ListNode(2, ListNode(3, ListNode(2, ListNode(5)))))
     # removeDups(head)
@@ -114,9 +128,14 @@ if __name__ == '__main__':
     # print(head)
     # head = listgen([3,5,8,5,10,2,1])
     # print(partition(head, 5))
-    one = listgen([7,1,6])
-    two = listgen([5,9,2])
-    print(sumLists(one, two))
-    one = listgen([6,1,7])
-    two = listgen([2,9,5])
-    print(sumLists(one, two))
+    # one = listgen([7,1,6])
+    # two = listgen([5,9,2])
+    # print(sumLists(one, two))
+    # one = listgen([6,1,7])
+    # two = listgen([2,9,5])
+    # print(sumLists(one, two))
+    print(checkPalindrome(listgen([1,2,3,2,1])))
+    print(checkPalindrome(listgen([1,2,3,2,2])))
+    print(checkPalindrome(listgen([1,2,1])))
+    print(checkPalindrome(listgen([1])))
+    print(checkPalindrome(listgen([2,2,1])))
