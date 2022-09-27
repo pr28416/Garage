@@ -7,7 +7,19 @@ def isUnique(s):
     return True
 
 def checkPermutation(str1, str2):
-    return sorted(str1) == sorted(str2)
+    if len(str1) != len(str2): return False
+    mp = {}
+    for c in str1:
+        if c in mp: mp[c] += 1
+        else: mp[c] = 1
+    for c in str2:
+        if c in mp:
+            mp[c] -= 1
+            if mp[c] < 0: return False
+        else: return False
+    return True
+
+    # return sorted(str1) == sorted(str2)
 
 def urlify(s, n):
     return "%20".join(s.split(" "))
@@ -66,6 +78,30 @@ def rotateMatrix(matrix):
 def printMatrix(matrix):
     for row in matrix: print(*row, sep="\t")
 
+def zeroMatrix(matrix):
+    rowVisited = [0] * len(matrix)
+    colVisited = [0] * len(matrix[0])
+    for m in range(len(matrix)):
+        for n in range(len(matrix[m])):
+            if matrix[m][n] == 0:
+                rowVisited[m] = colVisited[n] = 1
+    for m in range(len(matrix)):
+        if rowVisited[m]:
+            for n in range(len(matrix[m])):
+                matrix[m][n] = 0
+    for n in range(len(matrix[0])):
+        if colVisited[n]:
+            for m in range(len(matrix)):
+                matrix[m][n] = 0
+
+def isSubstring(sub, word):
+    for i in range(len(word)-len(sub)+1):
+        if word[i:i+len(sub)] == sub: return True
+    return False
+
+def stringRotation(s1, s2):
+    return isSubstring(s1, s2+s2)
+
 
 if __name__ == "__main__":
     # print(isUnique("abcdef"))
@@ -87,4 +123,15 @@ if __name__ == "__main__":
     # print(stringCompression("a"))
     # print(stringCompression("aaa"))
     # print(stringCompression("aaab"))
-    printMatrix(rotateMatrix([[1,2,3,4],[5,6,7,8],[9,10,11,12],[13,14,15,16]]))
+    # printMatrix(rotateMatrix([[1,2,3,4],[5,6,7,8],[9,10,11,12],[13,14,15,16]]))
+    # mx = [
+    #     [1,2,0,3],
+    #     [4,0,5,6],
+    #     [7,8,9,10],
+    #     [11,12,13,14]
+    # ]
+    # zeroMatrix(mx)
+    # printMatrix(mx)
+    print(stringRotation("erbottlewat", "waterbottle"))
+    print(stringRotation("abcde", "eabcd"))
+    print(stringRotation("abcde", "eabc"))
