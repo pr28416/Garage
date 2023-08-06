@@ -1,0 +1,500 @@
+
+
+
+
+
+
+
+
+
+
+About CS :: Harvard CS Concentration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ CS Undergrad Advising
+
+
+
+
+
+
+
+          FAQ
+          
+      
+
+
+
+          First-Year Exploration
+          
+      
+
+
+
+          Sophomore Advising
+          
+      
+
+
+
+          Concentration
+          
+      
+
+
+
+        Degree programs
+        
+        
+
+
+
+        Declaring CS concentration
+        
+        
+
+
+
+        Joint, double and combined concentrations
+        
+        
+
+
+
+        Honors
+        
+        
+
+
+
+          Concentration Requirements
+          
+      
+
+
+
+        Old Requirements
+        
+        
+
+
+
+        Comparison
+        
+        
+
+
+
+
+
+          Courses
+          
+      
+
+
+
+        Sample schedules and plans of study
+        
+        
+
+
+
+        Tags for computer science courses
+        
+        
+
+
+
+
+
+        Study abroad
+        
+        
+
+
+
+        Cross-registering at MIT
+        
+        
+
+
+
+
+
+          Secondary Field
+          
+      
+
+
+
+          Advising
+          
+      
+
+
+
+          Peer Concentration Advisors
+          
+      
+
+
+
+
+
+          Research
+          
+      
+
+
+
+        CS91r
+        
+        
+
+
+
+        Senior Thesis
+        
+        
+
+
+
+
+
+          Get Involved
+          
+      
+
+
+
+        Teaching and advising
+        
+        
+
+
+
+        Alex Patel Fellowship
+        
+        
+
+
+
+        Clubs and Activities
+        
+        
+
+
+
+        Entrepreneurship
+        
+        
+
+
+
+
+
+          Resources
+          
+      
+
+
+
+        How to Succeed in CS Courses
+        
+        
+
+
+
+
+
+          Diversity in CS
+          
+      
+
+
+
+          Forms
+          
+      
+
+
+
+          About CS
+          
+      
+
+
+
+        Careers of alumni
+        
+        
+
+
+
+        CS and Society
+        
+        
+
+
+
+        Curriculum Committee
+        
+        
+
+
+
+
+
+          Contact
+          
+      
+
+
+
+More
+
+
+ Courses
+
+
+ Course Tags
+
+
+ Accessibility
+
+
+
+
+
+
+
+
+
+
+Academics
+
+
+Computer Science
+
+
+
+
+
+
+
+
+
+
+ navigation
+                        
+
+
+
+Harvard Computer Science > About CS
+          
+        
+          
+        
+                 
+                  
+
+
+
+
+
+What is computer science?
+What is CS… Not?
+What will I learn in Computer Science?
+Why study CS at Harvard?
+What’s different about pursuing CS in a liberal arts setting?
+What are some good courses for those who are considering concentrating?
+
+
+
+
+
+
+
+
+
+
+              
+              About CS
+            
+What is computer science?
+We like to say that CS teaches you how to think more methodically and
+how to solve problems more effectively. As such, its lessons are
+applicable well beyond the boundaries of CS itself.
+But CS is also, more generally, the study of information. How do you
+represent it? With what methods (aka algorithms) can you process it?
+Perhaps the most liberal answer, though, is that CS “has no exclusive
+domain of its own, and that its importance comes from the problems to
+which it is applied.” And therein lies the excitement. CS empowers you
+with tools and ideas that can be applied to practically any domain of
+interest to you, both in college and beyond.
+What is CS… Not?
+Contrary to popular belief, CS is not really about programming, even
+though you do learn how to program. Programming languages are tools that
+Computer Scientists use or create in order to solve problems of interest
+to them.
+What will I learn in Computer Science?
+The Computer Science concentration has the following learning outcomes for our graduates:
+
+students will design and code correct solutions to problems;
+design and reason about algorithms;
+and develop and analyze the ways computation interacts with other systems.
+
+Academic computer science extends far beyond programming (though it does include
+programming). It provides students with a foundational understanding of the strengths and
+limitations of information and computation. This perspective is practically important—it helps
+students quickly adapt to new computational systems and approaches. It has also been
+increasingly revealed as a beautiful way to understand the world.
+Why study CS at Harvard?
+“Think of your freedom of choice - of what courses to take, of how to
+spend your Sunday afternoons, whatever - as a commodity that is precious
+in and of itself. It’s your life, even at Harvard: enjoy it”
+
+Harry Lewis, Gordon McKay Professor of Computer Science
+
+At Harvard, computer science is part of a dynamic hub that links to
+fields such as electrical engineering, physics, chemistry, and biology,
+and to professions such as medicine and business.
+You could see the field as the “planning and building” that fosters the
+sciences and engineering throughout the campus and informs our digital
+society. The computer industry - in fact, every part of our society and
+every type of business - needs a generation of skilled individuals who
+possess a new way of thinking, a new way of approaching research, and a
+new way of doing business.
+ That means …
+
+deploying digital sensors to monitor everything from earthquakes to
+heartbeats
+modeling the way the brain works or how global weather patterns
+develop
+mining the data from the Human Genome Project to tackle disease 
+translating radio signals to understand the nature of distant
+planets and galaxies
+creating algorithms that automate e-commerce and make buying and
+selling online a breeze
+applying technology to solve public issues ranging from e-voting to
+privacy and security to cyber law.
+
+What’s different about pursuing CS in a liberal arts setting?
+What our computer science faculty do, you can do. We emphasize a
+hands-on, immersive approach.
+
+Being at Harvard provides unmatched opportunities to use the latest
+tools and technologies, such as grid computing; learn about
+cutting-edge research, from cryptography to sensor motes; and meet
+world-class thinkers and leaders.
+Entrepreneurship goes beyond theory - Harvard students have created
+world-class companies such as Microsoft, and most recently,
+undergraduate Mark Zuckerberg made facebooking part of the nation’s
+vocabulary.
+Computer science is part of a dynamic hub that links to fields such
+as electrical engineering, physics, chemistry, and biology, and to
+professions such as medicine and business.
+If you would like a preview of some of Harvard’s offerings in
+computer science watch the CS 50 videos.
+
+What are some good courses for those who are considering concentrating?
+Computer Science 50: Introduction to Computer
+Science provides an excellent starting point.
+Many non-concentrators take CS 50 as a way to learn to think logically
+and use computers effectively. If you have completed CS 50 or a similar course prior to arriving at Harvard, CS 61: Systems Programming and Machine Organization
+is a good choice for the fall. If you have a strong background in both
+math and computer science, you may also start with CS 121: Introduction to Theoretical Computer Science.
+In the Spring, CS51: Abstraction and Design in Computation and CS20: Discrete Mathematics for Computer Science are both excellent courses for students interested in CS.
+See  the FAQ and concentration plans of studies  for more  information.
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Harvard John A. Paulson School of Engineering and Applied Sciences
+
+
+
+
+© 2023 President and Fellows of Harvard College
+
+Accessibility | Trademark Notice | Privacy Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

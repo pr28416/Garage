@@ -1,0 +1,503 @@
+
+
+
+
+
+
+
+
+
+
+Degree programs :: Harvard CS Concentration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ CS Undergrad Advising
+
+
+
+
+
+
+
+          FAQ
+          
+      
+
+
+
+          First-Year Exploration
+          
+      
+
+
+
+          Sophomore Advising
+          
+      
+
+
+
+          Concentration
+          
+      
+
+
+
+        Degree programs
+        
+        
+
+
+
+        Declaring CS concentration
+        
+        
+
+
+
+        Joint, double and combined concentrations
+        
+        
+
+
+
+        Honors
+        
+        
+
+
+
+          Concentration Requirements
+          
+      
+
+
+
+        Old Requirements
+        
+        
+
+
+
+        Comparison
+        
+        
+
+
+
+
+
+          Courses
+          
+      
+
+
+
+        Sample schedules and plans of study
+        
+        
+
+
+
+        Tags for computer science courses
+        
+        
+
+
+
+
+
+        Study abroad
+        
+        
+
+
+
+        Cross-registering at MIT
+        
+        
+
+
+
+
+
+          Secondary Field
+          
+      
+
+
+
+          Advising
+          
+      
+
+
+
+          Peer Concentration Advisors
+          
+      
+
+
+
+
+
+          Research
+          
+      
+
+
+
+        CS91r
+        
+        
+
+
+
+        Senior Thesis
+        
+        
+
+
+
+
+
+          Get Involved
+          
+      
+
+
+
+        Teaching and advising
+        
+        
+
+
+
+        Alex Patel Fellowship
+        
+        
+
+
+
+        Clubs and Activities
+        
+        
+
+
+
+        Entrepreneurship
+        
+        
+
+
+
+
+
+          Resources
+          
+      
+
+
+
+        How to Succeed in CS Courses
+        
+        
+
+
+
+
+
+          Diversity in CS
+          
+      
+
+
+
+          Forms
+          
+      
+
+
+
+          About CS
+          
+      
+
+
+
+        Careers of alumni
+        
+        
+
+
+
+        CS and Society
+        
+        
+
+
+
+        Curriculum Committee
+        
+        
+
+
+
+
+
+          Contact
+          
+      
+
+
+
+More
+
+
+ Courses
+
+
+ Course Tags
+
+
+ Accessibility
+
+
+
+
+
+
+
+
+
+
+Academics
+
+
+Computer Science
+
+
+
+
+
+
+
+
+
+
+ navigation
+                        
+
+
+
+Harvard Computer Science > Concentration > Degree programs
+          
+        
+          
+        
+          
+        
+                 
+                  
+
+
+
+
+
+Basic A.B. Program
+Honors A.B. Program
+Joint Concentration
+
+
+
+
+A.B.–S.M. Options
+
+
+
+
+
+
+
+
+
+
+              
+              Degree programs
+            
+The Computer Science curriculum is designed to offer students a great
+deal of flexibility — with time for related study and for outside
+opportunities, from sports to clubs to hobbies.
+You can combine your studies with other fields, including mathematics,
+physics, economics, psychology, and linguistics.
+All undergraduates in Computer Science at Harvard are candidates for the
+Bachelor of Arts degree (A.B.). With the knowledge that it requires extra course work, you can consider the more intensive A.B.–S.M. option through a concurrent masters degree.
+See the Resources page for more guides and information about the program.
+Basic A.B. Program
+The basic degree requirements are eleven to fourteen 4-credit courses in mathematics,
+theoretical computer science, computer software, and other areas of
+computer science. Math courses cover linear algebra, single variable calculus and probability/statistics.
+Students who place out of part or all of the introductory calculus
+sequence, Mathematics 1ab, reduce their concentration requirements to 11 courses.
+Courses in theoretical computer science cover formal models of
+computation and algorithm design. Courses in computer software include the introductory sequence and courses on systems programming. Courses in other areas include courses such as computation in the world. In order to ensure
+breadth in the program, a plan of study must include courses in
+different subfields of computer science.
+See the Computer Science handbook entry for
+full details. The Plan of Study form is also a useful tool to
+help understand the course requirements.
+Honors A.B. Program
+There are two types of honors for undergraduates: Latin honors (summa,
+magna, cum laude) are determined by the College and English honors
+(highest honors, high honors, honors) are determined by
+concentrations.  (See this page for more information
+about requirements for Latin honors.)
+To receive English honors in Computer Science, students must have a high
+grade point average and must also fulfill a more demanding course
+program than the basic program. There are several honors tracks within
+Computer Science:
+
+
+The standard honors program requires 13-16 courses
+instead of 11-14. The honors program also requires greater breadth
+within Computer Science (see this table as well as the handbook entry
+for the details).
+
+
+Joint Concentrations and the Mind, Brain, and Behavior
+Program are also part of the honors track.
+
+
+All levels of English honors in Computer Science are decided individually by vote of the Computer Science faculty based on the
+student’s academic and scientific achievements.
+For high honors and highest honors a (strong) thesis is required as well.
+English honors requirements: Ordinarily, honors in
+Computer Science requires a concentration GPA of at least 3.5 in the
+courses on the student’s Computer Science study plan; high honors in
+Computer Science requires a concentration GPA of at least 3.75 and an
+excellent thesis; and highest honors in Computer Science requires a
+concentration GPA of at least 3.85 and an outstanding thesis.
+Joint Concentration
+Students with serious interests in both computer science and another
+concentration may pursue a joint concentration in these fields. A joint
+concentration is not a “double major”: the two fields must overlap in a way
+that will enable the candidate to write a senior thesis acceptable to both
+departments. Joint concentrations are honors track programs.
+
+More on joint concentrations
+
+The Mind, Brain, and Behavior Program
+Students interested in addressing questions of neuroscience and cognition from
+the perspective of computer science may pursue a special program of study
+affiliated with the University-wide Mind, Brain, and Behavior
+Initiative.
+
+More on the MBB track
+
+A.B.–S.M. Options
+Students who are eligible for Advanced Standing on the basis of A.P. tests before entering Harvard may be able to apply for admission to the S.M. program of the Graduate School of Arts and Sciences and graduate in four years with both a bachelor’s and master’s degree (not necessarily in the same field).
+Beginning with the class of 2022, students have the opportunity to apply to the Graduate School of Arts and Sciences for a master’s degree pursued concurrently with the bachelor’s degree. As part of the concurrent degree program, students will be allowed to double-count up to sixteen credits (normally, four courses) for the Bachelor of Arts and the Master of Science. An undergraduate pursuing the concurrent degree must complete both of these degrees by the end of eight terms of residency, or the equivalent.
+Students eligible for Advanced Standing may not pursue a Concurrent Masters (they must activate Advanced Standing and follow the requirements for Advanced Standing). Please contact the Office of Undergraduate Education if you have questions about this policy.
+More information about the Concurrent Masters and Advanced Standing programs at Harvard is available from the Office of Undergraduate Education. Students should consult both the Director of Undergraduate Studies and their Allston Burr Resident Dean about the advisability of pursuing these options, which are very demanding and may preclude other educational opportunities.
+Information about applying to the A.B.–S.M. program
+The Undergraduate advising team cannot advise on what courses may count for the graduate degree.
+Final approval of courses that may be counted towards a SEAS graduate degree are the purview of the SEAS Committee on Higher Degrees (CHD), which is a body composed of faculty from across the school. Any student seeking a graduate degree from SEAS must submit a proposed course list (the “Program Plan”) for review by the CHD for adherence to the stated degree requirements:
+
+General SM degree requirements
+Area-specific degree requirements
+
+Exceptions to those requirements may only be granted by the CHD, following a written petition.
+This means that, aside from specific courses stated in an area’s degree requirements, no course can be guaranteed to count for the degree until the CHD has reviewed the course in the context of a Program Plan. Program Plans from College students may only be submitted to the CHD after the student has been admitted to the AB/SM program and has been assigned an SM advisor.
+Prior to being admitted to the AB/SM program, students with questions about which courses may fulfill SM degree requirements should carefully review the links above. Please contact Abby Rahn abbyrahn@seas.harvard.edu with further questions.
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Harvard John A. Paulson School of Engineering and Applied Sciences
+
+
+
+
+© 2023 President and Fellows of Harvard College
+
+Accessibility | Trademark Notice | Privacy Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

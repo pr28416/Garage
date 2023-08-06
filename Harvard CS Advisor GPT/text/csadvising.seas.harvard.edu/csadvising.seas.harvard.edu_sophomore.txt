@@ -1,0 +1,476 @@
+
+
+
+
+
+
+
+
+
+
+Sophomore Advising :: Harvard CS Concentration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ CS Undergrad Advising
+
+
+
+
+
+
+
+          FAQ
+          
+      
+
+
+
+          First-Year Exploration
+          
+      
+
+
+
+          Sophomore Advising
+          
+      
+
+
+
+          Concentration
+          
+      
+
+
+
+        Degree programs
+        
+        
+
+
+
+        Declaring CS concentration
+        
+        
+
+
+
+        Joint, double and combined concentrations
+        
+        
+
+
+
+        Honors
+        
+        
+
+
+
+          Concentration Requirements
+          
+      
+
+
+
+        Old Requirements
+        
+        
+
+
+
+        Comparison
+        
+        
+
+
+
+
+
+          Courses
+          
+      
+
+
+
+        Sample schedules and plans of study
+        
+        
+
+
+
+        Tags for computer science courses
+        
+        
+
+
+
+
+
+        Study abroad
+        
+        
+
+
+
+        Cross-registering at MIT
+        
+        
+
+
+
+
+
+          Secondary Field
+          
+      
+
+
+
+          Advising
+          
+      
+
+
+
+          Peer Concentration Advisors
+          
+      
+
+
+
+
+
+          Research
+          
+      
+
+
+
+        CS91r
+        
+        
+
+
+
+        Senior Thesis
+        
+        
+
+
+
+
+
+          Get Involved
+          
+      
+
+
+
+        Teaching and advising
+        
+        
+
+
+
+        Alex Patel Fellowship
+        
+        
+
+
+
+        Clubs and Activities
+        
+        
+
+
+
+        Entrepreneurship
+        
+        
+
+
+
+
+
+          Resources
+          
+      
+
+
+
+        How to Succeed in CS Courses
+        
+        
+
+
+
+
+
+          Diversity in CS
+          
+      
+
+
+
+          Forms
+          
+      
+
+
+
+          About CS
+          
+      
+
+
+
+        Careers of alumni
+        
+        
+
+
+
+        CS and Society
+        
+        
+
+
+
+        Curriculum Committee
+        
+        
+
+
+
+
+
+          Contact
+          
+      
+
+
+
+More
+
+
+ Courses
+
+
+ Course Tags
+
+
+ Accessibility
+
+
+
+
+
+
+
+
+
+
+Academics
+
+
+Computer Science
+
+
+
+
+
+
+
+
+
+
+ navigation
+                        
+
+
+
+Harvard Computer Science > Sophomore Advising
+          
+        
+          
+        
+                 
+                  
+
+
+
+
+
+Information about the CS concentration for sophomores
+CS Courses for sophomores
+
+Fall term
+Spring term
+
+
+
+
+
+
+
+
+
+
+
+
+              
+              Sophomore Advising
+            
+CS will host a sophomore course advising event on Thursday January 19th from 5-6pm in the LL2 Atrium of the SEC. This is your last chance to get a Crimson Cart signed without your advisor.
+
+Information about the CS concentration for sophomores
+We are happy you are considering CS as a concentration!
+Computer Science is open to everyone. For example, two thirds of CS 50 students did not have any CS background before joining Harvard, and many of our concentrators only take their first CS course in their sophomore year.
+There are many aspects to computer science, and many ways to combine it with other interests, including the natural, life,  and social sciences, humanities and more.  For example, see senior theses on the interface of CS and Art, Biology (see also this), Economics (see also this),
+English, Environmental preservation, Government, Law, Mathematics, Neuroscience,  Philosophy (see also this), Physics, Statistics, and Women and Gender Studies.
+Some centers, activities and institutes affiliated with Computer Science include:
+
+
+The Center for Research on Computation and Society.
+
+
+The Kempner Institute for the study of Natural and Artificial Intelligence.
+
+
+The Harvard Quantum Initiative.
+
+
+The Embedded Ethics Program.
+
+
+The Harvard Data Science Initiative.
+
+
+The Berkman Klein Center for Internet and Society.
+
+
+If you are interested in concentrating or doing a secondary in Computer Science, we highly recommend that you read our FAQ.
+Please also take a look at the list of our peer concentration advisors and consider reaching out to one of them for more personal information. We recommend all concentrators and CS-interested students at Harvard join the Harvard CS Undergraduate Piazza board.
+Finally, you might consider joining one of the many clubs and societies affiliated with computer science.
+
+CS Courses for sophomores
+If you didn’t take CS 20, CS 50, or Linear Algebra your first year, it is absolutely not too late to concentrate in CS! However, in such a case we strongly recommend taking them your sophomore year if you are interested in concentrating in CS. (See our first year recommendations.)  If you’ve taken these courses, or don’t need them, the following courses are good next steps:
+Fall term
+Please note that it is not required or even recommended that students take CS 61, CS 120 or 121, and Stat 110 all in one semester. Each of those courses has a relatively heavy workload, so most students choose to take exactly two of them at once. All these courses open doors to a few later courses, so take whichever one(s) whose follow-ups you think you’re more likely to want to pursue later.
+
+
+CS 61: Systems Programming and Machine Organization  CS 61 is a great course on systems programming.  This course fulfills both the programming 2 and systems tags. It’s reasonably common to take both CS 51 and CS 61.
+
+See CS 61 Problem Set Zero to get a sense of whether your background is sufficient for this course.
+Professor Mike Smith created tutorials to help students transition from CS 32 to CS 61 (Python to C++), and these could also be helpful for transitioning from CS 50 to 61. This link will invite you to join the “CS help” Team under the “Harvard University” organization. This Team is set up to not collect any personal information at account creation.
+
+
+
+CS 120: Introduction to Algorithms and their Limitations and/or CS 121: Introduction to Theoretical Computer Science  Students who took CS 20 should be prepared for CS 120/121, but you can always check your mathematical preparation for them. Both courses fulfill the Computational Limitations tag and one formal reasoning tag for the CS concentration requirements; CS 120 also fulfills the Algorithms tag for basic (not honors) concentrations. See CS 120 Homework Zero and/or CS 121 Homework Zero to get a sense of whether your background is sufficient for these courses. See also this FAQ about the similarities and differences between CS 120, 121, and 124.
+
+
+Stat 110: Probability is not a CS class, but probability is required for all concentrators. ES 150, offered in the spring, is an alternative, but most students choose Stat 110.
+
+
+Spring term
+
+
+CS 51: Abstraction and Design in Computation CS 51 is a great course on abstraction in programming. This course fulfills the programming2 tag. It’s reasonably common to take both CS 51 and CS 61.
+
+
+CS 124: Data Structures and Algorithms Students who took CS 20 should be prepared for CS 124, but you can always check your mathematical preparation for it.  This course fullfils the Algorithms or Advanced Algorithms tag (and a formal reasoning tag) for the CS concentration requirements.
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Harvard John A. Paulson School of Engineering and Applied Sciences
+
+
+
+
+© 2023 President and Fellows of Harvard College
+
+Accessibility | Trademark Notice | Privacy Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

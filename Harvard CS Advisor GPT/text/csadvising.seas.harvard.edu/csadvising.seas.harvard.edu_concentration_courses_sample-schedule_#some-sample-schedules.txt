@@ -1,0 +1,1110 @@
+
+
+
+
+
+
+
+
+
+
+Sample schedules and plans of study :: Harvard CS Concentration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ CS Undergrad Advising
+
+
+
+
+
+
+
+          FAQ
+          
+      
+
+
+
+          First-Year Exploration
+          
+      
+
+
+
+          Sophomore Advising
+          
+      
+
+
+
+          Concentration
+          
+      
+
+
+
+        Degree programs
+        
+        
+
+
+
+        Declaring CS concentration
+        
+        
+
+
+
+        Joint, double and combined concentrations
+        
+        
+
+
+
+        Honors
+        
+        
+
+
+
+          Concentration Requirements
+          
+      
+
+
+
+        Old Requirements
+        
+        
+
+
+
+        Comparison
+        
+        
+
+
+
+
+
+          Courses
+          
+      
+
+
+
+        Sample schedules and plans of study
+        
+        
+
+
+
+        Tags for computer science courses
+        
+        
+
+
+
+
+
+        Study abroad
+        
+        
+
+
+
+        Cross-registering at MIT
+        
+        
+
+
+
+
+
+          Secondary Field
+          
+      
+
+
+
+          Advising
+          
+      
+
+
+
+          Peer Concentration Advisors
+          
+      
+
+
+
+
+
+          Research
+          
+      
+
+
+
+        CS91r
+        
+        
+
+
+
+        Senior Thesis
+        
+        
+
+
+
+
+
+          Get Involved
+          
+      
+
+
+
+        Teaching and advising
+        
+        
+
+
+
+        Alex Patel Fellowship
+        
+        
+
+
+
+        Clubs and Activities
+        
+        
+
+
+
+        Entrepreneurship
+        
+        
+
+
+
+
+
+          Resources
+          
+      
+
+
+
+        How to Succeed in CS Courses
+        
+        
+
+
+
+
+
+          Diversity in CS
+          
+      
+
+
+
+          Forms
+          
+      
+
+
+
+          About CS
+          
+      
+
+
+
+        Careers of alumni
+        
+        
+
+
+
+        CS and Society
+        
+        
+
+
+
+        Curriculum Committee
+        
+        
+
+
+
+
+
+          Contact
+          
+      
+
+
+
+More
+
+
+ Courses
+
+
+ Course Tags
+
+
+ Accessibility
+
+
+
+
+
+
+
+
+
+
+Academics
+
+
+Computer Science
+
+
+
+
+
+
+
+
+
+
+ navigation
+                        
+
+
+
+Harvard Computer Science > Concentration > Courses > Sample schedules and plans of study
+          
+        
+          
+        
+          
+        
+          
+        
+                 
+                  
+
+
+
+
+
+
+
+First year
+Sophomore year
+
+
+Junior and senior year
+Some sample schedules
+
+Basic Plan
+Honors Plan
+Joint Concentrator
+Mind, Brain, Behavior Program
+
+
+
+
+
+
+
+
+
+
+
+
+              
+              Sample schedules and plans of study
+            
+Here are some suggested paths for the the Computer Science concentration based on the new (Fall 2021) concentration requirements. These are just examples: there are many possible pathways through the degree. Interested students should consult with the Director of Undergraduate Studies for guidance.
+We recommend students also look at our unofficial guides in the resources page, as well as talk to one of our peer concentration advisors.
+Plenty of other combinations are possible! 
+First year
+
+
+Fall: CS 50 (fulfills programming 1) and one of Applied Math 22a Solving and Optimizing or  Math 23a/22a/21b/25a/55a: Linear Algebra (fulfills linear algebra). (See this pamphlet by the math department on the difference between the various courses.)
+
+
+Spring:  CS 32 or CS 50 Spring if you did not take CS 50 in the fall. Otherwise, take CS 51 (fulfills programming 2). We also recommend to take  CS 20 (fulfills discrete mathematics and one of three formal reasoning courses).
+
+
+Notes:
+
+
+If you do not place out, you need to take Math Ma/Mb/1a/1b before linear algebra.
+
+
+If you have significant CS experience and decide to skip CS 50, you can take either CS 61, or CS 120/CS 121 (depending whether your strengths are more in systems programming or mathematics) in the fall.
+
+
+If you are  comfortable with mathematical proofs, you may be able to skip CS 20.  The CS 121 background page  can help you decide if that’s the case.
+
+
+You can also choose to take CS 61 as your second programming course in your sophomore fall, or defer CS 51 to sophomore spring.
+
+
+Sophomore year
+
+
+Fall: Take either CS 121 or CS 120. Both count as formal reasoning courses, and also fulfill the computational limitations tag. CS 120 also fulfills the algorithms tag. We also recommend students take STAT 110, which fulfills the statistics/probability tag.  Another potential course to take is CS 61 that fulfills the programming 2 and systems tags.
+
+
+Spring: CS 124 which counts as a formal reasoning course and also fulfills the intermediate algorithms tag. Intermediate algorithms is recommended for all concentrators, and is required for the honors track. You can also take CS 51  (if didn’t take it before)  or a different CS technical elective.
+
+
+Junior and senior year
+Take electives per your interests. You might also want to consider pursuing a research project via CS 91r. You can also explore taking courses at MIT that pique your interest.
+Some sample schedules
+Here are some example plans that  are meant to be examples of ways to meet the requirements. However, students do not have to follow any of these plans, and are free to make their own plan of study as long as it satisfies the requirements. None of the plans below requires more than two concentration courses per semester. With careful planning, a student can start in Math Ma and complete an honors plan with 2 concentration courses per semester.  For more examples, please check out our GoogleSheet. Each tab is a different plan (Basic, Honors, Joint, MBB). While we offer several examples, please know that you are welcome to speak with an advisor about your specific situation.
+Basic Plan
+A student who started at Math Ma and took an alternate on-ramp in CS (CS 1)
+
+
+
+Course
+Requirement Met
+Requirement Met
+Is Advanced CS?
+Semester #
+Semester
+Notes
+
+
+
+
+Math Ma
+Calculus
+
+
+1
+First year fall
+
+
+
+Math Mb
+Calculus
+
+
+2
+First year spring
+
+
+
+Math 1b
+Calculus
+
+
+3
+Sophomore Fall
+
+
+
+Math 21b
+Linear Algebra
+
+
+4
+Sophomore Spring
+
+
+
+Stat 110
+Probability
+
+
+5
+Junior Fall
+
+
+
+CS 50
+Programming 1
+
+
+3
+Sophomore Fall
+P/F or Sat/Unsat OK
+
+
+CS 51
+Programming 2
+
+
+6
+Junior Spring
+
+
+
+CS 20
+Formal Reasoning (Discrete Math)
+
+
+4
+Sophomore Spring
+
+
+
+CS 120
+Formal Reasoning (Computational Limitations)
+Formal Reasoning (Algorithms)
+Advanced Computer Science
+5
+Junior Fall
+
+
+
+CS 152
+Formal Reasoning
+
+Advanced Computer Science
+8
+Senior Spring
+
+
+
+CS 61
+Systems
+
+
+7
+Senior Fall
+
+
+
+CS 182
+Computation and the World
+
+Advanced Computer Science
+7
+Senior Fall
+
+
+
+CS 179
+
+
+Advanced Computer Science
+8
+Senior Spring
+P/F OK
+
+
+CS 1
+
+
+
+2
+First year spring
+P/F OK
+
+
+
+Honors Plan
+Student started in Math 1a
+
+
+
+Course
+Requirement Met
+Requirement Met
+Is Advanced CS?
+Semester #
+Semester
+Notes
+
+
+
+
+Math 1a
+Calculus
+
+
+1
+First Year Fall
+
+
+
+Math 1b
+Calculus
+
+
+2
+First Year Spring
+
+
+
+Math 21b
+Linear Algebra
+
+
+3
+Sophomore Fall
+
+
+
+Stat 110
+Probability
+
+
+5
+Junior Fall
+
+
+
+CS 50
+Programming 1
+
+
+1
+First Year Fall
+Sat/Unsat or P/F OK
+
+
+CS 51
+Programming 2
+
+
+2
+First Year Spring
+
+
+
+CS 20
+Formal Reasoning (Discrete Math)
+
+
+4
+Sophomore Spring
+
+
+
+CS 120
+Formal Reasoning (Computational Limitations)
+
+Advanced Computer Science
+5
+Junior Fall
+
+
+
+CS 124
+Formal Reasoning (Intermediate Algorithms)
+
+Advanced Computer Science
+6
+Junior Spring
+
+
+
+CS 61
+Systems
+
+
+3
+Sophomore Fall
+
+
+
+CS 126
+Computation and the World
+
+Advanced Computer Science
+7
+Senior Fall
+
+
+
+CS 181
+Artificial Intelligence
+
+Advanced Computer Science
+8
+Senior Spring
+
+
+
+CS 100
+
+
+Advanced Computer Science
+7
+Senior Fall
+P/F OK
+
+
+AM 120
+
+
+
+6
+Junior Spring
+P/F OK
+
+
+ES 50
+
+
+
+4
+Sophomore Spring
+P/F OK
+
+
+
+Joint Concentrator
+Student started in Math 21b
+
+
+
+Course
+Requirement Met
+Requirement Met
+Is Advanced CS?
+Semester #
+Semester
+Notes
+
+
+
+
+Math 21b
+Linear Algebra
+
+
+1
+First Year Fall
+
+
+
+Stat 110
+Probability
+
+
+3
+Sophomore Fall
+
+
+
+CS 50
+Programming 1
+
+
+1
+First Year Fall
+Sat/Unsat or P/F OK
+
+
+CS 51
+Programming 2
+
+
+2
+First Year Spring
+
+
+
+CS 20
+Formal Reasoning (Discrete Math)
+
+
+2
+First Year Spring
+
+
+
+CS 120
+Formal Reasoning (Computational Limitations)
+Formal Reasoning (Algorithms)
+Advanced Computer Science
+3
+Sophomore Fall
+
+
+
+CS 124
+Formal Reasoning
+
+Advanced Computer Science
+4
+Sophomore Spring
+
+
+
+CS 61
+Systems
+
+
+5
+Junior Fall
+
+
+
+CS 175
+Computation and the World
+
+Advanced Computer Science
+6
+Junior Spring
+
+
+
+CS 91r
+
+
+Advanced Computer Science
+7
+Senior Fall
+P/F OK
+
+
+
+Joint Concentrator with Strong Math Background, loves Math/Theory
+
+
+
+Course
+Requirement Met
+Requirement Met
+Is Advanced CS?
+Semester #
+Semester
+Notes
+
+
+
+
+Math 55a
+Linear Algebra
+(self-studies discrete math)
+
+1
+First Year Fall
+
+
+
+Stat 110
+Probability
+
+
+3
+Sophomore Fall
+
+
+
+CS 50
+Programming 1
+
+
+1
+First Year Fall
+Sat/Unsat or P/F OK
+
+
+CS 61
+Programming 2
+Systems
+
+5
+Junior Fall
+
+
+
+CS 183
+Formal Reasoning
+
+Advanced Computer Science
+4
+Sophomore Spring
+
+
+
+CS 121
+Formal Reasoning (Computational Limitations)
+
+Advanced Computer Science
+3
+Sophomore Fall
+
+
+
+CS 124
+Formal Reasoning (Algorithms)
+
+Advanced Computer Science
+2
+First Year Spring
+
+
+
+CS 126
+Computation and the World
+
+Advanced Computer Science
+5
+Junior Fall
+
+
+
+CS 127
+
+
+Advanced Computer Science
+6
+Junior Spring
+P/F OK
+
+
+CS 91r
+
+
+Advanced Computer Science
+7
+Senior Fall
+P/F OK
+
+
+
+Mind, Brain, Behavior Program
+Student started in Math 21b
+
+
+
+Course
+Requirement Met
+Requirement Met
+Is Advanced CS?
+Semester #
+Semester
+Notes
+
+
+
+
+Math 21b
+Linear Algebra
+
+
+1
+First Year Fall
+
+
+
+Stat 110
+Probability
+
+
+3
+Sophomore Fall
+
+
+
+CS 50
+Programming 1
+
+
+1
+First Year Fall
+Sat/Unsat or P/F OK
+
+
+CS 51
+Programming 2
+
+
+2
+First Year Spring
+
+
+
+CS 20
+Formal Reasoning (Discrete Math)
+
+
+2
+First Year Spring
+
+
+
+CS 120
+Formal Reasoning (Computational Limitations)
+
+Advanced Computer Science
+3
+Sophomore Fall
+
+
+
+CS 124
+Formal Reasoning (Intermediate Algorithms)
+
+Advanced Computer Science
+4
+Sophomore Spring
+
+
+
+CS 61
+Systems
+
+
+5
+Junior Fall
+
+
+
+CS 182
+Computation and the World
+Artificial Intelligence
+Advanced Computer Science
+7
+Senior Fall
+
+
+
+MCB 80
+MCB (Neuro) 80
+
+
+5
+Junior Fall
+
+
+
+PSY 1401
+Approved Bio/Psych Course
+
+
+6
+Junior Spring
+
+
+
+MBB 980x
+Approved MBB Junior Tutorial
+
+
+6
+Junior Spring
+
+
+
+CS 91r
+Elective
+
+Advanced Computer Science
+7
+Senior Fall
+P/F OK
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Harvard John A. Paulson School of Engineering and Applied Sciences
+
+
+
+
+© 2023 President and Fellows of Harvard College
+
+Accessibility | Trademark Notice | Privacy Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

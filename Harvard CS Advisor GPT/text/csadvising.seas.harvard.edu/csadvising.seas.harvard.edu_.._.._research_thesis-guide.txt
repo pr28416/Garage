@@ -1,0 +1,606 @@
+
+
+
+
+
+
+
+
+
+
+Senior Thesis :: Harvard CS Concentration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ CS Undergrad Advising
+
+
+
+
+
+
+
+          FAQ
+          
+      
+
+
+
+          First-Year Exploration
+          
+      
+
+
+
+          Sophomore Advising
+          
+      
+
+
+
+          Concentration
+          
+      
+
+
+
+        Degree programs
+        
+        
+
+
+
+        Declaring CS concentration
+        
+        
+
+
+
+        Joint, double and combined concentrations
+        
+        
+
+
+
+        Honors
+        
+        
+
+
+
+          Concentration Requirements
+          
+      
+
+
+
+        Old Requirements
+        
+        
+
+
+
+        Comparison
+        
+        
+
+
+
+
+
+          Courses
+          
+      
+
+
+
+        Sample schedules and plans of study
+        
+        
+
+
+
+        Tags for computer science courses
+        
+        
+
+
+
+
+
+        Study abroad
+        
+        
+
+
+
+        Cross-registering at MIT
+        
+        
+
+
+
+
+
+          Secondary Field
+          
+      
+
+
+
+          Advising
+          
+      
+
+
+
+          Peer Concentration Advisors
+          
+      
+
+
+
+
+
+          Research
+          
+      
+
+
+
+        CS91r
+        
+        
+
+
+
+        Senior Thesis
+        
+        
+
+
+
+
+
+          Get Involved
+          
+      
+
+
+
+        Teaching and advising
+        
+        
+
+
+
+        Alex Patel Fellowship
+        
+        
+
+
+
+        Clubs and Activities
+        
+        
+
+
+
+        Entrepreneurship
+        
+        
+
+
+
+
+
+          Resources
+          
+      
+
+
+
+        How to Succeed in CS Courses
+        
+        
+
+
+
+
+
+          Diversity in CS
+          
+      
+
+
+
+          Forms
+          
+      
+
+
+
+          About CS
+          
+      
+
+
+
+        Careers of alumni
+        
+        
+
+
+
+        CS and Society
+        
+        
+
+
+
+        Curriculum Committee
+        
+        
+
+
+
+
+
+          Contact
+          
+      
+
+
+
+More
+
+
+ Courses
+
+
+ Course Tags
+
+
+ Accessibility
+
+
+
+
+
+
+
+
+
+
+Academics
+
+
+Computer Science
+
+
+
+
+
+
+
+
+
+
+ navigation
+                        
+
+
+
+Harvard Computer Science > Research > Senior Thesis
+          
+        
+          
+        
+          
+        
+                 
+                  
+
+
+
+
+
+
+
+Thesis Supervisor
+Thesis Readers
+Senior Thesis Seminar
+Format
+Thesis Timeline for Seniors
+Thesis Extensions and Late Submissions
+
+
+Thesis Examples
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              
+              Senior Thesis
+            
+A senior thesis is more than a big project write-up. It is documentation
+of an attempt to contribute to the general understanding of some problem
+of computer science, together with exposition that sets the work in the
+context of what has come before and what might follow. In computer
+science, some theses involve building systems, some involve experiments
+and measurements, some are theoretical, some involve human subjects, and
+some do more than one of these things. Computer science is unusual among
+scientific disciplines in that current faculty research has many loose
+ends appropriate for undergraduate research.
+Senior thesis projects generally emerge from collaboration with faculty.
+Students looking for senior thesis projects should tell professors they
+know, especially professors whose courses they are taking or have taken,
+that they are looking for things to work on. See the page on CS
+Research for Undergrads. Ideas
+often emerge from recent papers discussed in advanced courses. The terms
+in which some published research was undertaken might be generalized,
+relaxed, restricted, or applied in a different domain to see if changed
+assumptions result in a changed solution. Once a project gets going, it
+often seems to assume a life of its own.
+To write a thesis, students may enroll in Computer Science 91r one or
+both terms during their senior year, under the supervision of their
+research advisor.  Rising seniors may
+wish to begin thinking about theses over the previous summer, and
+therefore may want to begin their conversations with faculty during
+their junior spring—or even try to stay in Cambridge to do summer
+research.
+An information session for those interested in writing a senior thesis
+is held towards the end of each spring semester. Details about the
+session will be posted to
+the cs-undergrads@seas.harvard.edu
+email list.
+Students interested in commercializing ideas in their theses may wish to
+consult Executive Dean Fawwaz Habbal about patent protection.
+See Harvard’s
+policy for
+information about ownership of software written as part of your academic
+work.
+Thesis Supervisor
+You need a thesis supervisor. Normally this is a Harvard Computer Science
+faculty member. Joint concentrators (and, in some cases, non-joint
+concentrators) might have a FAS/SEAS Faculty member from a different field as
+their thesis supervisor. Exceptions to the requirement that the thesis
+supervisor is a CS or FAS/SEAS faculty member must be approved by the
+Director of Undergraduate Studies. For students whose advisor is not a
+Harvard CS faculty member, note that at least one of your thesis readers must be
+a Harvard CS faculty member, and we encourage you to talk with this faculty
+member regularly to help ensure that your thesis is appropriately
+relevant for Harvard Computer Science.
+It’s up to you and your supervisor how frequently you meet and how
+engaged the supervisor is in your thesis research. However, we encourage
+you to meet with your supervisor at least several times during the Fall
+and Spring, and to agree on deadlines for initial results, chapter
+outlines, drafts, etc.
+Thesis Readers
+The thesis is evaluated by the thesis readers. Thesis readers must be either:
+
+
+Two Harvard CS faculty members/affiliates; or:
+
+
+Three readers, at least one of whom is a Harvard CS faculty member and the others are ordinarily teaching faculty members of the Faculty of Arts and Sciences or SEAS who are generally familiar with the research area.
+
+
+The thesis supervisor is one of the readers.
+The student is responsible for finding the other readers, but you can talk with your supervisor for suggestions of possible readers.
+Exceptions to these thesis reader requirements must be approved by the Directors
+of Undergraduate Studies.
+For joint concentrators, the other concentration may have different procedures for thesis readers; if you have any questions or concerns about thesis readers, please contact the Directors of Undergraduate Studies.
+Senior Thesis Seminar
+Computer Science does not have a Senior Thesis seminar course.
+However, we do run an informal optional series of Senior Thesis meetings in the Fall to help with the thesis writing process, focused on topics such as technical writing tips, work-shopping your senior thesis story, structure of your thesis, and more. Pay attention to your email in the Fall for announcements about this series of meetings.
+Format
+The thesis should contain an informative abstract separate from the body
+of the thesis. This abstract should clearly state what the contribution
+of the thesis is–which parts are expository, whether there are novel results, etc.
+We also recommend the thesis contain an introduction that is at most 5 pages in length that
+contains an “Our contributions” section which explains exactly what the thesis contributed,
+and which sections in the thesis these are elaborated on.
+At the degree meeting, the Committee on Undergraduate
+Studies in Computer Science will review the thesis abstract, the reports
+from the three readers and the student’s academic record; it will have
+access to the thesis.  The readers (and student) are told to assume that
+the Committee consists of technical professionals who are not
+necessarily conversant with the subject matter of the thesis so their
+reports (and abstract) should reflect this audience.
+The length of the thesis should be as long as it needs to be to present
+its arguments, but no longer!
+There are no specific formatting guidelines. For LaTeX, some students have used this template in the past. It is set up to meet the Harvard PhD Dissertation requirements, so it is meeting requirements that you as CS Senior Thesis writers don’t have.
+Thesis Timeline for Seniors
+(The timeline below is for students graduating in May. For off-cycle students, the same timeline applies, but offset by one semester. The thesis due date for March 2024 graduates is Friday November 17, 2023 at 4pm. The thesis deadline for May 2023 graduates is Friday March 24th at 4pm.
+Please be aware that students writing a joint thesis must meet the requirements of both departments–so if there are two different due dates for the thesis, you are expected to meet the earlier date.
+Senior Fall (or earlier)
+Find a thesis supervisor, and start research. 
+October/November/December
+Start writing.
+All fourth year concentrators are contacted by the Office of Academic
+Programs and those planning to submit a senior thesis are requested to
+supply certain information, including name of advisor and a tentative thesis title. You may use a different title when you submit your thesis; you do not need to tell us your updated title before then.
+If Fall 2023 is your final term, please fill out this form.
+For May 2023 degree candidates, please fill out this form.
+Early February
+The student should provide the name and contact information
+for the readers (see above), together with assurance that they have
+agreed to serve. 
+Mid-March
+Thesis supervisors are advised to demand a first draft. (A common
+reaction of thesis readers is “This would have been an excellent first
+draft. Too bad it is the final thesis—it could have been so much
+better if I had been able to make some suggestions a couple of weeks
+ago.")
+March 24, 2023
+Thesis is due by 4:00 pm. Electronic copies in PDF format should be
+delivered by the student to all three readers and to
+cs-submit@seas.harvard.edu (which will forward to the Director of
+Undergraduate Studies) on or before that date. An electronic copy should
+also be submitted via the SEAS online submission
+tool on or before that date. SEAS
+will keep this electronic copy as a non-circulating backup. During this online submission process, the student
+will also have the option to make the electronic copy publicly available
+via DASH, Harvard’s open-access repository for scholarly work. Please note that the thesis will NOT be published to ProQuest. More
+information can be found on the SEAS Senior Thesis
+Submission page.
+The two or three readers will receive a rating sheet to be returned to the
+Office of Academic Programs before the beginning of the Reading Period,
+together with their copy of the thesis and any remarks to be transmitted
+to the student.
+Late May
+The student may pick up the reader’s comments and thesis copies from the
+Office of Academic Programs, after the degree meeting to decide honors
+recommendations.
+Thesis Extensions and Late Submissions
+Thesis extensions
+Thesis extensions will be granted in extraordinary circumstances, such as hospitalization or grave family emergency, with the support of the thesis advisor and resident dean and the agreement of all readers. For joint concentrators, the other concentration should also support the extension. To request an extension, please have your advisor or resident dean email cs-dus@seas.harvard.edu, ideally several business days in advance, so that we may follow up with readers. Please note that any extension must be able to fall within our normal grading, feedback, and degree recommendation deadline, so extensions of more than a few days are usually impossible.
+Late submissions
+Late submission of thesis work should be avoided. Work that is late will ordinarily not be eligible for thesis prizes like the Hoopes Prize. Theses submitted late will ordinarily be penalized one full level of honors (highest honors, high honors, honors, no honors) per day late or part thereof, including weekends, so a thesis submitted two days and one minute late is ordinarily ineligible to receive honors.
+Penalties will be waived only in extraordinary cases, such as documented medical illness or grave family emergency; students should consult with the Directors of Undergraduate Studies in that event. Missed alarm clocks, crashed computers, slow printers, corrupted files, and paper jams are not considered valid causes for extensions.
+Thesis Examples
+Recent thesis examples can be found on the Harvard DASH (Digital Access to
+Scholarship at Harvard) repository
+here.
+Examples of Mind, Brain, Behavior theses are here.
+2014
+Spectral Sparsification: The Barrier Method and its
+Applications
+
+Martin Camacho, Advisor: Jelani Nelson
+
+Good Advice Costs Nothing and it’s Worth the Price: Incentive
+Compatible Recommendation Mechanisms for Exploring Unknown
+Options
+
+Perry Green, Advisor: Yiling Chen
+
+Better than PageRank: Hitting Time as a Reputation
+Mechanism
+
+Brandon Liu, Advisor: David Parkes
+
+Tree adjoining grammar at the
+interfaces
+
+Nicholas Longenbaugh, Advisor: Stuart Shieber
+
+SCHUBOT: Machine Learning Tools for the Automated Analysis of
+Schubert’s
+Lieder
+
+Dylan Nagler, Advisor: Ryan Adams
+
+Learning over Molecules: Representations and
+Kernels
+
+Jimmy Sun, Advisor: Ryan Adams
+
+Towards the Quantum Machine: Using Scalable Machine Learning Methods
+to Predict Photovoltaic Efficacy of Organic
+Molecules
+
+Michael Tingley, Advisor: Ryan Adams
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Harvard John A. Paulson School of Engineering and Applied Sciences
+
+
+
+
+© 2023 President and Fellows of Harvard College
+
+Accessibility | Trademark Notice | Privacy Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

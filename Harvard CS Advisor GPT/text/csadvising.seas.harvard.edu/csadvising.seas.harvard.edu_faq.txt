@@ -1,0 +1,1121 @@
+
+
+
+
+
+
+
+
+
+
+FAQ :: Harvard CS Concentration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ CS Undergrad Advising
+
+
+
+
+
+
+
+          FAQ
+          
+      
+
+
+
+          First-Year Exploration
+          
+      
+
+
+
+          Sophomore Advising
+          
+      
+
+
+
+          Concentration
+          
+      
+
+
+
+        Degree programs
+        
+        
+
+
+
+        Declaring CS concentration
+        
+        
+
+
+
+        Joint, double and combined concentrations
+        
+        
+
+
+
+        Honors
+        
+        
+
+
+
+          Concentration Requirements
+          
+      
+
+
+
+        Old Requirements
+        
+        
+
+
+
+        Comparison
+        
+        
+
+
+
+
+
+          Courses
+          
+      
+
+
+
+        Sample schedules and plans of study
+        
+        
+
+
+
+        Tags for computer science courses
+        
+        
+
+
+
+
+
+        Study abroad
+        
+        
+
+
+
+        Cross-registering at MIT
+        
+        
+
+
+
+
+
+          Secondary Field
+          
+      
+
+
+
+          Advising
+          
+      
+
+
+
+          Peer Concentration Advisors
+          
+      
+
+
+
+
+
+          Research
+          
+      
+
+
+
+        CS91r
+        
+        
+
+
+
+        Senior Thesis
+        
+        
+
+
+
+
+
+          Get Involved
+          
+      
+
+
+
+        Teaching and advising
+        
+        
+
+
+
+        Alex Patel Fellowship
+        
+        
+
+
+
+        Clubs and Activities
+        
+        
+
+
+
+        Entrepreneurship
+        
+        
+
+
+
+
+
+          Resources
+          
+      
+
+
+
+        How to Succeed in CS Courses
+        
+        
+
+
+
+
+
+          Diversity in CS
+          
+      
+
+
+
+          Forms
+          
+      
+
+
+
+          About CS
+          
+      
+
+
+
+        Careers of alumni
+        
+        
+
+
+
+        CS and Society
+        
+        
+
+
+
+        Curriculum Committee
+        
+        
+
+
+
+
+
+          Contact
+          
+      
+
+
+
+More
+
+
+ Courses
+
+
+ Course Tags
+
+
+ Accessibility
+
+
+
+
+
+
+
+
+
+
+Academics
+
+
+Computer Science
+
+
+
+
+
+
+
+
+
+
+ navigation
+                        
+
+
+
+Harvard Computer Science > FAQ
+          
+        
+          
+        
+                 
+                  
+
+
+
+
+
+
+
+
+
+
+Covid-19
+New Fall 2021 concentration requirements
+First years and pre-concentrators
+Concentrators
+Secondary field
+Joint concentration
+Opportunities in Computer Science
+
+
+
+
+
+
+
+
+
+
+              
+              FAQ
+            
+The Director of Undergraduate Studies for Computer Science team comprises Boaz Barak, Stephen Chong, Adam Hesterberg, and Beth Musser.
+You can email the DUS team at cs-dus@seas.harvard.edu with any questions, or come to the office hours on the Contact page.
+CS Feedback
+If you have ideas for CS to consider, a question for the FAQ, or anonymous feedback, you can use the CS Feedback Form.
+Covid-19
+The situation and ruled regarding Covid-19 are constantly evolving. Harvard’s Covid-19 web page is the source for the latest information.
+
+What should I do if I need to isolate or quarantine due to Covid-19?
+    
+
+
+Firstly, you should always follow Harvard’s procedures to determine whether you need to isolate or quarantine due to a positive test result, symptoms, or exposure to a COVID-positive individual.  Any questions about contact tracing should be referred to 617-496-2288  (Main Contact Tracing Line) or Contact_Tracing_Questions@huhs.harvard.edu
+Some specific advice for CS students is:
+
+Email your teaching staff (or message them on the course communication system). Let them know if you are ill or are just quarantining but can keep up with the course material remotely. We have asked CS instructors to be understanding and flexible this term.
+Many CS courses are automatically recorded with the recording posted on the panopto section of the canvas web page. This is not the same experience as watching the course live, and the automated recording is not necessarily with the same quality as a live camera-person, but should be useful as a backup.
+Consider also asking a friend to take notes for you.
+
+As always, feel free to reach out to us at cs-dus@seas.harvard.edu and/or your resident dean with any specific questions.
+
+
+
+How do Spring 2020 Emergency Sat/Unsat grades affect my concentration GPA and honors?
+    
+
+
+Background: There are two types of honors for undergraduates: Latin honors (summa, magna, cum laude) are determined by the College and English honors (highest honors, high honors, honors) are determined by concentrations. See this page for more. The College Coronavirus FAQ has information about how Latin honors are affected by SEM grades. It is up to each concentration to determine how SEM grades will affect English honors.
+Harvard CS will strive to ensure that SEM/UEM grading in Spring 2020 does not adversely affect students' eligibility for English honors. Recall that English honors involve an objective GPA cutoff and a vote based on a holistic view of the student’s academic and scientific achievements. SEM/UEM grading will change our treatment of GPA.
+Specifically:
+
+If a student’s concentration GPA (calculated without Spring 2020 courses) is above the threshold, then the student will be eligible for honors.
+If the student’s concentration GPA is close to the threshold (i.e., would be above the threshold if the student had received A’s in Spring 2020 concentration courses), then we will consider other criteria, including qualitative feedback from Spring 2020 courses.
+
+
+
+
+How do the Spring 2020 Emergency Sat/Unsat grades affect my AB/SM degree?
+    
+
+
+SEM/UEM graded courses from Spring 2020 can be used to satisfy requirements of a Computer Science SM. Note also that appropriate MIT courses graded P/F in Spring 2020 will be able to count towards SM requirements.
+
+
+
+How do Summer School 2021 courses count towards a CS concentration or secondary?
+    
+
+
+Computer Science will count the following Summer 2021 courses at Harvard Summer School for concentration credit (and, where relevant, for secondary credit):
+
+
+CSCI S-20: Discrete Mathematics for Computer Science (treated as equivalent to CS20)
+
+
+CSCI S-50: Intensive Introduction to Computer Science  (treated as equivalent to CS50)
+
+
+CSCI S-91r: Reading and Research Course (equivalent to CS 91r)
+
+
+CSCI S-109A: Introduction to Data Science  (treated as equivalent to CS109A)
+
+
+CSCI S-111: Intensive Introduction to Computer Science Using Java  (treated as equivalent to CS50–only worth credit for one course)
+
+
+
+
+New Fall 2021 concentration requirements
+
+Where can I find information about the current requirements and the previous requirements?
+    
+
+
+See the following pages: current concentration requirements and 2020 concentration requirements
+
+
+
+When do the new requirements take effect?
+    
+
+
+The new concentration requirements take effect in Fall 2021. Students who enrolled in at least one term prior to Fall 2021 can choose whether to follow the new or old requirements.
+
+
+
+What are the main differences between the new and old requirements?
+    
+
+
+The new requirements reflect a rethinking of what it means to be a computer scientist and how students could be best prepared for the huge variety of paths that
+are possible with a CS degree. They differ from the previous versions in numerous ways.
+The most significant changes are the following:
+
+
+Introduction of “tags” for classifying courses. Different courses can satisfy multiple educational goals. The new requirements recognize this by assigning one or more “tags” to each course. One course can have multiple tags and so satisfy multiple requirements, whereas previously each course could only satisfy one requirement.
+
+
+Breadth requirements: fewer but broader areas. Previously, concentrators were required to take two (basic)/three (honors) courses with different penultimate digits. Now, students need to take courses that cover three tags: systems, computation and the world, and (for honors) artificial intelligence, which are broader categories than single penultimate digits.
+
+
+More flexibility in basic software and theory. The tag-based system is used also for the basic software and theory requirements, allowing for greater flexibility. In particular, CS 32, CS109a, and CS109b are new options for the first basic software course, and the theory requirements for the basic plan no longer include a single specific course (CS 121).
+
+
+One extra CS course. The new requirements add one more CS technical elective, making the total number of CS courses (excluding math preparation) 9 courses for the basic track and 11 courses for the honors track. Even after this change, CS still requires relatively fewer disciplinary courses than many other concentrations in the college.
+
+
+Probability replaces multivariate calculus. Due to the growing importance of probability and statistics to CS, we have made probability a required course, removing the previous option to take multivariate calculus instead. Linear algebra is still required and we recommend that first-year students interested in CS take linear algebra in their first (fall) semester.
+
+
+Algorithms required. Algorithms are arguably the central concept of computer science. Therefore, CS120 or a more advanced algorithms course is required for the basic track, and CS 124 or a more advanced algorithms course is required for the honors track (and recommended for all CS concentrators).
+
+
+
+
+
+Can I mix and match between the sets of requirements?
+    
+
+
+No. Students who enrolled in fall 2021 or later must follow the new requirements. Students who enrolled before 2021 can at any time change their minds between the two sets of requirements by submitting a plan of study that follows the new requirements completely or a plan of study that follows the old requirements completely.
+
+
+
+If I follow the old (2020 and earlier) requirements, can I replace CS 121 with CS 120? Can I use CS 120 as a secondy theory course?
+    
+
+
+No and yes, respectively. If you follow the old requirements, you need to satisfy all of their conditions, including taking CS 121 or a more advanced course with significant
+computational complexity content such as CS 221.
+However, CS 120 can serve as a second theory course for students following the old requirements.
+
+
+
+What are the differences between CS 120, CS 121, and CS 124?
+    
+
+
+The instructors of those three courses have an FAQ.
+In a nutshell, CS 120 is about 2/3 basic algorithms and 1/3 basic computability/complexity.
+CS 121 goes into more depth in computability/complexity, while CS 124 goes into more depth into algorithms.
+The courses are designed so it is possible to take any subset of them without taking the others.
+In particular, it is possible to take one or both of CS 121 and CS 124 without taking CS 120 first, though some students might find these courses easier after having taken CS 120.
+
+
+
+How do I place out of CS 20?
+    
+
+
+Fill out the self-attestation form after taking the self-test linked from that form.
+
+
+
+If I place out of CS 20, do I still have to take three formal reasoning courses?
+    
+
+
+Yes. If you place out of CS 20, you will need to take an alternative course to satisfy the formal reasoning requirement. However, note that there are several such courses, see the tags page.
+
+
+
+Can a course meet more than one tag?
+    
+
+
+Yes! For example, you can use CS 61 for both programming2 and systems, or you can use CS 120 for all four of formalreasoning, complimitations, algorithms, & advancedcs.
+
+
+First years and pre-concentrators
+
+What is CS?
+    
+
+
+We like to say that CS teaches you how to think
+more methodically and how to solve problems more
+effectively. As such, its lessons are applicable well
+beyond the boundaries of CS itself.
+But CS is also, more generally, the study of information.
+How do you represent it? With what methods (aka
+algorithms) can you process it?
+Perhaps the most liberal answer, though, is that CS is a modern “queen of the sciences” in the sense that it is not restricted to any particular domain, and can be applied to problems in all sorts of human endeavors including the natural and social sciences, law, government and medicine, and even the humanities. CS empowers you with tools and ideas that can be applied to practically any domain of interest to you, both in college and beyond.
+
+
+
+What is CS not?
+    
+
+
+Contrary to popular belief, CS is not really about
+programming, even though you do learn how to
+program. Programming languages are tools that
+computer scientists use or create in order to solve
+problems of interest to them.
+
+
+
+I am interested in concentrating in CS: where do I learn more about it?
+    
+
+
+This website provides a lot of information about the requirements for a CS concentration, courses, how to declare CS as a concentration, advising, research opportunities, and more.
+The resources section of this web page contains many useful additional sources of information.
+In particular, if you have any interest in CS, we recommend that you join the  CS Undergraduate Piazza Forum which is run by students for students, and is an excellent place to ask all sorts of questions about the concentration.
+You can also learn more about concentrating in CS by getting involved in clubs such as WiCS,  HCS, and more.
+
+
+
+Will everyone in CS know more than me?
+    
+
+
+No! Contrary to popular belief, not every Computer
+Scientist has been programming since childhood! In
+fact, 68% of the students who took CS50 in Fall 2017
+had never taken a CS course before. Only 22% had
+taken one, and only 10% had taken two or more
+
+
+
+Do I need to get a laptop with a particular minimum configuration to study computer science?
+    
+
+
+No: Harvard CS strives to ensure that no student is restricted from joining a course due to lack of a suitable computer. Harvard CS does not have specific hardware requirements. Please check out HUIT’s website for information on computer recommendations.
+For CS courses that demand more computing power, we will provide either cloud or lab-based solutions, to ensure that no student is restricted from joining a course due to lack of a powerful computer.
+Harvard students are eligible for discounts on Apple and Dell products, see HUIT’s website.
+
+
+
+I have some CS background: should I skip CS 50?
+    
+
+
+Many students benefit from CS 50 even if they have some programming experience or have taken a CS course. In particular, most students who took CS AP A in high school find it useful to take CS 50 as well. However, if you have significant academic and/or programming experience, you might consider going straight to more advanced courses such as CS 51, 61, 120, or 121. You can look  at the syllabi and webpages of these courses, as well as reach out to their instructors, to determine if you are ready for them. See the CS 50 website for more information.
+
+
+
+Should I concentrate or do a secondary in CS even if I don't want to be a programmer?
+    
+
+
+Yes! CS concentrators head off in all sorts of directions after graduation.
+
+
+
+Can I switch from my current concentration to CS?
+    
+
+
+Yes, so long as you still have time to satisfy the requirements. Even David J. Malan ‘99, who now teaches CS50, didn’t take his first CS course until his sophomore year, when he switched from Government to CS.
+Take a look at the CS concentration requirements, and try filling in a Plan of Study to see if you can satisfy the course requirements.
+
+
+
+How do double concentrations with CS work?
+    
+
+
+A double concentration with CS and another field has the same CS requirements as an undoubled CS concentration: it can be basic, honors, or MBB, and has the same requirements, except that at most two courses can count toward both concentrations. The process for declaring the CS side of a double concentration is the same as the process for declaring a CS concentration, except that you also send us a declaration of double concentration form which we’ll sign at the same time as we approve your regular CS concentration declaration.
+
+
+
+What courses do you recommend I take in my first year?
+    
+
+
+Take a look at our page devoted to First-year Exploration!
+
+
+
+What math courses are useful for CS?
+    
+
+
+We find that the most useful mathematical background for computer science includes linear algebra, probability/statistics, and discrete mathematics. Some areas such as optimization and machine learning, also use multivariate calculus. As of Fall 2021, the Computer Science concentration requires Linear Algebra, Probability, and Discrete Mathematics as well as preparatory calculus as required (Math Ma/Mb and Math 1a/b). Students no longer need to take multivariate calculus.
+At Harvard there are a variety of courses to achieve this background. Most CS concentrators take one of Math 21b, 22a, 23a, 25a or 55a or Applied Mathematics 22a. The math department has a useful pamphlet detailing the difference between these courses. If you are up for it, we find that the emphasis on mathematical proofs in the Math 22 and above series can be very useful for courses in computer science.
+The most common way to get the background in probability/statistics and discrete mathematics is via STAT 110 and CS 20 respectively. We find that some students who are comfortable with mathematical proofs (especially those that have taken Math 23/25/55) are able to skip CS 20 and pick up the required background on discrete mathematics via self study.
+The CS 121 background page contains information on the mathematical background that is useful for CS 120, CS 121, and CS 124, which are  courses many  CS concentrators take in their sophomore year.
+
+
+
+Do any CS courses count for Gen Ed?
+    
+
+
+Yes! The Quantitative Reasoning with Data requirement is met with several CS courses, including CS 10, CS 50, CS 124, CS 109a, CS 109b, CS 181, and AM 120.
+Note that these may change.
+
+
+
+How do I declare a concentration in computer science?
+    
+
+
+See the page Declaring CS Concentration.
+It is your responsibility to make sure you follow the plan of study. If your plan changes, you can update and send us a new plan of study form at any time.
+See the CS handbook entry for information about honors vs. basic tracks, the MBB FAQ for information about the Mind, Brain, and Behavior, and the secondary CS handbook entry for information about declaring a CS secondary.
+
+
+Concentrators
+
+What's the one motto I should follow to make sure I can graduate with a computer science concentration?
+    
+
+
+“It’s better to ask permission than forgiveness”. If you want any kind of exception,  counting non-CS or non-Harvard courses towards CS, course credit for study abroad, or  anything else, email us or come and  talk to us in our office hours (see above).
+Even if you know of someone that had a similar exception before, don’t assume that you can get one too without checking with us: individual conditions, policies, and course contents can all vary from term to term.
+It’s always better to ask permission ahead of time so you can plan your courses before the term begins, rather than finding out you need to change courses late into the term.
+
+
+
+Will course X count towards Y?
+    
+
+
+See this page for an overview of which courses count towards which requirements, including which courses other than Harvard-CS courses can be used for the CS concentration.
+We also have a page devoted to which tags our courses count towards.
+
+
+
+Which Summer 2023 courses count for concentration credit?
+    
+
+
+When taken in accordance with Harvard College’s policies for courses to count for degree credit, the following courses may count for concentration credit:
+
+
+APMA S-115 counts as AM 115 for students on 2021 plans.
+
+
+CSCI S-7 counts as CS 1 for students on 2021 plans. (will not count for concentration credit after more advanced coursework)
+
+
+CSCI-20 counts as CS 20  (ordinarily will not count for concentration credit after more advanced coursework)
+
+
+CSCI S-50 counts as CS 50  (ordinarily will not count for concentration credit after more advanced coursework)
+
+
+CSCI S-111 counts as CS 50–only 4 credits for concentration, but counts as 8 credits for the degree  (ordinarily will not count for concentration credit after more advanced coursework)
+
+
+CSCI S-91r: Reading and Research Course (equivalent to CS 91r)
+
+
+ENSC S-138 counts as Eng-Sci 150
+
+
+Math S-1a counts as Math 1a
+
+
+Math S-1b counts as Math 1b
+
+
+Math S-21a counts as Math 21a for students on 2020 plans
+
+
+Math S-21b counts as Math 21b
+
+
+Math S-101 counts as Math 101
+
+
+
+
+
+How do I go about studying abroad?
+    
+
+
+See this page for information about study abroad. You should talk to the Office of International Education. Feel free to email us to ask about whether particular courses could count towards concentration credit. There are many strong computer science programs whose courses can be taken for concentration credit, but this depends on the details such as the exact syllabus of the course, the number of hours, what courses you’ve taken at Harvard, and more.
+You should not assume that a course will count without checking it with us beforehand.
+The final approval only comes after you have completed the term and we receive the transcripts from the institution you studied in.
+For summer study abroad funding, please check out this resource from the Office of International Education. You can also check in with your financial aid officer, who is visible to you in my.harvard.
+
+
+
+How do I cross-register for a course at MIT? and will it count towards my concentration?
+    
+
+
+See this page for information how to cross-register and how to petition for the course to count towards a CS concentration.
+Starting in Spring 2021, ordinarily Harvard CS will no longer allow concentration credit for MIT courses that are equivalent to one of our annual core courses (CS 20, 50, 51, 61, 121, 124, 181, and 182). We will continue to allow these courses to count for students who have taken them through this Fall, 2020. Concentration credit for other MIT courses will continue to be approved on a case-by-case basis. We will also honor any approved plans of study on file that list a future MIT course.  Please see our courses page for information about specific MIT courses.
+
+
+
+Should I cross-register at MIT my senior spring?
+    
+
+
+The answer is likely no, but varies greatly year to year. Some years our schedules align pretty well, and some years our terms end weeks apart.
+If you are a graduating senior in the spring term, the turnaround time for grades is quite tight.
+
+
+If you do not need the course for concentration credit, you may have your degree held for a while until your MIT grades are entered (days or weeks).
+
+
+If you DO need the course for concentration credit and your grade is not in, CS cannot recommend you for your degree and you will have to wait until the next degree date to receive your diploma (November for May graduates).
+
+
+
+
+
+Does CS require a thesis?
+    
+
+
+A thesis is not required for the  non-Honors or Honors tracks. But to be eligible for the English honors of “High Honors” and “Highest Honors”, a thesis is required.
+
+
+
+Is a thesis just a big program?
+    
+
+
+No, a thesis is a research paper. You might end up writing
+programs in order to evaluate your ideas, but those programs
+are ordinarily means to an end, not an end in themselves.
+See this page for more information and some examples.
+
+
+
+Can I do research in CS?
+    
+
+
+Yes! Many CS courses offer opportunities for research,
+particularly 200-level courses. And you can take
+CS91r to work one-on-one with faculty. Students and
+faculty do research in all sorts of areas, including, but
+not limited to:
+Architecture, Artificial Intelligence, Computational and Data Science, Computational Neuroscience, Economics & Computation, Graphics, Vision, Visualization, & Interaction, Information & Society, Programming Languages, Systems, Networks, & Databases, Theory of Communication, and Theory of Computation.
+For more information see the Research page.
+
+
+
+How do I get involved in research?
+    
+
+
+This page contains a wealth of information on getting involved with research, and in particular the list of all faculty office hours and research interests.
+Taking  advanced courses, such a CS 2xx course, is often a good way to get exposed to research in various areas.
+Your faculty advisor can also be a good source of information on this topic.
+
+
+
+Is there funding for research, workshops, conferences, etc?
+    
+
+
+More information can be found on our research page.
+
+
+
+How do I do a "CS 91r" Computer Science project course?
+    
+
+
+A CS 91r needs to be project where you learn to “think like a scientist” and take part in scientific study. While it may involve coding, it should have a clear research purpose and your role in the project should not be as just a developer.
+After you find a suitable advisor (either a Computer Science faculty, or potentially other Harvard faculty doing a project that intersects with computer science), you need to fill out together with the advisor the  CS91r form and have your advisor send it to us at cs-dus@seas.harvard.edu
+
+
+
+What is  the difference between CS91r and independent study?
+    
+
+
+A CS 91r is a directed research project with an advisor, and is letter graded. An Independent Study is a non-departmental course that has an advisor but is not letter graded.
+As the name implies, a student in an independent study project is expected to work with little supervision.
+See this page for more information.
+
+
+
+What is the difference between English honors and Latin honors?
+    
+
+
+There are two types of honors for undergraduates: Latin honors (summa, magna, cum laude) are determined by the College and English honors (highest honors, high honors, honors) are determined by concentrations. More precisely, the Latin honors are: “summa cum laude in a field”, “magna cum laude with Highest Honors in a field”, “magna cum laude in a field”, “cum laude in a field”, and “cum laude on the basis of the student’s overall record”.
+See the Degree programs page for information about requirements for English honors in Computer Science.
+See this page for information about the requirements for Latin honors. Latin honors are determined based on your overall GPA and your English honors.
+
+
+
+Do I need to write a thesis to qualify for honors?
+    
+
+
+No, students may qualify for English Honors in Computer Science by completing an honors program and having a sufficiently high concentration GPA. Students need to write a thesis to qualify for “High Honors” and “Highest Honors.” Students completing a joint concentration or the Mind, Brain, Behavior track must write a thesis, and will qualify for English honors if they have a sufficiently high GPA along with the quality of their thesis. This page has more information.
+
+
+
+How do I graduate with Honors in CS?
+    
+
+
+Take an honors-track CS program and have a sufficiently high concentration GPA.
+Honors-track CS programs include the Honors program, joint concentrations, and the Mind, Brain, and Behavior Program. These programs have more course requirements than the basic program.
+
+
+
+How do I graduate with High Honors in CS?
+    
+
+
+High Honors are decided by faculty vote. You must
+ordinarily write an “excellent thesis” and have a sufficiently high concentration GPA to be considered.
+See the Degree programs page for more information about requirements for English honors in Computer Science.
+
+
+
+How do I graduate with Highest Honors in CS?
+    
+
+
+Highest Honors are decided by faculty vote. You must
+ordinarily write an “outstanding thesis” and have a sufficiently high concentration GPA to be considered.
+See the Degree programs page for more information about requirements for English honors in Computer Science.
+
+
+
+Should I activate Advanced Standing or apply for the Concurrent Masters and get a fourth-year master’s degree in CS?
+    
+
+
+Maybe! If you are willing and able to pursue extra coursework for the Concurrent Masters or eligible for Advanced Standing and
+think you could handle eight (mostly) 200-level CS
+courses, it’s a great opportunity. Your bachelor’s degree
+doesn’t even need to be in CS, so long as you can still
+satisfy the prerequisites for the 200-level courses. See
+Other Academic Opportunities in the Handbook for
+Students.
+
+
+
+What is Advanced Standing, and how do I activate it?
+    
+
+
+For students who entered Harvard prior to Fall 2020, Advanced Standing is a program that allows students to apply Advanced Placement exams, International Baccalaureate higher levels, and other international credentials towards their undergraduate credit totals towards graduation. In doing so, students may graduate in 6 or 7 terms, or they may apply for a master’s degree program.
+Students not eligible for Advanced Standing may be interested in the Concurrent Masters program.  Students eligible for Advanced Standing may not pursue a Concurrent Masters (they must activate Advanced Standing and follow the requirements for Advanced Standing).  Please contact the Office of Undergraduate Education if you have questions about this policy.
+To Apply for Advanced Standing:
+
+
+Read the Office of Undergraduate Education’s Advancement Placement and Advanced Standing policies carefully.
+
+
+Questions?  Contact the Office of Undergraduate Education or schedule an appointment at oue@fas.harvard.edu
+
+
+Complete and Submit the Advanced Standing Activation Form to your Resident Dean. You should make an appointment with one of the DUSes to review your form when you are ready to activate.
+
+
+SEAS offers several AB/SM degrees, and more information can be found on the AB/SM Information website. Please pay particular attention to the information on this site (requires HarvardKey). Most questions about course requirements can be answered by reading the FAQ response for “Does Course X count for the SM in Computer Science?” below.
+
+
+
+What is the Concurrent Master's Program?
+    
+
+
+Beginning with the class of 2021, students will have the opportunity to apply to the Graduate School of Arts and Sciences for a master’s degree pursued concurrently with the bachelor’s degree. As part of the concurrent degree program, students will be allowed to double-count up to sixteen credits (normally, four courses) for the Bachelor of Arts and the Master of Science. An undergraduate pursuing the concurrent degree must complete both of these degrees by the end of eight terms of residency, or the equivalent. 
+Students eligible for Advanced Standing may not pursue a Concurrent Masters (they must activate Advanced Standing and follow the requirements for Advanced Standing).  Please contact the Office of Undergraduate Education if you have questions about this policy.
+Read the Office of Undergraduate Education’s Concurrent Master’s policies carefully.
+Concurrent Master’s Students apply directly to their programs.  Uniquely qualified students who will be juniors in the College before the fall of 2020 and who are not eligible for advanced standing may petition the Office of Undergraduate Education for an exception allowing them to apply to the Graduate School of Arts and Sciences for a concurrent master’s degree.
+SEAS offers several AB/SM degrees, and more information can be found on the AB/SM Information website. Please pay particular attention to the information on this site (requires HarvardKey). Most questions about course requirements can be answered by reading the FAQ response for “Does Course X count for the SM in Computer Science?” below.
+
+
+
+Does Course X count for the SM in Computer Science?
+    
+
+
+The CS Undergraduate advising team cannot advise you on your master’s degree.
+Final approval of courses that may be counted towards a SEAS graduate degree are the purview of the SEAS Committee on Higher Degrees (CHD), which is a body composed of faculty from across the school. Any student seeking a graduate degree from SEAS must submit a proposed course list (the “Program Plan”) for review by the CHD for adherence to the stated degree requirements:
+
+General SM degree requirements
+Area-specific degree requirements
+
+Exceptions to those requirements may only be granted by the CHD, following a written petition.
+This means that, aside from specific courses stated in an area’s degree requirements, no course can be guaranteed to count for the degree until the CHD has reviewed the course in the context of a Program Plan. Program Plans from College students may only be submitted to the CHD after the student has been admitted to the AB/SM program and has been assigned an SM advisor.
+Prior to being admitted to the AB/SM program, students with questions about which courses may fulfill SM degree requirements should carefully review the links above. Please contact Abby Rahn abbyrahn@seas.harvard.edu with further questions.
+
+
+
+Is CS part of Mind, Brain, and Behavior?
+    
+
+
+Yes! More information about the CS MBB program is available on this page.
+
+
+
+Does a grade of SAT in CS50 count toward concentration or secondary credit?
+    
+
+
+Yes, a SAT in CS50 would count toward concentration
+or secondary credit.
+
+
+
+How do I change concentration advisors?
+    
+
+
+If you want to change your concentration advisor, you can fill in the advisor preference form. For your preferences to be used in assigning advisors before the Fall term, the deadline is July 31; for the Spring term it is December 31. We will try to honor your preferences, but may be unable to do so.
+
+
+
+What resources are available if I want to start my own company or develop a product?
+    
+
+
+This page contains links to a number of resources that can be helpful for CS students interested in developing a new product or starting a company. You can also  ask  to your faculty advisor for other suggestions.
+
+
+Secondary field
+
+What are the requirements for a secondary in computer science?
+    
+
+
+The main thing to note is that you need to take four computer science courses satisfying:
+
+At most two courses from the set CS 20, CS 32 OR CS 50, CS 51, and CS 61.
+All other courses must be numbered CS 96 or higher.
+
+(Students in the Class of 2023 and earlier may use the old requirements: any four courses from CS 50, CS 51, CS 61, or numbered CS 96 or higher.)
+However, please see our page on CS Secondaries for additional information.
+
+
+
+How do I declare a secondary in computer science?
+    
+
+
+Follow these instructions to declare a secondary concentration on my.harvard.edu.
+
+
+
+Can course X count towards a secondary in Computer Science?
+    
+
+
+Non-Harvard CS courses,  MIT courses,  and study abroad courses, do not count  towards a secondary in computer science. See our page on CS Secondaries for more details.
+
+
+
+Which Summer 2023 courses count for secondary field credit?
+    
+
+
+When taken in accordance with Harvard College’s policies for courses to count for degree credit, the following courses may count for secondary field credit:
+
+
+CSCI-20 counts as CS 20  (ordinarily will not count for secondary credit after more advanced coursework)
+
+
+CSCI S-50 counts as CS 50  (ordinarily will not count for secondary credit after more advanced coursework)
+
+
+CSCI S-111 counts as CS 50–only 4 credits for secondary, but counts as 8 credits for the degree  (ordinarily will not count for secondary credit after more advanced coursework)
+
+
+
+
+Joint concentration
+
+What are the requirements for a joint concentration?
+    
+
+
+The requirements for a CS joint concentration are the same regardless of whether CS is the primary or allied concentration.
+The requirements are the same as the basic plan of study, except that one fewer course overall is required and CS 91r may be use as an Advanced Computer Science course. See this page for more details.
+For students on old (2020 or earlier) plans of study, course requirements are the same as for the Requirements for Honors Eligibility, except that only three technical electives are required.
+A thesis in the intersection of the fields is required for joint concentrators, which will be read by both concentrations.  We strongly advise all our joint concentrators to make sure that they satisfy the non-joint requirements for at least one concentration, in case they are unable to complete a thesis.
+
+
+Opportunities in Computer Science
+
+How do I find out about internship and career opportunities?
+    
+
+
+Beyond the College’s central Office of Career Services, there is the SEAS’s Office of Student Career Development. Keith Karasek, the Director of Experiential and Career Development, puts out a weekly email with opportunities and is available to meet for a 25-minute session.
+CS Clubs and Activities also often post opportunities to their lists, and some run practice interviews.
+
+
+
+I love teaching! How can I get involved?
+    
+
+
+Harvard Computer Science hires undergraduate Course Assistants (CAs, often referred to in SEAS as a TF) in most courses. Typical responsibilities for this position include, but are not limited to, leading discussion or laboratory sections, holding office hours, answering student questions on course content, grading assignments, maintaining the course Canvas site, and attending course meetings. Applicants are encouraged to apply who have a strong interest in or understanding of the course material (for example, if you took the course and received an A- or an A). Alex Patel Fellows provide one-on-one tutoring embedded within a course.
+There are several ways to get involved in teaching in CS. Some courses send out recruiting calls directly to students (CS 50, 51, and several others). Every semester, Adam or Beth sends out a form to the cs-undergrads list and other places to help other courses start their recruiting process, and this is also how the Alex Patel Fellows are recruited. You may also want to reach out directly to faculty to show your interest or attend the event WiCS often hosts about teaching in CS.
+Another option, especially if you are interested in working one-on-one with other students, is peer tutoring through the Academic Resource Center. They usually hire a semester ahead of time. More information about qualifications and courses is availabe on their Student Employment page.
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Harvard John A. Paulson School of Engineering and Applied Sciences
+
+
+
+
+© 2023 President and Fellows of Harvard College
+
+Accessibility | Trademark Notice | Privacy Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

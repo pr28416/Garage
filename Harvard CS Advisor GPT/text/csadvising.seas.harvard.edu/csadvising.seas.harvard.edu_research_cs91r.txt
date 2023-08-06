@@ -1,0 +1,503 @@
+
+
+
+
+
+
+
+
+
+
+CS91r :: Harvard CS Concentration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ CS Undergrad Advising
+
+
+
+
+
+
+
+          FAQ
+          
+      
+
+
+
+          First-Year Exploration
+          
+      
+
+
+
+          Sophomore Advising
+          
+      
+
+
+
+          Concentration
+          
+      
+
+
+
+        Degree programs
+        
+        
+
+
+
+        Declaring CS concentration
+        
+        
+
+
+
+        Joint, double and combined concentrations
+        
+        
+
+
+
+        Honors
+        
+        
+
+
+
+          Concentration Requirements
+          
+      
+
+
+
+        Old Requirements
+        
+        
+
+
+
+        Comparison
+        
+        
+
+
+
+
+
+          Courses
+          
+      
+
+
+
+        Sample schedules and plans of study
+        
+        
+
+
+
+        Tags for computer science courses
+        
+        
+
+
+
+
+
+        Study abroad
+        
+        
+
+
+
+        Cross-registering at MIT
+        
+        
+
+
+
+
+
+          Secondary Field
+          
+      
+
+
+
+          Advising
+          
+      
+
+
+
+          Peer Concentration Advisors
+          
+      
+
+
+
+
+
+          Research
+          
+      
+
+
+
+        CS91r
+        
+        
+
+
+
+        Senior Thesis
+        
+        
+
+
+
+
+
+          Get Involved
+          
+      
+
+
+
+        Teaching and advising
+        
+        
+
+
+
+        Alex Patel Fellowship
+        
+        
+
+
+
+        Clubs and Activities
+        
+        
+
+
+
+        Entrepreneurship
+        
+        
+
+
+
+
+
+          Resources
+          
+      
+
+
+
+        How to Succeed in CS Courses
+        
+        
+
+
+
+
+
+          Diversity in CS
+          
+      
+
+
+
+          Forms
+          
+      
+
+
+
+          About CS
+          
+      
+
+
+
+        Careers of alumni
+        
+        
+
+
+
+        CS and Society
+        
+        
+
+
+
+        Curriculum Committee
+        
+        
+
+
+
+
+
+          Contact
+          
+      
+
+
+
+More
+
+
+ Courses
+
+
+ Course Tags
+
+
+ Accessibility
+
+
+
+
+
+
+
+
+
+
+Academics
+
+
+Computer Science
+
+
+
+
+
+
+
+
+
+
+ navigation
+                        
+
+
+
+Harvard Computer Science > Research > CS91r
+          
+        
+          
+        
+          
+        
+                 
+                  
+
+
+
+
+
+Who takes CS91r and why?
+Who can supervise a CS91r?
+How do I sign up for a CS91r?
+ 
+Can I take CS 91r over the Summer?
+
+
+
+
+
+
+
+
+
+
+              
+              CS91r
+            
+CS91r, Supervised Reading and Research, is a course for supervised
+instruction of a individual student by a CS faculty member. It is a
+letter-graded course (i.e., you can not take it Pass/Fail or Sat/Unsat).
+The CS Director of Undergraduate Studies (DUS) is the instructor
+officially “offering” the course for registration purposes, but the
+course is supervised instruction of an individual student by an
+individual faculty member. 
+The “r” in CS91r means that the course is repeatable. However, it can
+be taken at most once for CS concentration credit, and at most
+twice for degree credit.
+Who takes CS91r and why?
+CS91r is often taken by students writing a CS Senior Thesis, typically
+in their Senior Fall (when most of the work on their Senior Thesis
+happens). It can, however, be taken at any time during a student’s
+undergraduate degree. 
+Often a CS91r is a mechanism to enable a student to have sufficient time
+to work on research with a faculty member. But you don’t have to take a
+CS91r to be involved in research! You can do research over the summer,
+or during the semester.
+Note that per Harvard College
+policy, you can
+not receive academic credit for work for which you are financially
+compensated. So you cannot be paid for research that will be part of a
+CS91r. 
+Who can supervise a CS91r?
+The CS91r supervisor is typically a CS faculty member.
+Non-CS faculty members are occasionally permitted to be CS91r
+supervisors, but the student and the potential supervisor should contact
+the CS DUS well in advance of the Course Registration deadline. While we
+greatly appreciate the willingness of non-CS faculty to spend time and
+energy supervising a CS student for a CS91r, we want to ensure that the
+student will have a suitable research experience, with appropriate
+supervision. In particular, the CS91r should provide an opportunity for
+thinking like a researcher.  Even if the day-to-day activities of the
+project are going to be mundane, the student should be able to
+articulate what new knowledge is being sought and how their particular
+research activity contributes to the big goal.
+How do I sign up for a CS91r?
+Please follow these steps.
+
+
+Download the CS91r form.
+
+
+Student fills out the top portion of the form.
+
+
+The student and supervisor exchange the document electronically
+until both are satisfied with its description of the project and the
+basis for evaluation. The project description should have a
+recognizable research component.
+
+
+The student “signs” at the bottom by typing his/her name and sends
+the “signed” form to the supervisor.
+
+
+The supervisor “signs” at the bottom by typing his/her name and
+emails the signed copy to cs-dus@seas.harvard.edu from the
+supervisor’s official Harvard email address.
+
+
+The student requests to enroll in CS91r via my.harvard.
+
+
+The DUS will approve the student’s enrollment only upon receipt of
+the signed form from the supervisor. Student and supervisor will
+both receive copies of the completed document, “signed” by the
+DUS.
+
+
+ 
+Can I take CS 91r over the Summer?
+The Summer School allows students to enroll in a 91r: Supervised Reading and Research Course. Computer Science will treat this the same way it would treat a CS 91r during the semester.
+More information about this option is available at the Summer School Website.
+Process for Summer School 91r:
+
+
+Follow the directions as above and have your advisor submit a completed CS 91r form to cs-dus@seas.harvard.edu no later than June 13, 2023.  We will review your petition and sign if approved.
+
+
+Fill out the Summer School 91r Form with your advisor. CS-DUS will sign Section IV via email after the CS department’s form is approved.
+
+
+Submit your completed Summer School 91r form, completed Summer School registration form, and tuition payment to the Summer School by June 16, 2022, as described on the Summer School 91r form.
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Harvard John A. Paulson School of Engineering and Applied Sciences
+
+
+
+
+© 2023 President and Fellows of Harvard College
+
+Accessibility | Trademark Notice | Privacy Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

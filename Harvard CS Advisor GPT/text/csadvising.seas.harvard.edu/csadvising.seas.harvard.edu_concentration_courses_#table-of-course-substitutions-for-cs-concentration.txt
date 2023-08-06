@@ -1,0 +1,479 @@
+
+
+
+
+
+
+
+
+
+
+Courses :: Harvard CS Concentration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ CS Undergrad Advising
+
+
+
+
+
+
+
+          FAQ
+          
+      
+
+
+
+          First-Year Exploration
+          
+      
+
+
+
+          Sophomore Advising
+          
+      
+
+
+
+          Concentration
+          
+      
+
+
+
+        Degree programs
+        
+        
+
+
+
+        Declaring CS concentration
+        
+        
+
+
+
+        Joint, double and combined concentrations
+        
+        
+
+
+
+        Honors
+        
+        
+
+
+
+          Concentration Requirements
+          
+      
+
+
+
+        Old Requirements
+        
+        
+
+
+
+        Comparison
+        
+        
+
+
+
+
+
+          Courses
+          
+      
+
+
+
+        Sample schedules and plans of study
+        
+        
+
+
+
+        Tags for computer science courses
+        
+        
+
+
+
+
+
+        Study abroad
+        
+        
+
+
+
+        Cross-registering at MIT
+        
+        
+
+
+
+
+
+          Secondary Field
+          
+      
+
+
+
+          Advising
+          
+      
+
+
+
+          Peer Concentration Advisors
+          
+      
+
+
+
+
+
+          Research
+          
+      
+
+
+
+        CS91r
+        
+        
+
+
+
+        Senior Thesis
+        
+        
+
+
+
+
+
+          Get Involved
+          
+      
+
+
+
+        Teaching and advising
+        
+        
+
+
+
+        Alex Patel Fellowship
+        
+        
+
+
+
+        Clubs and Activities
+        
+        
+
+
+
+        Entrepreneurship
+        
+        
+
+
+
+
+
+          Resources
+          
+      
+
+
+
+        How to Succeed in CS Courses
+        
+        
+
+
+
+
+
+          Diversity in CS
+          
+      
+
+
+
+          Forms
+          
+      
+
+
+
+          About CS
+          
+      
+
+
+
+        Careers of alumni
+        
+        
+
+
+
+        CS and Society
+        
+        
+
+
+
+        Curriculum Committee
+        
+        
+
+
+
+
+
+          Contact
+          
+      
+
+
+
+More
+
+
+ Courses
+
+
+ Course Tags
+
+
+ Accessibility
+
+
+
+
+
+
+
+
+
+
+Academics
+
+
+Computer Science
+
+
+
+
+
+
+
+
+
+
+ navigation
+                        
+
+
+
+Harvard Computer Science > Concentration > Courses
+          
+        
+          
+        
+          
+        
+                 
+                  
+
+
+
+
+
+
+
+
+
+
+Which courses count for what?
+
+
+
+
+
+
+
+
+
+
+              
+              Courses
+            
+SEAS offers undergraduate and graduate courses in Computer
+Science.
+SEAS faculty also offer several Freshman Seminars. Many additional
+courses of interest to concentrators can be found in the Applied
+Mathematics, Engineering Sciences, Mathematics, Physics, and Statistics
+sections of the my.harvard course
+catalog.
+The SEAS 4 year course plan contains the most up to date plan for courses to be offered in the near future. You can filter the “catalog” entry to CS to see only Computer Science courses. The following courses are guaranteed to be offered at least once per year: CS 20, CS 50, CS 51, CS 61, CS 120, CS 121, CS 124, CS 181, CS 182.
+The Sample schedules and plans page contains some examples of plans of study that satisfy the CS concentration requirements.
+Placement
+Most students start with CS 50 or CS 32, even if they have had an AP course in
+Computer Science. These course are designed to accommodate both students
+who are starting from scratch and students with prior programming
+experience. However, some students have sufficient programming
+background to skip CS 50 and start with CS 51 or CS 61. See the CS 50
+FAQs for more advice, or consult the
+Directors of Undergraduate Studies.
+Students should consult with the Mathematics Department, Chemistry
+Department, and Physics Department for advice about appropriate
+placement in courses in those departments.
+CS 20, Discrete Mathematics for Computer Science, teaches the mathematics
+needed for later computer science courses that is not covered in the
+calculus and linear algebra sequence in Mathematics and Applied
+Mathematics. Some students may already have the background covered in the course or may wish to self-study the material, in which case they may be able to “place out” of taking CS 20 by this self-test and self-attestation form. The CS 121 page on Background and
+Prerequisites is a good source for figuring out if you need to take CS 20 before taking courses such as CS 120, CS 121, and CS 124.
+Which courses count for what?
+Students following the 2020 concentration requirements
+should read that description instead.
+
+The official information is in listed in our requirements page but we summarize here which courses count for fulfilling various requirements. The list below is not exhaustive, and if there is  any conflict between this list and the handbook, the handbook information is the correct one. We generally allow a student to replace a course with a more advanced course of the same type, though you should ask us for authorization in advance for each such case.
+Harvard extension school courses do not count for CS concentration courses. Harvard summer courses could potentially count if they are equivalent to courses that are counted in the concentration (e.g., summer versions of CS 50 or Stat 110 or other math classes). Courses taken at other universities  do not count towards the concentration, unless part of an official study abroad program, or you are a transfer student. (If you are a transfer student, come talk to us and we will decide which courses to count on a case-by-case basis).
+No more than two of the courses used to satisfy CS requirements may be taken PA/FL or SUS. Of the tag requirements, courses taken PA/FL or SUS can be used only for the Programming 1 and Advanced Computer Science tags. For instance, if taken PA/FL, CS 124 would not satisfy the Formal Reasoning or Algorithms tags.
+Ordinarily, introductory courses can not be taken for concentration credit after more advanced courses. For example, courses tagged programming1 (e.g. CS 32, CS 50) ordinarily will not count for concentration credit if taken after courses tagged programming2 (e.g. CS 51, CS 61). Similarly, CS 20 ordinarily will not count for concentration credit after courses tagged algorithms (e.g. CS 120, CS 124) or limits of computation (e.g. CS 120, CS 121).
+
+
+Mathematical preparation: The Linear Algebra requirement can be fulfilled by one of Math 22a/23a/25a/55a/21b or AM 22a. The statistics/probability requirement can be fulfilled by STAT 110.  Depending on math placement, students may need to take one or more out of Math Ma, Mb, 1a, or 1b as preparation for these courses. For students that place into the Math 21 or above series, we recommend they take a linear algebra course in first-year fall. Hence we recommend taking Math 22a, AM 22a or Math 21b over taking Math 21a in the first-year fall.
+
+
+Programming requirement:  A standard way to fulfill the programming 1 and 2 requirement is to take either CS 50 or CS 32 as a first programming course, and then take either CS 51 or CS 61 as a second programming course. However, depending on your background and interests, there can be other ways to fulfill it by either skipping CS 50 / 32, or taking an alternative course to CS 51 / 61 (see also placement above).
+
+
+Formal reasoning requirement:  Common combinations for fulfilling the formal reasoning requirement include CS 20 + CS 121 + CS 124 and CS 20 + CS 120 + CS 124. However, there are many other approaches. Some students may be able to skip CS 20 (see placement above), leaving room for other courses such as CS 136, CS 152, and CS 183 that also satisfy the formal reasoning requirement. We recommend all concentrators take CS 124 (algorithms), but it is only required for the honors track. See also this FAQ about the differences between CS 120, CS 121, and CS 124.
+
+
+Computer science core courses: The full list of CS core courses is listed in the tags table, which includes all courses with CS numbers, as well as several courses from other concentrations/departments.
+
+
+Summer courses: Summer courses that receive college credit and are the equivalent of courses that are offered during the term are treated equally. In particular, provided you get college credit for it, CSCI S-20 counts as equivalent to CS 20, CSCI S-109A counts as equivalent to CS 109A, and CSCI S-50 (Summer 2020 & 2021) or CSCI S-111 counts as equivalent to CS 50. Students may also take a Summer CS 91r, which would count as CS 91r.
+
+
+Other courses:  Some MIT course 6 courses can be used as CS core courses: consult the DUSes before enrolling. Please visit our cross-registration page for directions on cross-registration. Some study abroad courses count, though you should always check with the DUSes in advance. Courses and requirements change, and you should not assume that a course will count even if you know it did so in the past. Note: Harvard CS does not ordinarily allow concentration credit for MIT courses that are equivalent to one of our annual core courses (CS 20, 50, 51, 61, 120, 121, 124, 181, and 182).
+
+
+
+
+Tags: The following  table contains information about which courses satisfy the following tags: programming 1, programming 2, formal reasoning, discrete mathematics, computational limitations, algorithms, intermediate algorithms, systems, computation and the world, artificial intelligence, advanced computer science.
+
+
+Secondary: The requirements for a CS secondary are rather light (only four courses) but these have to be Harvard CS courses numbered 100 and higher, or at most two of CS 20, 32 or 50, 51, & 61.  You cannot count non-CS Harvard courses, MIT courses, or study abroad courses.  See this web page for more information. If you are a transfer student, contact the CS DUSes for information on whether courses from the previous institution can count.
+
+
+If you have questions about what courses (at Harvard, MIT, or elsewhere) count for concentration credit, feel free to contact the DUSes.
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Harvard John A. Paulson School of Engineering and Applied Sciences
+
+
+
+
+© 2023 President and Fellows of Harvard College
+
+Accessibility | Trademark Notice | Privacy Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

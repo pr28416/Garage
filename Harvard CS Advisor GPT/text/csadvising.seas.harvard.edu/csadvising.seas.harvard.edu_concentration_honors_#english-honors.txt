@@ -1,0 +1,569 @@
+
+
+
+
+
+
+
+
+
+
+Honors :: Harvard CS Concentration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ CS Undergrad Advising
+
+
+
+
+
+
+
+          FAQ
+          
+      
+
+
+
+          First-Year Exploration
+          
+      
+
+
+
+          Sophomore Advising
+          
+      
+
+
+
+          Concentration
+          
+      
+
+
+
+        Degree programs
+        
+        
+
+
+
+        Declaring CS concentration
+        
+        
+
+
+
+        Joint, double and combined concentrations
+        
+        
+
+
+
+        Honors
+        
+        
+
+
+
+          Concentration Requirements
+          
+      
+
+
+
+        Old Requirements
+        
+        
+
+
+
+        Comparison
+        
+        
+
+
+
+
+
+          Courses
+          
+      
+
+
+
+        Sample schedules and plans of study
+        
+        
+
+
+
+        Tags for computer science courses
+        
+        
+
+
+
+
+
+        Study abroad
+        
+        
+
+
+
+        Cross-registering at MIT
+        
+        
+
+
+
+
+
+          Secondary Field
+          
+      
+
+
+
+          Advising
+          
+      
+
+
+
+          Peer Concentration Advisors
+          
+      
+
+
+
+
+
+          Research
+          
+      
+
+
+
+        CS91r
+        
+        
+
+
+
+        Senior Thesis
+        
+        
+
+
+
+
+
+          Get Involved
+          
+      
+
+
+
+        Teaching and advising
+        
+        
+
+
+
+        Alex Patel Fellowship
+        
+        
+
+
+
+        Clubs and Activities
+        
+        
+
+
+
+        Entrepreneurship
+        
+        
+
+
+
+
+
+          Resources
+          
+      
+
+
+
+        How to Succeed in CS Courses
+        
+        
+
+
+
+
+
+          Diversity in CS
+          
+      
+
+
+
+          Forms
+          
+      
+
+
+
+          About CS
+          
+      
+
+
+
+        Careers of alumni
+        
+        
+
+
+
+        CS and Society
+        
+        
+
+
+
+        Curriculum Committee
+        
+        
+
+
+
+
+
+          Contact
+          
+      
+
+
+
+More
+
+
+ Courses
+
+
+ Course Tags
+
+
+ Accessibility
+
+
+
+
+
+
+
+
+
+
+Academics
+
+
+Computer Science
+
+
+
+
+
+
+
+
+
+
+ navigation
+                        
+
+
+
+Harvard Computer Science > Concentration > Honors
+          
+        
+          
+        
+          
+        
+                 
+                  
+
+
+
+
+
+
+
+English Honors
+Latin Honors
+Historical data
+
+
+
+
+
+
+
+
+
+
+
+
+              
+              Honors
+            
+There are two types of honors for undergraduates: Latin honors (summa, magna, cum laude) are determined by the College and English honors (highest honors, high honors, honors) are determined by concentrations. More precisely, the Latin honors are: “summa cum laude in a field”, “magna cum laude with Highest Honors in a field”, “magna cum laude in a field”, “cum laude in a field”, and “cum laude on the basis of the student’s overall record”.
+English Honors
+To receive English honors in Computer Science, students must have a high
+grade point average and must also fulfill a more demanding course
+program than the basic program.  There are several honors tracks within
+Computer Science (see the Computer Science handbook entry for more details):
+
+
+The standard honors program requires two additional courses on top of the basic requirements, as well as greater depth in certain areas.  See this table as well as the handbook entry
+for the details.
+
+
+Joint Concentrations and the Mind, Brain, and Behavior Program are also part of the honors track.  For a joint concentration, ultimately the primary field is responsible for the English honors recommendation.
+
+
+All levels of English honors in Computer Science are decided individually by vote of the Computer Science faculty based on the
+student’s academic and scientific achievements. In making this determination, the faculty looks not only on the concentration GPA but also on the overall level of ambition in the course program. For high honors and highest honors a (strong) thesis is required as well.
+Ordinarily, honors in Computer Science requires a concentration GPA of at least 3.5 in the courses on the student’s Computer Science study plan; high honors in
+Computer Science requires a concentration GPA of at least 3.75 and an excellent thesis; and highest honors in Computer Science requires a concentration GPA of at least 3.85 and an outstanding thesis.
+Latin Honors
+Latin honors are awarded by the college based on students' overall GPA as well as recommendations from the concentration.
+The Harvard College Handbook for Students contains the official requirements for Latin honors, which are summarized here:
+
+
+Summa cum laude in a field:
+
+Highest Honors from concentration
+Top 5% of graduating class drawn from those designated for Highest Honors
+
+
+
+Magna cum laude:
+
+No more than 20% of graduating class can receive summa or magna
+“Magna cum laude with Highest Honors in a field” requires Highest Honors from concentration
+“Magna cum laude in a field” requires High Honors from concentration
+
+
+
+Cum laude in a field:
+
+Honors, High Honors, or Highest Honors from concentration
+No more than 50% of graduating class can receive summa, magna, or cum
+
+
+
+Cum laude on the basis of the student’s overall record:
+
+GPA above the magna cutoff, up to at most 10% of graduating class
+(No English honors.)
+
+
+
+Historical data
+Here is historical data on the GPA threshholds established by the Faculty for awarding degrees Magna Cum Laude and Cum Laude in Field. See the Registrar’s page on Graduation and Diplomas for GPA thresholds for the latest academic year.
+
+
+
+
+Cum Laude in Field
+Magna Cum Laude/Cum Laude
+Summa Cum Laude in Field
+
+
+
+
+2009
+3.448
+3.721
+
+
+
+2010
+3.472
+3.74
+
+
+
+2011
+3.48
+3.75
+
+
+
+2012
+3.484
+3.756
+
+
+
+2013
+3.48
+3.763
+
+
+
+2014
+3.511
+3.769
+
+
+
+2015
+3.525
+3.772
+
+
+
+2016
+3.538
+3.794
+
+
+
+2017
+3.571
+3.81
+3.934
+
+
+2018
+3.62
+3.844
+3.947
+
+
+2019
+3.623
+3.846
+3.941
+
+
+2020
+3.655
+3.853
+3.956
+
+
+2021
+3.736
+3.898
+3.97
+
+
+2022
+3.757
+3.909/3.911
+3.976
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Harvard John A. Paulson School of Engineering and Applied Sciences
+
+
+
+
+© 2023 President and Fellows of Harvard College
+
+Accessibility | Trademark Notice | Privacy Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

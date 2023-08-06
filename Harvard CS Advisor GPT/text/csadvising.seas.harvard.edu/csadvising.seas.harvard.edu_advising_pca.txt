@@ -1,0 +1,838 @@
+
+
+
+
+
+
+
+
+
+
+Peer Concentration Advisors :: Harvard CS Concentration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ CS Undergrad Advising
+
+
+
+
+
+
+
+          FAQ
+          
+      
+
+
+
+          First-Year Exploration
+          
+      
+
+
+
+          Sophomore Advising
+          
+      
+
+
+
+          Concentration
+          
+      
+
+
+
+        Degree programs
+        
+        
+
+
+
+        Declaring CS concentration
+        
+        
+
+
+
+        Joint, double and combined concentrations
+        
+        
+
+
+
+        Honors
+        
+        
+
+
+
+          Concentration Requirements
+          
+      
+
+
+
+        Old Requirements
+        
+        
+
+
+
+        Comparison
+        
+        
+
+
+
+
+
+          Courses
+          
+      
+
+
+
+        Sample schedules and plans of study
+        
+        
+
+
+
+        Tags for computer science courses
+        
+        
+
+
+
+
+
+        Study abroad
+        
+        
+
+
+
+        Cross-registering at MIT
+        
+        
+
+
+
+
+
+          Secondary Field
+          
+      
+
+
+
+          Advising
+          
+      
+
+
+
+          Peer Concentration Advisors
+          
+      
+
+
+
+
+
+          Research
+          
+      
+
+
+
+        CS91r
+        
+        
+
+
+
+        Senior Thesis
+        
+        
+
+
+
+
+
+          Get Involved
+          
+      
+
+
+
+        Teaching and advising
+        
+        
+
+
+
+        Alex Patel Fellowship
+        
+        
+
+
+
+        Clubs and Activities
+        
+        
+
+
+
+        Entrepreneurship
+        
+        
+
+
+
+
+
+          Resources
+          
+      
+
+
+
+        How to Succeed in CS Courses
+        
+        
+
+
+
+
+
+          Diversity in CS
+          
+      
+
+
+
+          Forms
+          
+      
+
+
+
+          About CS
+          
+      
+
+
+
+        Careers of alumni
+        
+        
+
+
+
+        CS and Society
+        
+        
+
+
+
+        Curriculum Committee
+        
+        
+
+
+
+
+
+          Contact
+          
+      
+
+
+
+More
+
+
+ Courses
+
+
+ Course Tags
+
+
+ Accessibility
+
+
+
+
+
+
+
+
+
+
+Academics
+
+
+Computer Science
+
+
+
+
+
+
+
+
+
+
+ navigation
+                        
+
+
+
+Harvard Computer Science > Advising > Peer Concentration Advisors
+          
+        
+          
+        
+          
+        
+                 
+                  
+
+
+
+
+
+
+
+Matching
+Search Bios
+Peer Concentration Advisor Bios
+
+
+
+
+
+
+
+
+
+
+
+
+              
+              Peer Concentration Advisors
+            
+Peer Concentration Advisors (PCAs) serve as peer advisors for current
+CS concentrators and pre-concentrators, providing a valuable
+perspective and helping students to discover additional resources and
+opportunities. Students can reach out to meet with PCAs with similar
+academic, career, or extracurricular interests.
+For more information, please reach out to the PCA Co-Captains, Matthew Nazari and Sophia Cho, through the email address cs-pca@seas.harvard.edu.
+Matching
+To be matched with a PCA, please fill out our form here.
+Search Bios
+
+
+
+
+Peer Concentration Advisor Bios
+
+
+
+Aika Aldayarova
+
+
+    Class of 2024, lives in Eliot.
+https://www.linkedin.com/in/aikaaldayarova
+https://github.com/aaldayarova
+https://twitter.com/AAldayarova
+amaldayarova@college.harvard.edu
+
+About Me:  Hi everyone! I am a junior in Eliot studying CS and Neuroscience (jointly, for now) and have interests in the general field of AI, but more specifically natural language processing, computer vision, and the applications of AI for social good. Outside of classes, I love reading books, staying active, exploring new places, and spending quality time with my loved ones. Feel free to reach out to me about anything I’ve mentioned, or if you have thoughts about research, grad/post-grad school, and the big academia vs. industry dialogue.
+CS Interests: Artificial Intelligence, Machine Learning, AI for Social Good, Product Management
+Other Interests: Yoga/pilates, running, reading, piano (“Spring Waltz” is my favorite piece!!), travel
+Concentration: Computer Science & Neuroscience (joint)
+Courses:  (Took) CS50, CS51, CS20, CS141, CS191, Neuro 80, Neuro 140, Neuro 143, Math 21 series; (Taking now) CS120, CS79, Neuro 101U
+Tags: Joint Concentration, Grad/Post-grad Plans
+Affinity Groups WiCS (Women in CS)
+
+
+
+April Chen
+
+
+    Class of 2023, lives in Adams.
+https://www.linkedin.com/in/aprilchen01/
+aprilchen@college.harvard.edu
+
+About Me: I’m from near San Francisco, California, and a senior in Adams. I’m doing a concentration in CS, a secondary in Government, and concurrent master’s in CS. I’m generally interested in civic tech, tech for social good, and tech policy, especially related to education and social justice. Happy to talk about CS research, internships (startups/big tech/research), tech for social good, classes, or anything else!
+CS Interests: Data science, ML, equity/bias
+Other Interests: Music (acapella, orchestras, opera)
+Concentration: Computer Science
+Courses: CS50, CS61, CS 121, CS 124, MIT 6.036, Stat 110, CS 136, CS226r, CS260r, CS238
+Tags: Internships, Research, CS & Humanities, Entrepreneurship, AB/SM
+Affinity Groups WiCS
+
+
+
+Austin Wenxuan Li
+
+
+    Class of 2023, lives in Eliot.
+https://www.linkedin.com/in/austinwli
+awli@college.harvard.edu
+
+About Me: I’m from Chicago, IL, and am a rising senior in Eliot. I’m doing a joint concentration in Physics and CS (with a secondary in Government) and really interested in tech for social good and quantum computing. Happy to talk about physics/CS research, joint concentrations, startups, tech for social good, or anything else!
+CS Interests: Data science, ML, AI safety, computational social choice, quantum computation/algorithms
+Other Interests: Politics and law, Philosophy (casually), Asian American Literature, Volleyball, Board and card games
+Concentration: Physics and Computer Science
+Courses:  CS: 50, 51, 124, 136, 181, 236, 91r; Physics: 16, 153, 15c, 143a/b, 181; Math: 25a/b, 122; Stat: 110; MIT: 6.840 (Theory of Computation), 8.370 (Quantum Computation)
+Tags: FGLI, Joint Concentration, Research, Internships, Started CS Late, CS & Humanities, Entrepreneurship
+Affinity Groups CSA, AAA
+
+
+
+Brian Ham
+
+
+    Class of 2025, lives in Dunster.
+bham@college.harvard.edu
+
+About Me: Hello! I’m a rising sophomore from Seoul, Korea planning to study computer science, statistics, or something in between. I’m primarily interested in machine learning and its many applications to the real world, such as climate change, healthcare, and natural language processing. I’m also passionate about the intersection of data science and journalism. In my free time, you can find me playing with the Futsal Club or in the Pops Orchestra, as well as writing for the Crimson magazine. Feel free to reach out about any and all questions you have!
+CS Interests: Machine learning, Natural language processing, Social impact
+Other Interests: Journalism, Chess, Soccer/Basketball, Music
+Concentration: Computer Science/Statistics
+Courses:  CS50, CS124, CS61, MIT 6.036, Math 22a, Math 122, Stat 110  bham@college.harvard.edu
+Tags: International, Research, Joint Concentration, AB/SM
+Affinity Groups Korean Association
+
+
+
+Eric Meng Shen
+
+
+    Class of 2024, lives in Winthrop.
+https://www.linkedin.com/in/eric-shen/
+ericshen@college.harvard.edu
+
+About Me: I’m a rising junior studying Applied Math with a focus in CS, aiming also to obtain a Master’s in Statistics. I originally hail from Toronto, but spent this past summer working as a software engineer intern in New York City. I’ve been on the course staff for CS50 and CS124, and am also involved with the Harvard College Consulting Group. Happy to chat about choosing courses, student groups, research, or any topic—related or not!—to CS.
+CS Interests: Software Engineering, Data Science, ML, CS Education
+Other Interests: All things music (broadly rock, hip-hop, classical); biking, running, climbing, snow sports
+Concentration: Applied Math/CS
+Courses:  CS50, CS51, CS61, CS124, CS208, STAT111, STAT210, MIT 6.0001/2, MIT 6.036
+Tags: International Students (Canadians), Internships, Started CS Late, Applied Mathematics, AB/SM, Research, Pre-Professional Organizations, Teaching Staff
+
+
+
+Eshika Saxena
+
+
+    Class of 2023, lives in Lowell.
+https://www.linkedin.com/in/eshikasaxena/
+eshikasaxena@college.harvard.edu
+
+About Me: I’m interested in artificial intelligence, deep learning, computer vision, and the intersection of computer science and healthcare. On campus, I’m involved with WiCS, GAMI, SWE, and WIB. I’m happy to talk about doing CS research, finding internships, CS courses, AB/SM, TF/CAing courses, and life in general! Feel free to reach out anytime :)
+CS Interests: ML, Computer Vision, Explainable Artificial Intelligence (XAI)
+Other Interests:  Baking, Teaching CS, Traveling, and Dancing
+Concentration: Computer Science
+Courses:  Stat 110, CS50, CS51, CS109a/b, CS121, CS124, CS136, CS171, CS179, CS182, CS226r, CS242, CS286, MIT 6.036
+Tags: CS research, AB/SM, SWE internships
+Affinity Groups South Asian Association
+
+
+
+Evan Howard
+
+
+    Class of 2024, lives in Dunster.
+https://www.linkedin.com/in/evan-p-howard/
+evanhoward@college.harvard.edu
+
+About Me: I’m a junior in Dunster originally from outside Washington D.C. in Virginia, and I’m studying Computer Science with a secondary in TDM/Statistics/History/who knows it’s up in the air. I’m most interested in systems and low-level programming, but am constantly exploring the CS curriculum to hopefully learn at least a little bit about every major area. I really enjoy TFing and have TFed CS50, CS124, and am TFing CS121 in Fall 2022. Besides my CS interests, I’m heavily involved in the Theater community at Harvard, both acting and working on tech for shows.
+CS Interests: Systems, Machine Learning, App/Web Dev, CS Education
+Other Interests: Theater, NBA, Science Fiction, Video Games
+Concentration: Computer Science
+Courses:  CS51, CS61, CS121, CS124, CS153, CS161, CS205, STAT110, STAT111
+Tags: Internships, AB/SM, CS & Theater
+
+
+
+Hannah Zhou
+
+
+    Class of 2025, lives in Mather.
+https://www.linkedin.com/in/hannahgz/
+hzhou@college.harvard.edu
+
+About Me: I’m a sophomore in Mather originally from Palo Alto, California! I’m interested in web development, machine learning, STEM education, and the general interdisciplinary applications of CS. Would love to talk about CS/ML research, computational biology, tech internships, women in tech, classes, or life in general :) Outside of CS, I also love traveling, reading, dancing, spikeball, and going on hikes!
+CS Interests: Machine Learning, CS Education
+Other Interests: Reading, Traveling, Dancing, Spikeball, History
+Concentration: Computer Science, secondary in Economics
+Courses:  CS50, CS20, CS181, STAT110, CS61, CS120
+Tags: Research, Internships
+Affinity Groups WiCS
+
+
+
+Jothi Ramaswamy
+
+
+    Class of 2024, lives in Cabot.
+https://jothiramaswamy.com/
+https://linkedin.com/in/jothiramaswamy
+jramaswamy@college.harvard.edu
+
+About Me: I’m a junior in Cabot, originally from Westchester, NY. I’m passionate about building and supporting tech that is mission driven and has social impact. I am really interested in supporting women in STEM, and have previously hosted my own podcast interviewing women in STEM, media, and entrepreneurship. I spent the 2020-2021 school year on a leave of absence and I’m open to discussing my experiences making this decision! On campus, I have TF’d CS50 and I’m TF’ing Stat110 this fall, I am involved in Harvard Blockchain’s Crypto 101 wing, and I’m planning on pursuing the AB/SM program in CS. I have also pursued multiple SWE internships that I would be happy to talk about!
+CS Interests: Machine Learning, CS Education, iOS App Development
+Other Interests: Podcasts, Dance, Educational equity, Venture Capital, Blockchain
+Concentration: Computer Science
+Courses:  CS50, STAT110, CS124, CS121, CS136, CS181, CS191, CS231
+Tags: Internships, Entrepreneurship, AB/SM
+Affinity Groups WiCS, South Asian Association
+
+
+
+Karina Halevy
+
+
+    Class of 2023, lives in Currier.
+https://github.com/enscma2
+”https://linkedin.com/in/khalevy”
+khalevy@college.harvard.edu
+
+About Me: I’m a senior interested in natural language processing (NLP)/computational linguistics, education, and the intersections of CS with/applications of CS to public policy/law/social science/history. Outside of CS, I’m also interested in performing arts [administration] (especially dance) and public service. I’m happy to talk about NLP, CS research, TFing/designing curriculum/tutoring/educational equity, summer tech internship recruiting (particularly software engineering and industry research roles), and getting involved with the Harvard-Radcliffe Modern Dance Company or the Phillips Brooks House Association!
+CS Interests: Natural Language Processing, AI/ML ethics/fairness, Computational Social Science, Academic Research
+Other Interests:  Educational equity & accessibility, dance, arts administration, public service
+Concentration: Computer Science, History
+Courses: CS50, CS51, CS61, MIT 6.840, CS124, CS181, CS187, CS226R, CS287R, STAT110, STAT111, MATH23A/B
+Tags: Research, Internships, Joint Concentration
+Affinity Groups: WiCS
+
+
+
+Lucy He
+
+
+    Class of 2023, lives in Winthrop.
+luxihe@college.harvard.edu
+
+About Me: I’m interested in ML & recommendation systems, mathematical modeling, data analysis, and carbon footprint of computing devices. Outside of classes, I’m also passionate about EdTech and curating open-source collaborative community. I also love musical theater, reading, and traveling (sadly not now). Feel free to reach out about international student experience as well. Happy to chat about any of the above or anything else you’d like to discuss.
+Concentration: Joint Computer Science and Math
+Courses: CS50, CS51
+Tags: International, Joint Concentration
+
+
+
+Maegan Jong
+
+
+    Class of 2024, lives in Winthrop.
+https://www.linkedin.com/in/maegan-jong/
+maeganjong@college.harvard.edu
+
+About Me:  I’m from the Chicagoland area and am a junior in Winthrop studying AB/SM Computer Science and a secondary in Statistics. I’ve explored various tech industry roles like software engineering, data science, and product management and am open to talking about anything related to them! I’m also interested in research and applications of CS in social sciences.
+CS Interests: Data Science, Machine Learning, Systems, Cloud Computing
+Other Interests: Dance, Group Fitness
+Concentration: Computer Science with a secondary in Statistics
+Courses:  CS50, CS61, CS124, CS187, CS238, CS260r, CS286, STAT110
+Tags: AB/SM, Research, Internships, Student Organizations
+Affinity Groups Harvard Computer Society, WiCS
+
+
+
+Matthew Nazari
+
+
+    Class of 2024, lives in Mather.
+https://github.com/mattynaz
+https://matthewnazari.info/
+matthewnazari@college.harvard.edu
+
+About Me: I’m a Junior at Mather from San Jose studying CS, Ling, and NELC. This summer, I interned at Apple as an ML Engineer and did linguistics fieldwork in Armenia for Assyrian Neo-Aramaic. After completing my AB/SM requirements my Sophomore year, I’m now focusing full time on ML research with Harvard’s DtAK group and on the preservation of Neo-Aramaic with the University of Cambridge. Outside of courses, this year I will be a TF for AC297r and Head TF for CS181. Outside of academia in general, catch me on night runs along the Charles or in the ceramics studio. Feel free to reach out whenever, I would love to help out with course selection, navigating internship applications, etc.
+CS Interests: ML, Education, Web Dev, Extremely Low-Resource NLP
+Other Interests: Running, Reading, Film
+Concentration: Computer Science, Ling, NELC
+Courses:  CS50, CS51, CS124, CS153, CS181, CS205, CS231, CS242, CS282r, CS 282r, CS282br, CS288, CS299r, AM207
+Tags: FGLI, AB/SM, TFing, Internships, Research, Joint Concentration
+Affinity Groups Armenian Student Association
+
+
+
+Miah Caine
+
+
+    Class of 2023, lives in Leverett.
+https://www.linkedin.com/in/miah-c-965b5713b
+mcaine@college.harvard.edu
+
+About Me: Hi everybody! My name is Miah Caine and I’m a senior from Detroit, MI concentrating in CS with a Math secondary and a Spanish citation. Throughout college, I’ve been a member of several clubs including Women in CS, ABHW, and HSBSE, and I’ve done a bit of research with the Atmospheric Chemistry group over at SEAS. I came into college with no computer science experience, but I’ve had a great time exploring what the CS department has to offer for the past 3 years! So far, my favorite CS class at Harvard has been tied for CS171 and CS61. Outside of school, I love to roller skate, listen to and find new music, and explore the area to find new restaurants with my friends.
+CS Interests: Human Computer Interaction, Backend development, Robotics, Artificial Intelligence
+Other Interests:  I’m also really interested in learning different languages!
+Concentration: Computer Science
+Courses:  CS50, CS20, CS61, CS171, STAT110, CS187, AM120, CS124
+Tags: FGLI, Internships, Non-CS research, Started CS late  
+Affinity Groups Black Students Association, Generational African American Students Association, Association of Black Harvard Women, Women in Computer Science.
+
+
+
+Michael Wu
+
+
+    Class of 2022, lives in Eliot.
+https://github.com/michaeldwu
+https://www.linkedin.com/in/michaeldwu/
+https://michaeldwu.com/
+mdwu@college.harvard.edu
+
+About Me: Hey! I’m a social entrepreneur dedicated to building things that make a difference. I’m currently doing half-time machine learning research at Harvard for creating fairer ML algorithms in education and working on a peer-to-peer charitable fundraising app. In the past, I’ve built solar-powered microreactors for sustainable pharmaceutical synthesis, analyzed secondary organic aerosols and their impacts on global warming, published a few papers and created a free virtual college applications counselor called Etruscan. I’m an HBS Tech Fellow too so hit me up if you’re interested in learning more about the startup scene on campus.
+CS Interests: ML, Social Impact, App/Web Dev, Genomics, Fintech
+Other Interests: Basketball (Go Lakers!), Chess, Reading, Football
+Concentration: Computer Science
+Courses: CS 50, CS 124, CS 181, Stat 110, AM 120, CS 136, CS 121
+Tags: Entrepreneurship, Research, CS & Humanities
+
+
+
+Nina Lei
+
+
+    Class of 2025, lives in Currier.
+https://www.linkedin.com/in/nlei1/
+nlei@college.harvard.edu
+
+About Me: My name is Nina and I am a sophomore in Currier studying CS and Statistics originally from Taipei, Taiwan. On campus, I take CS, Stat, and Math classes and do research applying NLP to pharmacoepidemiology. In the past, I’ve worked on initiatives in CS education equity and digital humanities projects applying computing to history and literature.
+CS Interests: Natural Language Processing, Machine Learning, Data Science
+Other Interests: long-distance running, hiking, exploring new places
+Concentration: Computer Science and Statistics
+Courses:  CS51, CS61, CS120, Stat 110, Stat 111, Stat 139, Stat 221
+Tags: Research, Joint Concentration
+Affinity Groups WiCS, Taiwanese Cultural Society
+
+
+
+Olayeni Oladipo
+
+
+    Class of 2023, lives in Kirkland.
+linkedin.com/in/olayenioladipo
+olayeni_oladipo@college.harvard.edu
+
+About Me: I’m a senior from Boston, Massachusetts, studying Computer Science, Philosophy, and Mandarin Chinese! I’m involved with Women in CS, Women in Business, and a few cultural organizations on campus. I’m interested in making joy-inducing products and have done so through internships at companies big, medium, and small. Happy to talk about all things CS, finding belonging in the department, and transitioning to college!
+CS Interests: Machine Learning, Tech Ethics, Natural Language Processing, Product Management
+Other Interests: Music, Design
+Concentration: Computer Science. Secondary in Philosophy, Language Citation in Mandarin Chinese
+Courses:  CS50, CS51, MIT 6.840, STAT110, CS124, CS61, CS187, CS179
+Tags: CS & Humanities, Internships, Entrepreneurship
+Affinity Groups Harvard Nigerian Students Association, Harvard Black Students Association, Association of Black Harvard Women
+
+
+
+Prateek Pinisetti
+
+
+    Class of 2022.5, lives in Dunster.
+https://www.linkedin.com/in/prateek-pinisetti-606287171/
+prateek_pinisetti@college.harvard.edu
+
+About Me: I’m originally from Phoenix, Arizona, and am a second-semester senior in Dunster House. I’m interested primarily in computer systems, including OS, systems security, and high performance computing. I’m currently planning on working in the trading industry after graduation, and am generally interested in markets and finance as well. Outside of CS, I enjoy playing chess, reading books, traveling, and basketball. I’m always happy to talk about internships, my own journey through CS (especially while starting late) and any other random topics!
+CS Interests: Low-level programming, operating systems, systems security, high-performance computing
+Other Interests: Snowboarding/skiing, reading, chess, basketball, poker, markets
+Concentration: Computer Science
+Courses:  CS 50, CS 61, CS 20, CS 121, CS 124, CS 141, CS 161, Stat 110, CS 286, CS 263, AM 22A, CS 153, CS 242, CS 283, CS 109B, CS205
+Tags: Started CS Late, Internships
+
+
+
+Richard Qiu
+
+
+    Class of 2023, lives in Pforzheimer.
+https://www.linkedin.com/in/richard-qiu/
+rqiu@college.harvard.edu
+
+About Me: Hi! I’m a senior from Roanoke, VA in Pfoho, studying physics and CS. I’m interested in data science, machine learning, and high performance computing, as standalone fields and in their applications for science (I work mostly on black hole physics!). I’m most familiar with computational science, TFing, taking leaves of absence, and the AB/SM program, but feel free to reach out about anything relating to the CS student experience!
+CS Interests: Data Science, Deep Learning, Machine Learning for Science, High Performance and Scientific Computing
+Other Interests: Astrophysics (black holes, gravitational waves), cooking/baking
+Concentration: Physics (formerly Physics and CS), CS SM
+Courses:  CS50, CS 124, MIT 18.404/6.5400, CS 281, CS 242, CS 231, CS 205, AM 120, AM 207
+Tags: Research, AB/SM, Gap Year/Leave of Absence, TFing
+
+
+
+Sílvia Casacuberta Puig
+
+
+    Class of 2023, lives in Dunster.
+https://twitter.com/SiCaPu
+scasacubertapuig@college.harvard.edu
+
+About Me: Hello! I’m a senior from Barcelona studying a joint concentration in Mathematics and CS, with a concurrent masters in CS and a secondary in Philosophy. I’m interested in theoretical computer science, particularly cryptography, privacy, and fairness. I have been heavily involved in CS research during my undergrad (at Harvard and abroad) and I have TFed for CS 120, CS 124, Math 1b, and AM 107. I’d love to talk to you about research opportunities at Harvard (e.g., PRISE, HCRP, Herchel-Smith), CS research opportunities in Europe, joint concentrations, the AB/SM program, the theory CS group at Harvard, TFing classes, or doing a senior thesis! On campus I am affiliated with WiCS and GIIM. Outside of CS and math, I play the violin and I’m involved in several music groups!
+CS Interests: Theoretical Computer Science, Cryptography, Privacy, Fairness
+Other Interests: Classical music, Photography, Philosophy
+Also: I’m also an international student, so happy to talk to fellow international students in the CS community! I care a lot about increasing diversity in CS and math, so can also discuss anything related to that. Or you can email me about anything, don’t hesitate to ask if you have any questions about CS!
+Concentration: Mathematics and Computer Science
+Courses:  CS 50, CS 121, CS 124, CS 152, CS 191, CS 226r, CS 227, CS 238, STAT 110, MATH 22a/b, MATH 112, MATH 113, MATH 122, MATH 123, MATH 129, MATH 131, MATH 280Z, MATH 288Y
+Tags: International, Research, Thesis, Joint Concentration, AB/SM, CS & Humanities
+Affinity Groups Women in CS (WiCS), Gender Inclusivitiy in Mathematics (GIIM), Woodbridge International Society
+
+
+
+Siona Prasad
+
+
+    Class of 2023, lives in Lowell.
+http://sionaprasad.com
+sionaprasad@college.harvard.edu
+
+About Me: My name is Siona and I am currently a senior in Lowell studying Computer Science and Global Health/Health Policy. I am interested in the application of tech to healthcare and medicine using data science/machine learning tools. I’d be happy to talk about CS research, being CS-premed. Outside of CS, I am also involved with Crimson Emergency Medical Services, our South Asian Association, and club tennis.
+CS Interests: Data Science, ML/AI, Medical AI
+Other Interests: Tennis, Dance, Medicine/Global Health
+Concentration: Computer Science
+Courses:  CS50, CS124, STAT 110, CS179, CS109a, CS 109b, CS61, MIT 6.036
+Tags: Pre-Med, Research
+Affinity Groups Harvard South Asian Association
+
+
+
+Sophia Cho
+
+
+    Class of 2024, lives in Kirkland.
+https://www.linkedin.com/in/sophiacho1/
+scho@college.harvard.edu
+
+About Me: I’m a junior double concentrating in CS and Economics with a secondary in Statistics and concurrent master’s in CS. I’m interested in computational approaches to policymaking as well as the development of technology policy. On campus, I’m involved with the IOP, HULR, and SCAS. I also enjoy teaching as a Head TF for CS 50 and CA for ECON 50. In my free time, you can find me playing the cello, listening to K-pop, or swimming. Feel free to reach out about any of the above or anything else on your mind!
+CS Interests: AI/ML, Data Science, Privacy, CS Education
+Concentration: Computer Science and Economics
+Courses: CS20, CS50, CS51, CS 79, CS 109A, CS 120, CS 124, CS 126, CS 181, CS 182, CS 226R, CS 238, STAT110, STAT 111
+Tags: Internships, Double Concentration, AB/SM
+
+
+
+Talya Li
+
+
+    Class of 2024, lives in Leverett.
+https://www.linkedin.com/in/talya-li/
+talyali@college.harvard.edu
+
+About Me: I’m Talya and I’m a junior in Leverett studying Computer Science, English and Spanish. I am really interested in the application of tech to education using data science/machine learning tools. I’d be happy to talk about CS & Humanities, starting CS late and research. Outside of CS, you can find outdoors with the Harvard Outing Club & FOP, and giving tours with the Crimson Key Society. Happy to chat about any of the above or anything else! :)
+CS Interests: Data Science, CS Education, EdTech
+Concentration: Computer Science & English with a secondary in Spanish
+Courses:  CS20, CS50, CS51, CS109A
+Tags: CS & Humanities, International, Started CS late
+Affinity Groups WiCS, Office of BGLTQ Student Life
+
+
+
+Thu Minh Pham
+
+
+    Class of 2023, lives in Adams.
+www.linkedin.com/in/mthupham
+thupham@college.harvard.edu
+
+About Me:   Hi y’all!! I’m a senior in Adams from Fort Worth, TX. I’m studying Statistics/Computer Science with a secondary in Educational Studies. I’m interested in using CS and Statistics in housing, immigration, or education policy research. Outside of class, I work as a CA/TF and am involved with PBHA (Summer Urban Program, Boston Refugee Youth Enrichment, and Harvard Square Homeless Shelter) and the Noteables. I’m excited to meet y’all – please reach out about any of the above, or anything else on your mind. I came to college with little experience/interest in CS and sought advice from a lot of people in SEAS, so nothing is too big or small!!
+CS Interests: Data Science, Machine Learning, Social Impact
+Other Interests: Public service, education, housing, volleyball, running, music (singing and piano – especially musicals)
+Concentration: Statistics and Computer Science
+Courses:  CS: 50, 51, 121, 124, 109a, 181; Stat: 98, 110, 111, 210; Other: Econ 1011a, Math 23a/22b
+Tags: Research, Internships, Joint Concentration, Started CS Late, CS & Humanities
+Affinity Groups  Harvard Vietnamese Association
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Harvard John A. Paulson School of Engineering and Applied Sciences
+
+
+
+
+© 2023 President and Fellows of Harvard College
+
+Accessibility | Trademark Notice | Privacy Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

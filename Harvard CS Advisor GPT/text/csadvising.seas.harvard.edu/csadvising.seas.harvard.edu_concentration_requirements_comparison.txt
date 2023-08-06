@@ -1,0 +1,477 @@
+
+
+
+
+
+
+
+
+
+
+Requirements Comparison :: Harvard CS Concentration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ CS Undergrad Advising
+
+
+
+
+
+
+
+          FAQ
+          
+      
+
+
+
+          First-Year Exploration
+          
+      
+
+
+
+          Sophomore Advising
+          
+      
+
+
+
+          Concentration
+          
+      
+
+
+
+        Degree programs
+        
+        
+
+
+
+        Declaring CS concentration
+        
+        
+
+
+
+        Joint, double and combined concentrations
+        
+        
+
+
+
+        Honors
+        
+        
+
+
+
+          Concentration Requirements
+          
+      
+
+
+
+        Old Requirements
+        
+        
+
+
+
+        Comparison
+        
+        
+
+
+
+
+
+          Courses
+          
+      
+
+
+
+        Sample schedules and plans of study
+        
+        
+
+
+
+        Tags for computer science courses
+        
+        
+
+
+
+
+
+        Study abroad
+        
+        
+
+
+
+        Cross-registering at MIT
+        
+        
+
+
+
+
+
+          Secondary Field
+          
+      
+
+
+
+          Advising
+          
+      
+
+
+
+          Peer Concentration Advisors
+          
+      
+
+
+
+
+
+          Research
+          
+      
+
+
+
+        CS91r
+        
+        
+
+
+
+        Senior Thesis
+        
+        
+
+
+
+
+
+          Get Involved
+          
+      
+
+
+
+        Teaching and advising
+        
+        
+
+
+
+        Alex Patel Fellowship
+        
+        
+
+
+
+        Clubs and Activities
+        
+        
+
+
+
+        Entrepreneurship
+        
+        
+
+
+
+
+
+          Resources
+          
+      
+
+
+
+        How to Succeed in CS Courses
+        
+        
+
+
+
+
+
+          Diversity in CS
+          
+      
+
+
+
+          Forms
+          
+      
+
+
+
+          About CS
+          
+      
+
+
+
+        Careers of alumni
+        
+        
+
+
+
+        CS and Society
+        
+        
+
+
+
+        Curriculum Committee
+        
+        
+
+
+
+
+
+          Contact
+          
+      
+
+
+
+More
+
+
+ Courses
+
+
+ Course Tags
+
+
+ Accessibility
+
+
+
+
+
+
+
+
+
+
+Academics
+
+
+Computer Science
+
+
+
+
+
+
+
+
+
+
+ navigation
+                        
+
+
+
+Harvard Computer Science > Concentration > Concentration Requirements > Requirements Comparison
+          
+        
+          
+        
+          
+        
+          
+        
+                 
+                  
+
+
+
+
+
+
+
+
+
+
+
+
+              
+              Requirements Comparison
+            
+Comparison of old (2020 and earlier) Requirements and Current Requirements
+
+
+
+Topic
+2020 basic requirements
+Current basic requirements
+
+
+
+
+Pre-calculus and single-variable calculus
+MMa+MMb+M1b, or M1a+M1b, or pass out
+Same (but MMa/MMb explicitly mentioned)
+
+
+Linear algebra
+Math 21b/22a/23a/25a/55a or AM 21b/22a
+Same
+
+
+Probability and multivariate calculus
+Stat 110 or Math 21a/22b/23b/23c/25b/55b or AM 21a (includes multivariate calculus)
+Stat 110, ES 150, Math 154 (no multivariate calculus)
+
+
+CS courses
+Eight courses
+Nine courses
+
+
+Overlapping CS course requirements
+2 basic software, 2 theory, 4 technical electives including 2 breadth courses: all distinct
+One course can satisfy multiple tags
+
+
+Basic software
+Two of CS 50/51/61 or more advanced courses
+Programming 1 and Programming 2 tags (more possibilities including CS 32, CS 109a/109b)
+
+
+Theory
+Two courses: CS 121 + another CS x2x
+Three Formal Reasoning courses, including Discrete Mathematics, Computational Limitations, and Algorithms tags (CS 20 material explicitly required; more possibilities including CS 120, CS 136, CS 152)
+
+
+Technical electives
+Four courses from a set including all CS >50, CS 20, Stat 110 & 195, AM 106, 107, 120, 121, etc.
+Four courses with CS numbers ≥100 (Advanced Computer Science tag; can overlap with other requirements)
+
+
+Breadth requirement
+Two (basic)/three (honors) of the technical electives must be CS xYx with different Y 3–8
+One Systems course and one Computation and the World course (basic), also one AI course (honors) (can overlap with other requirements)
+
+
+Tutorial
+At most one CS 91r for concentration credit
+Same
+
+
+P/F and SAT/UNS
+CS 50 may be taken SAT/UNS
+Up to two courses may be taken P/F or SAT/UNS, and may only satisfy the Programming 1 and Advanced CS tags
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Harvard John A. Paulson School of Engineering and Applied Sciences
+
+
+
+
+© 2023 President and Fellows of Harvard College
+
+Accessibility | Trademark Notice | Privacy Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

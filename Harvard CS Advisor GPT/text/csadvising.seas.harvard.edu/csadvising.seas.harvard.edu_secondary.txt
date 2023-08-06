@@ -1,0 +1,490 @@
+
+
+
+
+
+
+
+
+
+
+Secondary Field :: Harvard CS Concentration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ CS Undergrad Advising
+
+
+
+
+
+
+
+          FAQ
+          
+      
+
+
+
+          First-Year Exploration
+          
+      
+
+
+
+          Sophomore Advising
+          
+      
+
+
+
+          Concentration
+          
+      
+
+
+
+        Degree programs
+        
+        
+
+
+
+        Declaring CS concentration
+        
+        
+
+
+
+        Joint, double and combined concentrations
+        
+        
+
+
+
+        Honors
+        
+        
+
+
+
+          Concentration Requirements
+          
+      
+
+
+
+        Old Requirements
+        
+        
+
+
+
+        Comparison
+        
+        
+
+
+
+
+
+          Courses
+          
+      
+
+
+
+        Sample schedules and plans of study
+        
+        
+
+
+
+        Tags for computer science courses
+        
+        
+
+
+
+
+
+        Study abroad
+        
+        
+
+
+
+        Cross-registering at MIT
+        
+        
+
+
+
+
+
+          Secondary Field
+          
+      
+
+
+
+          Advising
+          
+      
+
+
+
+          Peer Concentration Advisors
+          
+      
+
+
+
+
+
+          Research
+          
+      
+
+
+
+        CS91r
+        
+        
+
+
+
+        Senior Thesis
+        
+        
+
+
+
+
+
+          Get Involved
+          
+      
+
+
+
+        Teaching and advising
+        
+        
+
+
+
+        Alex Patel Fellowship
+        
+        
+
+
+
+        Clubs and Activities
+        
+        
+
+
+
+        Entrepreneurship
+        
+        
+
+
+
+
+
+          Resources
+          
+      
+
+
+
+        How to Succeed in CS Courses
+        
+        
+
+
+
+
+
+          Diversity in CS
+          
+      
+
+
+
+          Forms
+          
+      
+
+
+
+          About CS
+          
+      
+
+
+
+        Careers of alumni
+        
+        
+
+
+
+        CS and Society
+        
+        
+
+
+
+        Curriculum Committee
+        
+        
+
+
+
+
+
+          Contact
+          
+      
+
+
+
+More
+
+
+ Courses
+
+
+ Course Tags
+
+
+ Accessibility
+
+
+
+
+
+
+
+
+
+
+Academics
+
+
+Computer Science
+
+
+
+
+
+
+
+
+
+
+ navigation
+                        
+
+
+
+Harvard Computer Science > Secondary Field
+          
+        
+          
+        
+                 
+                  
+
+
+
+
+
+
+
+Key points
+Formal requirements
+Advising Resources and Expectations
+How to Declare
+
+
+
+
+
+
+
+
+
+
+
+
+              
+              Secondary Field
+            
+Information technology and computation has had a profound impact on many
+aspects of society, health care, and the scientific disciplines. As
+such, a foundation of formal training in computer science can benefit
+undergraduate concentrators in many fields of the natural sciences,
+social sciences, and humanities. To provide this training, a secondary
+field in Computer Science requires that students with primary interests
+in other fields take four courses in computer science.
+Key points
+Here are the key points about the secondary concentration (see below for full details):
+
+You need to take four computer science courses satisfying:
+
+
+
+At least two of the four courses must be numbered COMPSCI 96 or higher.
+
+
+Of courses with numbers below 96, only COMPSCI 20, COMPSCI 32, COMPSCI 50, COMPSCI 51, COMPSCI 61, COMPSCI 73, and COMPSCI 79 count toward the secondary field. All courses that count for the secondary are tagged “secondary” on (/concentration/courses/tags/).
+(Students in the Class of 2023 and earlier may use the old requirements: any four courses from CS 50, CS 51, CS 61, or numbered CS 100 or higher.)
+
+
+
+
+All of the courses used for satisfying the secondary requirement must be Harvard Computer Science Courses. No MIT, study abroad or Harvard courses from concentrations other than CS are allowed.  If a course is cross-listed as both a computer science course and a course in another concentration, then it counts even if a student takes the course under its other number.  Computer Science courses offered by the Harvard Summer School may be used for a Secondary Field in Computer Science only if they would count for concentration in Computer Science (see here ).
+
+
+None of the four courses can be taken Pass/Fail, but CS 50 can be taken SAT/UNS.
+
+
+The grade achieved in each of the four courses must be C- or better (or SAT). I.e., a D+ is not sufficient.
+
+
+At most one course can be double counted for a secondary field and a concentration. (This is a College-wide requirement; see Student FAQs
+for Secondary
+Fields.)
+
+
+Transfer students who wish to use some of their coursework in their prior institution towards secondary credit should contact the computer science DUSes.
+You can declare or change your secondary through my.harvard, see this page for instructions.
+Formal requirements
+4 courses (16 credits)
+Four Harvard COMPSCI-numbered courses as follows:
+
+At least two of the four courses must be numbered COMPSCI 96 or higher.
+Of courses with numbers below 96, only COMPSCI 20, COMPSCI 32, COMPSCI 50, COMPSCI 51, COMPSCI 61, COMPSCI 73, and COMPSCI 79 count toward the secondary field.
+Note that COMPSCI 32 and COMPSCI 50 cannot both count toward the secondary field and
+cannot ordinarily be taken for credit after more advanced courses.
+
+COMPSCI 50 will count for secondary credit if taken for a grade of SAT, but all other courses must be
+taken for a letter grade, and the student must achieve a grade of C- or better in each of these courses.
+Note: Only courses with a Harvard Computer Science course number may be counted for secondary
+field credit. In particular no courses from other Harvard programs/departments, no MIT courses, no
+study abroad courses and no Freshman Seminars may be counted toward secondary requirements.
+Computer Science courses offered by the Harvard Summer School may be used for a Secondary Field
+in Computer Science only if they would count for concentration credit in Computer Science. A course
+from another Harvard program/department counts only if it also has an appropriate Harvard Computer
+Science course number (e.g., a Statistics course that also has a Computer Science course number 100
+or greater). Only one course may double count for a secondary field and concentration.Any four computer science courses satisfying:
+Advising Resources and Expectations
+Questions concerning this secondary field should be addressed to the Directors and Assistant Director of Undergraduate Studies in Computer Science (cs-dus@seas.harvard.edu). The Directors and Assistant Director of Undergraduate Studies are available to help students choose computer science courses that best meet their interests and objectives. Transfer students who wish to use some of their coursework in their prior institution towards secondary credit should contact the computer science Directors and Assistant Director of Undergraduate Studies.
+
+
+
+
+More information on the Secondary Field in Computer
+Science
+How to Declare
+Follow the instructions
+here
+to declare a secondary in Computer Science via my.harvard. You are
+welcome (but not required) to contact the co-Directors of Undergraduate
+Studies (DUS) in Computer Science (cs-dus@seas.harvard.edu) with a
+list of courses you plan to count towards the secondary field.
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Harvard John A. Paulson School of Engineering and Applied Sciences
+
+
+
+
+© 2023 President and Fellows of Harvard College
+
+Accessibility | Trademark Notice | Privacy Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

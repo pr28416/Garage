@@ -1,0 +1,445 @@
+
+
+
+
+
+
+
+
+
+
+Harvard Computer Science :: Harvard CS Concentration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ CS Undergrad Advising
+
+
+
+
+
+
+
+          FAQ
+          
+      
+
+
+
+          First-Year Exploration
+          
+      
+
+
+
+          Sophomore Advising
+          
+      
+
+
+
+          Concentration
+          
+      
+
+
+
+        Degree programs
+        
+        
+
+
+
+        Declaring CS concentration
+        
+        
+
+
+
+        Joint, double and combined concentrations
+        
+        
+
+
+
+        Honors
+        
+        
+
+
+
+          Concentration Requirements
+          
+      
+
+
+
+        Old Requirements
+        
+        
+
+
+
+        Comparison
+        
+        
+
+
+
+
+
+          Courses
+          
+      
+
+
+
+        Sample schedules and plans of study
+        
+        
+
+
+
+        Tags for computer science courses
+        
+        
+
+
+
+
+
+        Study abroad
+        
+        
+
+
+
+        Cross-registering at MIT
+        
+        
+
+
+
+
+
+          Secondary Field
+          
+      
+
+
+
+          Advising
+          
+      
+
+
+
+          Peer Concentration Advisors
+          
+      
+
+
+
+
+
+          Research
+          
+      
+
+
+
+        CS91r
+        
+        
+
+
+
+        Senior Thesis
+        
+        
+
+
+
+
+
+          Get Involved
+          
+      
+
+
+
+        Teaching and advising
+        
+        
+
+
+
+        Alex Patel Fellowship
+        
+        
+
+
+
+        Clubs and Activities
+        
+        
+
+
+
+        Entrepreneurship
+        
+        
+
+
+
+
+
+          Resources
+          
+      
+
+
+
+        How to Succeed in CS Courses
+        
+        
+
+
+
+
+
+          Diversity in CS
+          
+      
+
+
+
+          Forms
+          
+      
+
+
+
+          About CS
+          
+      
+
+
+
+        Careers of alumni
+        
+        
+
+
+
+        CS and Society
+        
+        
+
+
+
+        Curriculum Committee
+        
+        
+
+
+
+
+
+          Contact
+          
+      
+
+
+
+More
+
+
+ Courses
+
+
+ Course Tags
+
+
+ Accessibility
+
+
+
+
+
+
+
+
+
+
+Academics
+
+
+Computer Science
+
+
+
+
+
+
+
+
+
+
+ navigation
+                        
+
+
+
+                 
+                 
+                    
+          
+          
+            Harvard Computer Science
+          
+        
+                 
+                  
+
+
+
+
+
+Welcome to the Harvard CS advising website!
+
+Contents:
+
+
+
+
+
+
+
+
+
+
+
+Welcome to the Harvard CS advising website!
+To declare a CS concentration, please see this page.
+We highly recommend you  read our FAQ and perhaps reach out to one of our peer concentration advisors. You should also consider joining the Harvard CS Undergraduate Piazza board.
+
+This website contains information relevant to current Harvard College students that are studying computer science as a primary, secondary, or joint concentration, or are interested in doing so. It is  maintained by the Harvard CS DUS Team.
+The following  websites contain more information about Harvard, Computer Science, and the School of Engineering and Applied Sciences: The Computer Science Area website contains information about research areas, faculty, and administration in computer science at Harvard. The Harvard admissions website contains information about applying to study at Harvard. Information for prospective undergrads interested in the School Engineering and Applied Sciences (SEAS) can be found here.
+Contents:
+
+
+Frequently Asked Questions on concentrating in Computer Science at Harvard.
+
+
+Concentration Information, including requirements,  how to declare, and combining with CS with other areas.
+
+
+Advising information, including how academic advisors are assigned, the role of academic advisors, and info about Peer Concentration Advisors.
+
+
+Research Opportunities, including more info about a Senior Thesis in CS, and CS91r (Supervised Reading and Research).
+
+
+How to Get Involved in the Harvard CS community.
+
+
+Additional Resources for CS concentrators and pre-concentrators, including course listings and links to useful guides, forums, and mailing lists.
+
+
+Forms for your Plan of Study, CS91r, and requesting a specific CS concentration advisor.
+
+
+
+
+Website built using Hugo generator based on the learn theme
+
+
+
+
+
+
+
+
+
+
+
+
+
+Harvard John A. Paulson School of Engineering and Applied Sciences
+
+
+
+
+© 2023 President and Fellows of Harvard College
+
+Accessibility | Trademark Notice | Privacy Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

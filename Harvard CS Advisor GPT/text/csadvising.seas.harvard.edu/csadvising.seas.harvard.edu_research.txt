@@ -1,0 +1,499 @@
+
+
+
+
+
+
+
+
+
+
+Research :: Harvard CS Concentration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ CS Undergrad Advising
+
+
+
+
+
+
+
+          FAQ
+          
+      
+
+
+
+          First-Year Exploration
+          
+      
+
+
+
+          Sophomore Advising
+          
+      
+
+
+
+          Concentration
+          
+      
+
+
+
+        Degree programs
+        
+        
+
+
+
+        Declaring CS concentration
+        
+        
+
+
+
+        Joint, double and combined concentrations
+        
+        
+
+
+
+        Honors
+        
+        
+
+
+
+          Concentration Requirements
+          
+      
+
+
+
+        Old Requirements
+        
+        
+
+
+
+        Comparison
+        
+        
+
+
+
+
+
+          Courses
+          
+      
+
+
+
+        Sample schedules and plans of study
+        
+        
+
+
+
+        Tags for computer science courses
+        
+        
+
+
+
+
+
+        Study abroad
+        
+        
+
+
+
+        Cross-registering at MIT
+        
+        
+
+
+
+
+
+          Secondary Field
+          
+      
+
+
+
+          Advising
+          
+      
+
+
+
+          Peer Concentration Advisors
+          
+      
+
+
+
+
+
+          Research
+          
+      
+
+
+
+        CS91r
+        
+        
+
+
+
+        Senior Thesis
+        
+        
+
+
+
+
+
+          Get Involved
+          
+      
+
+
+
+        Teaching and advising
+        
+        
+
+
+
+        Alex Patel Fellowship
+        
+        
+
+
+
+        Clubs and Activities
+        
+        
+
+
+
+        Entrepreneurship
+        
+        
+
+
+
+
+
+          Resources
+          
+      
+
+
+
+        How to Succeed in CS Courses
+        
+        
+
+
+
+
+
+          Diversity in CS
+          
+      
+
+
+
+          Forms
+          
+      
+
+
+
+          About CS
+          
+      
+
+
+
+        Careers of alumni
+        
+        
+
+
+
+        CS and Society
+        
+        
+
+
+
+        Curriculum Committee
+        
+        
+
+
+
+
+
+          Contact
+          
+      
+
+
+
+More
+
+
+ Courses
+
+
+ Course Tags
+
+
+ Accessibility
+
+
+
+
+
+
+
+
+
+
+Academics
+
+
+Computer Science
+
+
+
+
+
+
+
+
+
+
+ navigation
+                        
+
+
+
+Harvard Computer Science > Research
+          
+        
+          
+        
+                 
+                  
+
+
+
+
+
+Undergraduate Research Opportunities
+
+Other useful resources
+How to get a research-based summer internship/job
+Funding
+See also
+
+
+
+
+
+
+
+
+
+
+
+
+              
+              Research
+            
+Undergraduate Research Opportunities
+Research may be part of your coursework or as as part of individual
+research opportunities working with professors.
+Learn about Harvard CS Faculty’s research by looking at the following Google spreadsheet on Faculty Research Interests and Office Hours. In addition to information about their research, it lists their office hours. Be sure to look at the info paragraph column to get a sense of what is the background needed to get involved with each particular research group.
+Also considering taking a graduate course or advanced undergraduate course as a way to gain deeper knowledge in an area you are interested in. Many undergraduates take graduate courses, and many of these graduate courses involve reading research papers and engaging in a research project. This provides a great way to get involved in research within the context of a course, often in a small class setting.
+We also recommend you check out the Computer Science colloquium to get a sense for what’s going on in the world of Computer Science Research.
+Another way to get involved with research is to do a CS91r or senior thesis.
+Other useful resources
+
+
+Harvard College Office of Undergraduate Research and Fellowships
+Many opportunities for funding student research, including PRISE, Herchel Smith, and the Harvard College Research Program (HCRP).
+
+
+SEAS-wide info on undergraduate research
+
+
+SEAS Research Showcase
+
+
+Active Learning Labs
+
+
+Student Employment Office: Research Opportunities
+
+
+Harvard Innovation Labs
+
+
+Remote Research Resources
+
+
+How to get a research-based summer internship/job
+REU Programs (Research Experience for Undergraduates funded by
+NSF):
+
+http://www.nsf.gov/crssprgm/reu/reu_search.jsp
+
+Non-REU Programs:
+
+Lincoln Labs/MIT
+DAAD RISE (Germany)
+AT&T Research Internships
+DOE Science Undergraduate Laboratory Internships
+DOE Scholars Program
+Caltech Summer Undergraduate Research Fellowships
+Summer Undergraduate Research Fellowships, funded by NIST
+NCAR Computational Science
+National Security Agency
+Lawrence Livermore National Laboratory
+Privacy Tools for Sharing Research Data Project
+The Mind Project
+Radcliffe Research Partnernships
+
+Funding
+Harvard College offers a variety of research funding opportunities which are administered by the Office of Undergraduate Research and Fellowships.  In particular, we’d like to point out PRISE via the Summer Residential Research Programs and the Harvard College Research Program (HCRP) via Independent Research Funding.
+Though uncommon, sometimes faculty members may be able to pay for students to work during the semester. Please be aware, though, that Harvard does not allow students to receive academic credit for work for which they were compensated.
+Harvard offers a Research Experience for Undergraduates (REU) Program for students to spend their summer performing research. Other universities also participate in REU programs for those who would like to do research elsewhere, as discussed above.
+Travel Funding for Workshops, conferences, coding bootcamps, and other courses.
+
+
+Always apply for grants from the hosting organization and check with your research advisor regarding any available funding for research-related presentations. Failing those options, the CS Area does have a small budget to support undergraduate student conference travel to present their research, please check with the DUS team.
+
+
+The CS Diversity Committee allows students to apply for conference funding in support of women and underrepresented minorities in Computer Science.
+
+
+The Office of Undergraduate Research and Fellowships offers funding for conferences. The URAF conference funding program supports Harvard College undergraduate students in presenting their original, independent research (poster or paper) at an academic conference. Awards are available year-round with a rolling deadline to apply for funding. Undergraduate students from all concentrations are encouraged to apply.
+
+
+If your research also falls under Life and/or Physical Sciences and your lab is difficult to get to, then you might be eligible for transportation funding to get to your lab.
+
+
+See also
+
+
+CS91r
+
+
+Senior Thesis
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Harvard John A. Paulson School of Engineering and Applied Sciences
+
+
+
+
+© 2023 President and Fellows of Harvard College
+
+Accessibility | Trademark Notice | Privacy Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

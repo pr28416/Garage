@@ -1,0 +1,1384 @@
+
+
+
+
+
+
+
+
+
+
+Tags for computer science courses :: Harvard CS Concentration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ CS Undergrad Advising
+
+
+
+
+
+
+
+          FAQ
+          
+      
+
+
+
+          First-Year Exploration
+          
+      
+
+
+
+          Sophomore Advising
+          
+      
+
+
+
+          Concentration
+          
+      
+
+
+
+        Degree programs
+        
+        
+
+
+
+        Declaring CS concentration
+        
+        
+
+
+
+        Joint, double and combined concentrations
+        
+        
+
+
+
+        Honors
+        
+        
+
+
+
+          Concentration Requirements
+          
+      
+
+
+
+        Old Requirements
+        
+        
+
+
+
+        Comparison
+        
+        
+
+
+
+
+
+          Courses
+          
+      
+
+
+
+        Sample schedules and plans of study
+        
+        
+
+
+
+        Tags for computer science courses
+        
+        
+
+
+
+
+
+        Study abroad
+        
+        
+
+
+
+        Cross-registering at MIT
+        
+        
+
+
+
+
+
+          Secondary Field
+          
+      
+
+
+
+          Advising
+          
+      
+
+
+
+          Peer Concentration Advisors
+          
+      
+
+
+
+
+
+          Research
+          
+      
+
+
+
+        CS91r
+        
+        
+
+
+
+        Senior Thesis
+        
+        
+
+
+
+
+
+          Get Involved
+          
+      
+
+
+
+        Teaching and advising
+        
+        
+
+
+
+        Alex Patel Fellowship
+        
+        
+
+
+
+        Clubs and Activities
+        
+        
+
+
+
+        Entrepreneurship
+        
+        
+
+
+
+
+
+          Resources
+          
+      
+
+
+
+        How to Succeed in CS Courses
+        
+        
+
+
+
+
+
+          Diversity in CS
+          
+      
+
+
+
+          Forms
+          
+      
+
+
+
+          About CS
+          
+      
+
+
+
+        Careers of alumni
+        
+        
+
+
+
+        CS and Society
+        
+        
+
+
+
+        Curriculum Committee
+        
+        
+
+
+
+
+
+          Contact
+          
+      
+
+
+
+More
+
+
+ Courses
+
+
+ Course Tags
+
+
+ Accessibility
+
+
+
+
+
+
+
+
+
+
+Academics
+
+
+Computer Science
+
+
+
+
+
+
+
+
+
+
+ navigation
+                        
+
+
+
+Harvard Computer Science > Concentration > Courses > Tags for computer science courses
+          
+        
+          
+        
+          
+        
+          
+        
+                 
+                  
+
+
+
+
+
+Tag Definitions
+
+Core CS
+Programming 1 and 2
+Formal Reasoning
+Systems
+Computation and the World
+Artificial Intelligence
+Advanced Computer Science
+
+
+
+
+
+
+
+
+
+
+
+
+              
+              Tags for computer science courses
+            
+The following is the list of CS courses that satisfy the various tags. This list is continuously updated, but once a plan of study has been approved, it will remain valid even if the course no longer satisfies a certain tag.
+The SEAS 4 year course plan contains the most up to date plan for courses to be offered in the near future.
+
+
+
+
+Course number
+Title
+Tags
+Notes
+
+
+
+
+AC221
+Critical Thinking in Data Science
+corecs, computationandtheworld
+
+
+
+AC295 / CS287r (Fall 2021 only)
+Deep Learning for NLP
+corecs, computationandtheworld, advancedcs
+
+
+
+AM21A
+Mathematical Methods in the Sciences
+
+
+
+
+AM22A
+Solving and Optimizing
+linearalgebra
+
+
+
+AM22B
+Integrating and Approximating
+
+
+
+
+AM106
+Applied Algebra
+corecs
+
+
+
+AM107
+Graph Theory and Combinatorics
+corecs, formalreasoning, discretemath
+
+
+
+AM115
+Mathematical Modeling
+corecs, computationandtheworld
+
+
+
+AM120
+Applicable Linear Algebra
+corecs
+
+
+
+AM121
+Introduction to Optimization: Models and Methods
+corecs
+
+
+
+AM207
+Stochastic Methods for Data Analysis, Inference and Optimization
+corecs
+
+
+
+AM220
+Geometric Methods for Machine Learning
+corecs, formalreasoning, advancedcs
+
+
+
+CS1
+Great Ideas in Computer Science
+corecs
+
+
+
+CS10 / STAT10
+Elements of Data Science
+corecs
+
+
+
+CS20
+Discrete Mathematics for Computer Science
+corecs, formalreasoning, discretemath, secondary
+
+
+
+CS32
+Computational Thinking and Problem Solving
+corecs, programming1, secondary
+Mutually exclusive with CS50 and CSCI S-111
+
+
+CS37
+Incentives in the Wild: from Tanking in Sports to Mining Cryptocurrencies
+corecs, computationandtheworld, secondary
+
+
+
+CS50
+Introduction to Computer Science
+corecs, programming1, secondary
+Mutually exclusive with CS32 and CSCI S-111
+
+
+CS51
+Abstraction and Design in Computation
+corecs, programming2, secondary
+
+
+
+CS61
+Systems Programming and Machine Organization
+corecs, programming2, systems, secondary
+
+
+
+CS73
+Code, Data, and Art
+corecs, secondary
+
+
+
+CS79
+Design of Useful and Usable Interactive Systems
+corecs, secondary
+
+
+
+CS91R
+Supervised Reading and Research
+corecs
+For MBB & Joint plans, counts as advancedcs
+
+
+CS96
+System Design Projects
+corecs, secondary
+
+
+
+CS90NAR
+Applied Ethical and Governance Challenges in AI
+
+
+
+
+CS90NBR
+Internet & Society: The Technologies and Politics of Control and CS
+
+
+
+
+CS90NCR
+Law for Algorithms: A Research and Discussion Forum
+
+
+
+
+CS100
+
+corecs, advancedcs, secondary
+
+
+
+CS105
+Privacy and Technology
+corecs, advancedcs, secondary
+
+
+
+CS107 / CS207 / AC207
+Systems Development for Computational Science
+corecs, programming1, advancedcs, secondary
+
+
+
+CS108
+Intelligent Systems: Design and Ethical Challenges
+corecs, advancedcs, secondary
+
+
+
+CS109A / STAT109A / AC209A
+Data Science 1: Introduction to Data Science
+corecs, programming1, computationandtheworld, advancedcs, secondary
+AKA STAT121A before 2022
+
+
+CS109B / STAT109B / AC209B
+Data Science 2: Advanced Topics in Data Science
+corecs, programming1, computationandtheworld, advancedcs, secondary
+AKA STAT121B until 2022
+
+
+CS120
+Introduction to Algorithms, Computability, and Complexity
+corecs, formalreasoning, complimitations, algorithms, advancedcs, secondary
+
+
+
+CS121
+Introduction to Theoretical Computer Science
+corecs, formalreasoning, complimitations, advancedcs, secondary
+
+
+
+CS124
+Data Structures and Algorithms
+corecs, formalreasoning, algorithms, intermediatealgorithms, advancedcs, secondary
+
+
+
+CS126
+Fairness and Privacy: Perspectives of Law and Probability
+corecs, formalreasoning, computationandtheworld, advancedcs, secondary
+
+
+
+CS127 / CS227
+Cryptography
+corecs, formalreasoning, advancedcs, secondary
+
+
+
+CS128 / AM122
+Convex Optimization and Applications in Machine Learning
+corecs, formalreasoning, advancedcs, secondary
+
+
+
+CS136
+Economics and Computation
+corecs, formalreasoning, computationandtheworld, advancedcs, secondary
+
+
+
+CS141
+Computing Hardware
+corecs, systems, advancedcs, secondary
+
+
+
+CS143
+Computer Networks
+corecs, advancedcs, secondary
+
+
+
+CS144R / CS244R
+Networks Design Projects
+corecs, advancedcs, secondary
+
+
+
+CS145 / CS245
+Networking at Scale
+corecs, systems, advancedcs, secondary
+
+
+
+CS146
+Computer Architecture
+corecs, systems, advancedcs, secondary
+
+
+
+CS148 / CS248
+Design of VLSI Circuits and Systems
+corecs, advancedcs, secondary
+
+
+
+CS152
+Programming Languages
+corecs, formalreasoning, advancedcs, secondary
+
+
+
+CS153
+Compilers
+corecs, programming2, systems, advancedcs, secondary
+
+
+
+CS161
+Operating Systems
+corecs, programming2, systems, advancedcs, secondary
+
+
+
+CS165
+Data Systems
+corecs, programming2, systems, advancedcs, secondary
+
+
+
+CS171
+Visualization
+corecs, computationandtheworld, advancedcs, secondary
+
+
+
+CS175
+Computer Graphics
+corecs, computationandtheworld, advancedcs, secondary
+
+
+
+CS178
+Engineering Usable Interactive Systems
+corecs, programming2, computationandtheworld, advancedcs, secondary
+
+
+
+CS179
+Design of Useful and Usable Interactive Systems
+corecs, advancedcs, secondary
+2022 and earlier
+
+
+CS181
+Machine Learning
+corecs, computationandtheworld, ai, advancedcs, secondary
+
+
+
+CS182
+Artificial Intelligence
+corecs, computationandtheworld, ai, advancedcs, secondary
+
+
+
+CS183
+Foundations of Machine Learning
+corecs, formalreasoning, ai, advancedcs, secondary
+
+
+
+CS184
+Reinforcement learning
+corecs, computationandtheworld, ai, advancedcs, secondary
+
+
+
+CS187
+Introduction to Computational Linguistics and Natural-language Processing
+corecs, computationandtheworld, ai, advancedcs, secondary
+
+
+
+CS189
+Autonomous Robot Systems
+corecs, advancedcs, secondary
+
+
+
+CS191
+Classics of Computer Science
+corecs, advancedcs, secondary
+
+
+
+CS196
+Designing K–12 Computer Science Learning Experiences
+corecs, secondary
+
+
+
+CS197
+AI Research Experiences        
+corecs, computationandtheworld, ai, advancedcs, secondary
+
+
+
+CS205
+Computing Foundations for Computational Science
+corecs, advancedcs, secondary
+
+
+
+CS208
+Applied Privacy for Data Science
+corecs, formalreasoning, computationandtheworld, advancedcs, secondary
+
+
+
+CS221
+Computational Complexity
+corecs, formalreasoning, complimitations, advancedcs, secondary
+
+
+
+CS222
+Algorithms at the Ends of the Wire
+corecs, formalreasoning, algorithms, intermediatealgorithms, advancedcs, secondary
+
+
+
+CS223
+Probabilistic Analysis and Algorithms
+corecs, formalreasoning, algorithms, intermediatealgorithms, advancedcs, secondary
+
+
+
+CS224
+Advanced Algorithms
+corecs, formalreasoning, algorithms, intermediatealgorithms, advancedcs, secondary
+
+
+
+CS226R
+Topics in Theory for Society: Fairness and Validity
+corecs, formalreasoning, computationandtheworld, advancedcs, secondary
+
+
+
+CS228
+Computational Learning Theory
+corecs, formalreasoning, complimitations, ai, advancedcs, secondary
+
+
+
+CS229BR (Spring 2021 only)
+Advanced Topics in the Theory of Machine Learning
+corecs, computationandtheworld, advancedcs, secondary
+
+
+
+CS229BR (Spring 2023 only)
+Advanced Topics in the Theory of Machine Learning
+corecs, advancedcs, secondary
+
+
+
+CS229CR (Spring 2023 only)
+High Dimensional Probability: Spectral Graph Theory in CS
+corecs, formalreasoning, advancedcs, secondary
+
+
+
+CS229R (Spring 2023 only)
+Topics in Theoretical Computer Science: Biology and Complexity
+corecs, computationandtheworld, advancedcs, secondary
+
+
+
+CS229R (Fall 2022 only)
+Topics in Theoretical Computer Science: Information Theory
+corecs, formalreasoning, advancedcs, secondary
+
+
+
+CS231
+Quantum Computation and Quantum Complexity
+corecs, formalreasoning, advancedcs, secondary
+
+
+
+CS234R
+Topics on Computation in Networks and Crowds
+corecs, formalreasoning, advancedcs, secondary
+
+
+
+CS236R
+Topics at the Interface between Computer Science and Economics
+corecs, formalreasoning, computationandtheworld, advancedcs, secondary
+
+
+
+CS237
+Economic Analysis as a Frontier of Theoretical Computer Science
+corecs, formalreasoning, computationandtheworld, advancedcs, secondary
+
+
+
+CS238
+Optimized Democracy
+corecs, formalreasoning, computationandtheworld, advancedcs, secondary
+
+
+
+CS242
+Computing at Scale
+corecs, systems, advancedcs, secondary
+
+
+
+CS243
+Advanced Computer Networks
+corecs, systems, advancedcs, secondary
+
+
+
+CS246
+Advanced Computer Architecture
+corecs, systems, advancedcs, secondary
+
+
+
+CS247R
+Advanced Topics in Computer Architecture
+corecs, systems, advancedcs, secondary
+
+
+
+CS249R
+Tiny Machine Learning
+corecs, computationandtheworld, advancedcs, secondary
+
+
+
+CS252R
+Advanced Topics in Programming Languages
+corecs, advancedcs, secondary
+
+
+
+CS260R
+Projects and Close Readings in Software Systems
+corecs, advancedcs, secondary
+
+
+
+CS261
+Research Topics in Operating Systems
+corecs, systems, advancedcs, secondary
+
+
+
+CS262
+Introduction to Distributed Computing
+corecs, systems, advancedcs, secondary
+
+
+
+CS263
+Systems Security
+corecs, systems, advancedcs, secondary
+
+
+
+CS265
+Big Data Systems
+corecs, systems, advancedcs, secondary
+
+
+
+CS271
+Topics in Data Visualization
+corecs, advancedcs, secondary
+
+
+
+CS276
+Design, Technology, and Social Impact
+corecs, advancedcs, secondary
+
+
+
+CS279R
+Research Topics in Human-Computer Interaction
+corecs, advancedcs, secondary
+
+
+
+CS281
+Advanced Machine Learning
+corecs, computationandtheworld, ai, advancedcs, secondary
+
+
+
+CS282R
+Topics in Machine Learning
+corecs, computationandtheworld, ai, advancedcs, secondary
+
+
+
+CS282BR
+Topics in Machine Learning: Interpretability and Explainability
+corecs, computationandtheworld, ai, advancedcs, secondary
+
+
+
+CS283
+Computer Vision
+corecs, computationandtheworld, advancedcs, secondary
+
+
+
+CS286
+Multi-Robot Systems: Control, Communication, and Security
+corecs, computationandtheworld, advancedcs, secondary
+
+
+
+CS287
+
+corecs, advancedcs, secondary
+
+
+
+CS288
+AI for Social Impact
+corecs, advancedcs, secondary
+
+
+
+CS289
+Autonomous Robot Systems
+corecs, computationandtheworld, advancedcs, secondary
+
+
+
+CS290
+PhD Grad Cohort Research Seminar
+
+
+
+
+CS299R
+Special Topics in Computer Science
+
+
+
+
+CS333
+Individual Risk
+
+
+
+
+ECON 2070
+A Computer Science Toolbox for Modern Economic Theory
+corecs, formalreasoning, computationandtheworld, advancedcs
+
+
+
+ES50
+Introduction to Electrical Engineering
+corecs
+Mutually exclusive with ES54
+
+
+ES54
+Electronics for Engineers
+corecs
+Mutually exclusive with ES50
+
+
+ES143
+Computer Vision
+corecs, computationandtheworld
+
+
+
+ES150
+Probability with Engineering Applications
+probability
+
+
+
+ES170
+Engineering Quantum Mechanics
+corecs
+
+
+
+ES256
+Informal Robotics
+corecs
+
+
+
+MATHMA
+Introduction to Functions and Calculus I
+
+
+
+
+MATHMB
+Introduction to Functions and Calculus II
+
+
+
+
+MATH1A
+Introduction to Calculus
+
+
+
+
+MATH1B
+Introduction to Calculus
+
+
+
+
+MATH21A
+Multivariable Calculus
+
+
+
+
+MATH21B
+Linear Algebra and Differential Equations
+linearalgebra
+
+
+
+MATH22A
+Vector Calculus and Linear Algebra I
+linearalgebra
+
+
+
+MATH23A
+Linear Algebra and Real Analysis I
+linearalgebra
+
+
+
+MATH23B
+Linear Algebra and Real Analysis II
+linearalgebra
+
+
+
+MATH23C
+Mathematics for Computation, Statistics, and Data Science
+discretemath
+
+
+
+MATH25A
+Theoretical Linear Algebra and Real Analysis I
+linearalgebra
+
+
+
+MATH25B
+Theoretical Linear Algebra and Real Analysis II
+
+
+
+
+MATH55A
+Studies in Algebra and Group Theory
+linearalgebra
+
+
+
+MATH55B
+Studies in Real and Complex analysis
+
+
+
+
+MATH101
+Sets, Groups and Topology
+corecs, formalreasoning, discretemath
+Class of 2026 and later: Mutually exclusive with CS20 and MATH152
+
+
+MATH152
+Discrete Mathematics
+corecs, formalreasoning, discretemath
+Mutually exclusive with CS20 and MATH101
+
+
+MATH154
+Probability Theory
+probability
+
+
+
+Neuro140 / Neuro240
+Biological and Artificial Intelligence
+corecs
+
+
+
+PHY123b / ES153
+Laboratory Electronics
+corecs, systems
+
+
+
+PHY160
+Introduction to Quantum Information
+corecs
+
+
+
+STAT110 / STAT S-110
+Introduction to Probability
+probability
+
+
+
+STAT111
+Introduction to Statistical Inference
+probability
+
+
+
+STAT195
+Statistical Machine Learning
+corecs, computationandtheworld
+
+
+
+STAT210
+Probability Theory and Statistical Inference I
+probability
+
+
+
+STAT220
+Bayesian Data Analysis
+probability
+
+
+
+MIT 6.1040 / MIT 6.170
+Software Studio
+corecs
+
+
+
+MIT 6.1060 / MIT 6.172
+Performance Engineering of Software Systems
+corecs, systems
+
+
+
+MIT 6.4120 / MIT 6.804
+Computational Cognitive Science
+corecs
+
+
+
+MIT 6.4550 / MIT 21M.385 / MIT 6.185
+Interactive Music Systems
+corecs
+
+
+
+MIT 6.5210 / MIT 6.854
+Advanced Algorithms
+corecs, formalreasoning, algorithms, intermediatealgorithms
+
+
+
+MIT 6.5310 / MIT 6.849
+Computational Geometry
+corecs, formalreasoning
+
+
+
+MIT 6.5410 / MIT 18.405 / MIT 6.841
+Advanced Complexity Theory
+corecs, formalreasoning, complimitations
+
+
+
+MIT 6.5610 / MIT 6.857
+Computer and Network Security
+corecs
+
+
+
+MIT 6.5620 / MIT 6.875
+Cryptography and Cryptanalysis
+corecs, formalreasoning
+
+
+
+MIT 6.5660 / MIT 6.858
+Comp Systems Security
+corecs, systems
+
+
+
+MIT 6.7320 / MIT 6.338j
+Parallel Computing and Scientific Machine Learning
+corecs
+
+
+
+MIT 6.8611 / MIT 6.864 / MIT 6.806
+Advanced Natural Language Processing
+corecs, computationandtheworld, ai
+Mutually exclusive with MIT 9.19
+
+
+MIT 8.370 / MIT 18.435 / MIT 2.111
+Quantum Computation
+corecs
+
+
+
+MIT 9.19
+Computational Psycholinguistics
+corecs, computationandtheworld
+Mutually exclusive with MIT 6.806/6.864
+
+
+MIT 21M.387 / MIT 6.S197
+Fundamentals of Music Processing
+corecs, computationandtheworld
+
+
+
+
+
+
+Tag Definitions
+Core CS
+Courses that count towards the Computer Science core requirements.
+Programming 1 and 2
+A Programming course must include significant software construction and good engineering practice (e.g., invariants, assertions, testing).
+Formal Reasoning
+A Formal Reasoning course should include significant formal reasoning about computer science as an integral part of the course material and student work. Such a course should define properties of some computational entities (e.g., computers, functional programming languages, auctions) and prove statements that apply to every entity with those properties. Formal reasoning courses instill in students the formal habits of mind that are central to academic computer science.
+Computational Limitations
+A Computational Limitations course covers basic computability and complexity theory. It exposes students to the beautiful results concerning the fundamental limits of universal (Turing-complete) model of computation, the equivalence of different computational models, and the impossibility or infeasibility of computing certain functions.
+All Computational Limitations courses are also Formal Reasoning courses. The prototypical Computational Limitations courses are CS 120 and CS 121.
+Algorithms
+An Algorithms course covers introductory algorithms, algorithmic analysis, and data structures. It exposes students to fundamental algorithms for problems involving topics such as sorting, searching, and graphs, and to the basic toolkit for algorithmic analysis, such as recurrences for runtime.
+All Algorithms courses are also Formal Reasoning courses. The prototypical Algorithms courses are CS 120 and CS 124.
+Intermediate Algorithms
+An Intermediate Algorithms course, like an Algorithms course, covers algorithms, algorithmic analysis, data structures, and algorithmic analysis, but at a greater level of sophistication and covering more ground.
+Intermediate Algorithms courses are also Formal Reasoning courses and Algorithms courses. The prototypical Intermediate Algorithms course is CS 124. Our honors requirements mention Intermediate Algorithms instead of Algorithms. We assume that a good fraction of honors students will take CS 120 and CS 124, and a good fraction will take CS 121 and CS 124.
+Systems
+A systems course should feature significant computer system development, i.e., the development of systems where interaction with and adaptation to other software or hardware interfaces is an important concern. Systems courses require that students complete extensive programming or computer system development assignments on their own or in small groups. These assignments must be in part open-ended and require the design of software or hardware components. Assignments must involve adapting to existing interfaces, and concern for performance, robustness, and/or security. Many systems courses will also satisfy a Programming tag.
+Computation and the World
+A Computation and the World course should introduce rigorous methods for developing and evaluating computational models and systems that encapsulate, interact with, and adapt to aspects of the empirical world. This often involves computational modeling, or the distilled expression of properties of the complex world—of natural, human, social, and informational systems—in terms amenable to computation, and the formulation of computational objectives to capture positive interventions in that world. Ideally, Computation and the World courses should give students tools and metrics for constructing their own models and objectives, as well as specific ones that apply to specific phenomena. Discretion, selection, and design are fundamental to these courses (modeling complex systems in computation, or designing systems that interact with humans or the world, rarely has one right answer).
+Artificial Intelligence
+An Artificial Intelligence course should introduce, motivate, and analyze tools and techniques to model or replicate behaviors that in humans are thought of as requiring or exhibiting intelligence. These behaviors include representation of knowledge, reasoning, planning, language use, and sensory interpretation.
+Most Artificial Intelligence courses are also Computation and the World courses, human behaviors being aspects of the empirical world. However, some AI courses that do not focus on the discretion, selection, design, and interaction fundamental to Computation and the World might not fulfill the corresponding tag. (Such courses might focus, instead, on mathematical foundations.)
+Advanced Computer Science
+An Advanced Computer Science course should correspond to computer science courses at an advanced undergraduate level or above (typically corresponding to courses with a course number CS 100 or above).
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Harvard John A. Paulson School of Engineering and Applied Sciences
+
+
+
+
+© 2023 President and Fellows of Harvard College
+
+Accessibility | Trademark Notice | Privacy Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

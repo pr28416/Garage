@@ -1,0 +1,913 @@
+
+
+
+
+
+
+
+
+
+
+Old Requirements :: Harvard CS Concentration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ CS Undergrad Advising
+
+
+
+
+
+
+
+          FAQ
+          
+      
+
+
+
+          First-Year Exploration
+          
+      
+
+
+
+          Sophomore Advising
+          
+      
+
+
+
+          Concentration
+          
+      
+
+
+
+        Degree programs
+        
+        
+
+
+
+        Declaring CS concentration
+        
+        
+
+
+
+        Joint, double and combined concentrations
+        
+        
+
+
+
+        Honors
+        
+        
+
+
+
+          Concentration Requirements
+          
+      
+
+
+
+        Old Requirements
+        
+        
+
+
+
+        Comparison
+        
+        
+
+
+
+
+
+          Courses
+          
+      
+
+
+
+        Sample schedules and plans of study
+        
+        
+
+
+
+        Tags for computer science courses
+        
+        
+
+
+
+
+
+        Study abroad
+        
+        
+
+
+
+        Cross-registering at MIT
+        
+        
+
+
+
+
+
+          Secondary Field
+          
+      
+
+
+
+          Advising
+          
+      
+
+
+
+          Peer Concentration Advisors
+          
+      
+
+
+
+
+
+          Research
+          
+      
+
+
+
+        CS91r
+        
+        
+
+
+
+        Senior Thesis
+        
+        
+
+
+
+
+
+          Get Involved
+          
+      
+
+
+
+        Teaching and advising
+        
+        
+
+
+
+        Alex Patel Fellowship
+        
+        
+
+
+
+        Clubs and Activities
+        
+        
+
+
+
+        Entrepreneurship
+        
+        
+
+
+
+
+
+          Resources
+          
+      
+
+
+
+        How to Succeed in CS Courses
+        
+        
+
+
+
+
+
+          Diversity in CS
+          
+      
+
+
+
+          Forms
+          
+      
+
+
+
+          About CS
+          
+      
+
+
+
+        Careers of alumni
+        
+        
+
+
+
+        CS and Society
+        
+        
+
+
+
+        Curriculum Committee
+        
+        
+
+
+
+
+
+          Contact
+          
+      
+
+
+
+More
+
+
+ Courses
+
+
+ Course Tags
+
+
+ Accessibility
+
+
+
+
+
+
+
+
+
+
+Academics
+
+
+Computer Science
+
+
+
+
+
+
+
+
+
+
+ navigation
+                        
+
+
+
+Harvard Computer Science > Concentration > Concentration Requirements > Old Requirements
+          
+        
+          
+        
+          
+        
+          
+        
+                 
+                  
+
+
+
+
+
+2020 CS Concentration Requirements
+
+Basic Requirements: 10-12 courses (40-48 credits)
+Requirements for Honors Eligibility: 12-14 courses (48-56 credits)
+Requirements for Joint Concentrations: 36-44 credits for CS field (9-11 courses for CS field)
+The Mind, Brain, and Behavior Program
+
+
+Table of course substitutions for CS concentration
+
+
+
+
+
+
+
+
+
+
+              
+              Old Requirements
+            
+The following table summarizes the old  (2020 and earlier) concentration requirements.
+Students who enrolled in courses at Harvard College for at least one term before Fall 2021 can choose between following the requirements below or the current requirements (comparison). A list of permitted course substitutions for the 2020 concentration requirements is further down the page.
+
+
+
+Category
+Number of required  courses
+Basic Concentration
+Honors Concentration
+
+
+Mathematics
+(Total: 2-4 courses)
+
+
+
+
+    Preparation
+0-2
+Math 1a and/or Math 1b as needed
+same
+
+
+    Linear algebra
+1
+Math 21b/22a/23a/25a/55a, AM 21b/22a
+same
+
+
+    Probability/statistics or Multivariable calculus
+1
+Stat 110 or Math 21a/22b/23b/23c/25b/55b, AM 21a
+same
+
+
+Basic Software
+2
+2 out of CS 50, CS 51, CS 61
+same
+
+
+Theory
+2
+CS 121 + CS 124 or other theory course
+same
+
+
+Technical Electives
+4 (6 for honors)
+4 courses from list that includes CS 20, CS 51-289, STAT 110, AM 106, AM 107, and others. (at most one CS 91r)
+6 courses from same list
+
+
+
+
+Breadth Requirement
+
+2 tech electives must be CS with distinct penultimate digit 3-8
+3 tech electives must be CS with distinct penultimate digit 3-8
+
+
+Tutorial
+
+At most one CS91r is tech elective
+same
+
+
+Thesis
+
+Not required
+Not required but recommended
+
+
+2020 CS Concentration Requirements
+from the 2020-21 handbook
+REQUIREMENTS
+There are four types of concentrations in Computer Science: Basic Concentration, Honors Concentration, Joint Concentration, and the Mind, Brain, Behavior track of the Computer Science concentration.
+The number of credits required for each degree depends on the student’s mathematics placement. The ranges given here depend on whether the student starts mathematics at the Mathematics 1a, Mathematics 1b, or Mathematics 21a level. (With good planning it is also possible to earn a Computer Science degree starting with Mathematics Ma.) For example, a basic concentration requires 48 credits (12 courses), of which Mathematics 1a and/or Mathematics 1b can be waived, depending on placement, to reduce the number to 44 or 40 credits (11 or 10 courses).
+In all of the requirements below, a student may replace a course with another course covering the same material at a more advanced level. For example, Mathematics 21b can be replaced with Mathematics 25a. For information on which courses are considered acceptable replacement, see our website or ask the Directors of Undergraduate Studies.
+No student may reduce concentration requirements by omitting any other course other than Mathematics 1a or Mathematics 1b: any other required course not taken must be replaced by a similar course at a more advanced level.
+The four concentration options share the following common requirement structure.
+
+Basic mathematics
+Basic software
+Theory
+Technical electives (including the breadth requirement)
+
+Basic Requirements: 10-12 courses (40-48 credits)
+
+Required courses:
+
+Basic Mathematics (2-4 courses):
+
+Mathematics 1a and Mathematics 1b, if needed as preparation.
+Linear algebra: Any one of Mathematics 21b, Applied Mathematics 22a, Applied Mathematics 21b, Mathematics 23a, Mathematics 25a, or Mathematics 55a, or a more advanced linear algebra course.
+Probability/statistics or Multivariable calculus: One of the following. Either Statistics 110 or a more advanced probability or statistics course, or one of Mathematics 21a, Applied Mathematics 22b, Applied Mathematics 21a, Mathematics 23b, Mathematics 23c, Mathematics 25b, Mathematics 55b, or a more advanced multivariable calculus or analysis course.
+Note: Please contact the Directors of Undergraduate Studies for more information about the Mathematics 22 series.
+Note: Students that take all three of a linear algebra course, multivariate calculus course and probability/statistics course can count the probability/statistics course as a technical elective (see below).
+
+
+Basic Software (2 courses):  Two out of the following three courses: Computer Science 50, Computer Science 51, and Computer Science 61. Students who take all three courses may count one of Computer Science 51 or Computer Science 61 as a technical elective (see below). Ordinarily, CS 50 will not count for concentration credit after more advanced coursework.
+Theory (2 courses): Computer Science 121, plus any one additional theory course, including Computer Science courses numbered in the 120s and 220s, and Applied Mathematics 107. The recommended way to satisfy the theory requirement is to take both Computer Science 121 and Computer Science 124.
+Technical Electives (4 courses):  Courses may be drawn from the following list:
+
+Computer Science courses numbered greater than 50 (including 91r). A student who takes all three of Computer Science 50, Computer Science 51, and Computer Science 61 may count either Computer Science 51 or Computer Science 61 as a technical elective.
+Statistics 110 and 195; Computer Science 20; Mathematics 154; Applied Mathematics 106, 107, 120, and 121; at most one of Engineering Sciences 50, 52, or 54; Engineering Sciences 153 or Physics 123; Engineering Sciences 170 and 256; Applied Computation 221.
+Many—but not all—MIT “Course 6” courses can be used as technical electives. Consult the DUS before enrolling.
+
+
+Breadth Requirement: In order to ensure breadth in the program two of the four technical electives must be Computer Science courses from different course groupings from the following lists, as identified by the penultimate digit of the course number:
+
+Note: Computer Science courses with penultimate digit 0, 1, 2, and 9 are valid technical electives if not used to satisfy other concentration requirements, but do not contribute to the breadth requirement
+3: Economics and Computation (any course of the form CS13x or CS23x)
+4: Hardware and Networks (any course of the form CS14x or of the form CS24x. Physics 123 and Engineering Sciences 153 count in this group as well).
+5: Programming Languages (CS51 if counted as a technical elective, or any other course of the form CS15x or CS25x).
+6: Systems (CS61 if counted as a technical elective, or any other course of the form CS16x or CS26x)
+7: Graphics, Visualization, and User Interfaces (any course of the form CS17x or CS27x).
+8: Artificial Intelligence (any course of the form CS18x or CS28x).
+
+
+
+
+Tutorial:  Optional. Available as Computer Science 91r. This course is repeatable, but may be taken at most twice for academic credit, and only one semester of Computer Science 91r may be counted toward concentration requirements. Students wishing to enroll in Computer Science 91r must file a project proposal to be signed by the student and the faculty supervisor and approved by the Directors of Undergraduate Studies. The project proposal form can be found on the Computer Science website.
+Thesis: None.
+General Examination: None
+Other Information:
+
+Approved courses:  With the approval of the Directors of Undergraduate Studies, courses other than those listed above may be used to satisfy requirements. If a course is cross-listed with another department it meets the same requirements for the concentration as the Computer Science numbered course. To satisfy any of the requirements  for Basic Mathematics, Basic Software, and/or Theory, a substituted course must be in the same area of mathematics or computer science but more advanced than the stipulated course. Students must secure advance approval for course substitutions by filing a Plan of Study to be approved by the Directors of Undergraduate Studies. The Plan of Study form and a description of the process to submit the form can be found on the Computer Science website.
+Pass/Fail and Sat/Unsat:  None of the courses used to satisfy concentration requirements may be taken Pass/Fail. Computer Science 50 will count for concentration credit if it is taken for a grade of SAT.
+Credit for prior work:  Except for Math 1ab, there is no reduction in concentration requirements for prior work. As noted in Basic Software above, students who skip CS50 must take both CS51 and CS61. Rarely, students wish, on the basis of prior experience, to skip CS51 or CS61 or courses such as Math 21a or Math 21b. They may be allowed to do so, with the prior approval of the Directors of Undergraduate Studies, if they substitute a more advanced course of the same kind: for example, CS152 in place of CS51, CS161 in place of CS61, Math 112 or Applied Math 105 in place of Math 21a, and Math 121 or Applied Math 120 in place of Math 21b.
+Plans of study:  Concentrators must file a Plan of Study showing how they intend to satisfy these degree requirements, and keep their plan of study up to date until their program is complete. If the plan is acceptable, the student will be notified that it has been approved. To petition for an exception to any rule, the student should file a new plan of study and notify the Directors of Undergraduate Studies of the rationale for any exceptional conditions. Approval of a plan of study is the student’s guarantee that a given set of courses will satisfy degree requirements. The Plan of Study form and a description of the process to submit the form can be found on the Computer Science website.
+
+
+
+Requirements for Honors Eligibility: 12-14 courses (48-56 credits)
+
+Required courses:
+
+Basic Mathematics (2-4 courses):  Same as Basic Requirements.
+Basic Software (2 courses): Same as Basic Requirements.
+Theory (2 courses): Same as Basic Requirements.
+Technical Electives (6 courses):  6 courses from same list as  Basic Requirements.
+Breadth Requirement: For the honors track, three of the six technical electives must be Computer Science courses from different course groupings, as identified by the penultimate digit of the course number (see  Basic Requirements  for list of areas and restrictions).
+
+
+Tutorial:  Same as Basic Requirements.
+Thesis:  Optional but encouraged. See honors requirements on the Computer Science website. Students writing theses are often enrolled in Computer Science 91r. This course is repeatable, but may be taken at most twice for academic credit, and only one semester of Computer Science 91r may be counted toward concentration requirements. Students wishing to enroll in Computer Science 91r must file a project proposal to be signed by the student and the faculty supervisor and approved by the Directors of Undergraduate Studies. The project proposal form can be found on the Computer Science website.
+General Examination: None.
+Other information:
+
+Approved courses:  Same as  Basic Requirements.
+Pass/Fail and Sat/Unsat:  Same as  Basic Requirements.
+Credit for prior work:  Same as  Basic Requirements.
+Plans of Study:  Same as  Basic Requirements.
+
+
+
+Requirements for Joint Concentrations: 36-44 credits for CS field (9-11 courses for CS field)
+Joint concentrations with certain other fields are possible. This option is intended for students who have interests in the intersection of two fields, not simply in the two fields independently; for example, a combined concentration in computer science and linguistics might be appropriate for a student with a special interest in computational linguistics. Course requirements are the same as for the Requirements for Honors Eligibility, except that only three technical electives are required. These three technical electives must satisfy the breadth requirement as stated in Breadth Requirement, with the further provision that one semester of Computer Science 91r may be used to satisfy the breadth requirement for joint concentrations. Such courses may also be double-counted towards the requirements of the other field. Joint concentrations are not “double majors.” Joint concentrators should be interested in the overlap between two fields, not simply in both. A thesis in the intersection of the fields is required for joint concentrators, read by both concentrations. The student is typically awarded the minimum honors recommended by the two concentrations separately. These requirements, including the thesis requirement, are the same whether Computer Science is the primary field or the allied field of the joint concentration. Students interested in combined programs should consult the Directors of Undergraduate Studies at an early date and should work carefully with both concentrations to ensure all deadlines and requirements of both concentrations are met. Students with separate interests in more than one field should consider a secondary rather than a joint concentration, or simply using some of their electives to study one of the fields. We advise all our joint concentrators to make sure that they satisfy the non-joint requirements for at least one concentration, in case they are unable to complete a thesis.
+The Mind, Brain, and Behavior Program
+Students interested in addressing questions of neuroscience and cognition from the perspective of computer science may pursue a special program of study affiliated with the University-wide Mind, Brain, and Behavior Initiative, that allows them to participate in a variety of related activities. (Similar programs are available through the Anthropology, History and Science, Human Evolutionary Biology, Linguistics, Neurobiology, Philosophy, and Psychology concentrations.) Requirements for this honors-only program are based on those of the computer science Requirements for Honors Eligibility, as explained below:
+Requirements for Mind, Brain, and Behavior Program: 12-14 courses (48-56 credits)
+
+Required courses:
+
+Basic Mathematics (2-4 courses): Same as Honors Requirements.
+Basic Software (2 courses): Same as Honors Requirements.
+Theory (2 courses): Same as Honors Requirements, except that Statistics 110 may count towards the second theory course. Statistics 110 is an option for the theory requirement only in the MBB track.
+Technical Electives (4 courses):
+
+MCB 80 or MCB 81
+One approved biology or psychology course
+An approved MBB junior tutorial
+Computer Science 181, 182, or 183
+
+
+Breadth Requirement (2 courses): Two courses from different course groupings, identified by the penultimate digit of the course number (3, 4, 5, 6, 7) (see Basic Requirements for list of areas and restrictions). Group 8 is not an option for the breadth requirement in MBB programs, but Computer Science 91r may also be used to satisfy the breadth requirement. (SLS 20 is not an approved course for the Computer Science MBB track.)
+
+
+Tutorial: Same as Honors Requirements.
+Thesis: A computationally-oriented thesis on a Mind, Brain, and Behavior-related topic is required. Students pursuing thesis research may want to enroll in Computer Science 91r under Technical Electives.
+General Examination: None.
+Other information:
+
+Approved courses:  Same as Honors Requirements.
+Pass/Fail and Sat/Unsat:  Same as Honors Requirements.
+Credit for prior work:  Same as Honors Requirements.
+Plans of Study:  Same as Honors Requirements.
+
+
+Note: Students pursuing the Mind, Brain, and Behavior track are assigned an adviser in the field and are expected to participate in the University-wide Mind, Brain, and Behavior research milieu, including a non-credit senior year seminar for Mind, Brain, and Behavior thesis writers. To participate in the MBB track, students must both complete the Computer Science concentration Plan of Study and register at the beginning of every academic year on the MBB website. Interested students should contact the Computer Science liaison to the MBB program, Professor Stuart Shieber.
+
+Table of course substitutions for CS concentration
+The following table summarizes some course substitutions that are allowed for the 2020 concentration requirements. It also includes the answers to some commonly asked questions about which courses satisfy certain requirements. If a course appears here as a valid substitution then you can use it in your plan of study instead of the original course. However, when you use a substitution, you should add a note saying so to the plan of study and mention it in your email to cs-dus submitting the plan of study. Courses change, and so can the allowed substitutions. If you have any question about a course that’s not listed here (or one that is) you can check with the DUSes. These substitutions are only valid for the computer science concentration. These substitutions are not valid for a secondary in CS, for which the requirements are listed here.
+
+
+
+
+Course
+Can be used in place of
+
+
+
+
+Math 23b,23c, 25b, 55b, 110, 112, 113, 114, 115, 116, AM 105, 108, and 111
+Math 21a: Multivariate Calculus
+
+
+Math 22b (Fall 2019 and after)
+Math 21a: Multivariate Calculus
+
+
+Math 23a, 25a, 55a,121,122, AM 120, 121
+Math 21b: Linear algebra
+
+
+Math 22a (Fall 2019 and after)
+Math 21b: Linear algebra
+
+
+AM 22a: Solving and Optimizing
+Math 21b: Linear algebra
+
+
+STAT 185: Introduction to Dimension Reduction
+Math 21b: Linear algebra
+
+
+STAT 210: Probability Theory and Statistical Inference I
+STAT 110: Probability
+
+
+STAT 220: Bayesian Data Analysis
+STAT 110: Probability
+
+
+STAT 111: Introduction to Statistical Inference
+STAT 110: Probability
+
+
+Math 154 Probability Theory
+STAT 110: Probability
+
+
+ES 150: Introduction to Probability with Engineering Applications
+STAT 110: Probability
+
+
+STAT S-110 (Summer course: intro to probability)
+STAT 110: Probability
+
+
+ENSC S-138: (Summer course: intro to probability)
+STAT 110: Probability
+
+
+CSCI S-20 (Summer course: intro to discrete math) (Currently Summer 2020 only)
+CS 20: Discrete Mathematics for Computer Science
+
+
+CSCI S-50 (Summer course: intro to programming) (Currently Summer 2020 only)
+CS 50: Introduction to Computer Science
+
+
+CSCI S-111 (Summer course intro to programming)
+CS 50: Introduction to Computer Science
+
+
+MIT 6.849: Computational Geometry
+Tech elective
+
+
+CS 1xx, 2xx
+Tech elective, can satisfy breadth if penultimate digit 3-8
+
+
+CS 20: Discrete Mathematics
+Tech elective (no breadth)
+
+
+CS 91r: Supervised Reading and Research
+Tech elective (one semester only)
+
+
+CS 96: System Design Projects
+Tech elective (no breadth)
+
+
+STAT 110: Probability
+Can be used as tech elective (not breadth) if not used to satisfy probability requirement.
+
+
+AM 106: Applied Algebra
+Tech elective (no breadth): as of fall 2018 cannot be used as second theory course
+
+
+AM 120: Applied linear algebra and big data
+Tech elective (no breadth)
+
+
+AM 121: Introduction to Optimization: Models and Methods
+Tech elective (no breadth)
+
+
+AM 216: Inverse Problems in Science and Engineering
+Tech elective (no breadth)
+
+
+AM 231 (ES 201): Decision Theory
+Tech elective (no breadth)
+
+
+STAT 195: Statistical Machine Learning
+Tech elective
+
+
+APCOMP 221 Critical Thinking in Data Science
+Tech elective (no breadth) - equivalent to a CS 20x course
+
+
+ES 170:  Engineering Quantum Mechanics
+Tech elective (no breadth)
+
+
+SCI-6478 / ES 256: Informal robotics
+Tech elective (no breadth)
+
+
+MIT 6.338j: Parallel Computing and Scientific Machine Learning
+Tech elective
+
+
+MIT 6.809 / 21M.385: Interactive Music Systems
+Tech elective (no breadth)
+
+
+MIT 8.370: Quantum Computation
+Tech elective (no breadth)
+
+
+MIT 6.857: Computer and Network Security
+Tech elective (no breadth)
+
+
+MIT 6.875: Cryptography and Cryptanalysis
+Tech elective (no breadth)
+
+
+PHYS 160
+Tech elective (no breadth)
+
+
+STAT 121a/b , AC 209a/b
+CS 109a/b: Introduction to Data Science
+
+
+CSCI S-109A (Summer course: intro to data science)
+CS 109a: Introduction to Data Science I
+
+
+CS 221: Computational Complexity
+CS 121: Introduction to Theoretical Computer Science
+
+
+AM 107: Graph Theory and Combinatorics
+Tech elective (no breadth), also second theory course
+
+
+CS 229r courses: theory advanced topics
+Sometimes satisfy second theory course requirement but check with DUS as topics vary from term to term
+
+
+MIT 6.841 / 18.405: Advanced Complexity Theory
+CS 221: Computational Complexity
+
+
+MIT 6.854: Advanced Algorithms
+CS 224: Advanced Algorithms
+
+
+PHY123, ES153: Laboratory Electronics
+CS 14x
+
+
+CS 51: Abstraction and design in computation / CS 61: Systems Programming and Machine Organization
+One of CS51/61 can satisfy breadth if student took CS50+51+61
+
+
+MIT 6.172: Performance Engineering of Software Systems
+CS 16x
+
+
+MIT 6.858: Comp Systems Security
+CS 26x
+
+
+MIT 6.170: Software Studio
+CS 17x
+
+
+MIT 6.837: Computer Graphics
+CS 17x
+
+
+ES 143: Computer Vision
+CS 17x
+
+
+AM 207: Stochastic Methods for Data Analysis, Inference and Optimization
+CS 28x
+
+
+Study abroad courses
+Case by case basis, check with DUS
+
+
+MIT 6.006: Introduction to Algorithms
+Can not be used for concentration requirements
+
+
+AM 101: Statistical Inference for Scientists and Engineers 
+Can not be used for concentration requirements
+
+
+Math 157:  Mathematics in the World 
+Can not be used for concentration requirements
+
+
+DPI 663: Tech and Innovation in Government
+Can not be used for concentration requirements
+
+
+ES 21: The innovator's practice
+Can not be used for concentration requirements
+
+
+CS 1: Great Ideas in Computer Science
+Can not be used for concentration requirements
+
+
+CS courses with "n" suffix (for example CS90nar and CS90nbr)
+Can not be used for concentration requirements
+
+
+MIT 6.042: Mathematics for Computer Science
+As of Spring 2021, cannot be used for concentration requirements (CS 20 equivalent)
+
+
+MIT 6.00: Introduction to Computer Science and Programming
+As of Spring 2021, cannot be used for concentration requirements (CS 50 equivalent)
+
+
+MIT 6.031: Software Construction
+As of Spring 2021, cannot be used for concentration requirements (CS 51 equivalent)
+
+
+MIT 6.004: Computation Structures
+As of Spring 2021, cannot be used for concentration requirements
+
+
+MIT 6.045: Automata, Computability, and Complexity Theory
+As of Spring 2021, cannot be used for concentration requirements (CS 121 equivalent)
+
+
+MIT 6.840: Introduction to the Theory of Computation
+As of Spring 2021, cannot be used for concentration requirements (CS 121 equivalent)
+
+
+MIT 6.046: Algorithms
+As of Spring 2021, cannot be used for concentration requirements (CS 124 equivalent)
+
+
+MIT 6.036: Introduction to Machine Learning
+As of Spring 2021, cannot be used for concentration requirements
+
+
+MIT 6.034: Artifical Intelligence
+As of Spring 2021, cannot be used for concentration requirements (CS 182 equivalent)
+
+
+MIT 18.600 (18.440) Probability and random variables
+As of Spring 2021, cannot be used for concentration requirements (STAT 110 equivalent)
+
+
+MIT 6.033: Computer Systems Engineering
+As of Spring 2021, cannot be used for concentration requirements (CS 16x equivalent)
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Harvard John A. Paulson School of Engineering and Applied Sciences
+
+
+
+
+© 2023 President and Fellows of Harvard College
+
+Accessibility | Trademark Notice | Privacy Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,505 @@
+
+
+
+
+
+
+
+
+
+
+Diversity in CS :: Harvard CS Concentration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ CS Undergrad Advising
+
+
+
+
+
+
+
+          FAQ
+          
+      
+
+
+
+          First-Year Exploration
+          
+      
+
+
+
+          Sophomore Advising
+          
+      
+
+
+
+          Concentration
+          
+      
+
+
+
+        Degree programs
+        
+        
+
+
+
+        Declaring CS concentration
+        
+        
+
+
+
+        Joint, double and combined concentrations
+        
+        
+
+
+
+        Honors
+        
+        
+
+
+
+          Concentration Requirements
+          
+      
+
+
+
+        Old Requirements
+        
+        
+
+
+
+        Comparison
+        
+        
+
+
+
+
+
+          Courses
+          
+      
+
+
+
+        Sample schedules and plans of study
+        
+        
+
+
+
+        Tags for computer science courses
+        
+        
+
+
+
+
+
+        Study abroad
+        
+        
+
+
+
+        Cross-registering at MIT
+        
+        
+
+
+
+
+
+          Secondary Field
+          
+      
+
+
+
+          Advising
+          
+      
+
+
+
+          Peer Concentration Advisors
+          
+      
+
+
+
+
+
+          Research
+          
+      
+
+
+
+        CS91r
+        
+        
+
+
+
+        Senior Thesis
+        
+        
+
+
+
+
+
+          Get Involved
+          
+      
+
+
+
+        Teaching and advising
+        
+        
+
+
+
+        Alex Patel Fellowship
+        
+        
+
+
+
+        Clubs and Activities
+        
+        
+
+
+
+        Entrepreneurship
+        
+        
+
+
+
+
+
+          Resources
+          
+      
+
+
+
+        How to Succeed in CS Courses
+        
+        
+
+
+
+
+
+          Diversity in CS
+          
+      
+
+
+
+          Forms
+          
+      
+
+
+
+          About CS
+          
+      
+
+
+
+        Careers of alumni
+        
+        
+
+
+
+        CS and Society
+        
+        
+
+
+
+        Curriculum Committee
+        
+        
+
+
+
+
+
+          Contact
+          
+      
+
+
+
+More
+
+
+ Courses
+
+
+ Course Tags
+
+
+ Accessibility
+
+
+
+
+
+
+
+
+
+
+Academics
+
+
+Computer Science
+
+
+
+
+
+
+
+
+
+
+ navigation
+                        
+
+
+
+Harvard Computer Science > Diversity in CS
+          
+        
+          
+        
+                 
+                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              
+              Diversity in CS
+            
+This page describes information related to Diversity, Inclusion, and Belonging in the Harvard Computer Science undergraduate program and SEAS more generally.
+Our Commitment
+We in the Harvard Computer Science concentration believe that Black lives matter. We support our students, faculty, and staff of color in the fight against institutionalized racism, both within our halls and in society at large. CS is committed to creating a safe environment, educating ourselves on anti-Black racism, and recruiting diverse faculty and students. We stand with Black students, and we know there is a lot of work to be done.
+CS Feedback
+This is a form for anonymous feedback, for your ideas for CS to consider, or to let us know how you’re doing. CS Feedback.
+CS Diversity Committee
+The Computer Science Diversity Committee was founded in 2016 and works to increase recruitment and retention of women and underrepresented minorities in computing. Please see their website for some examples of the work they do to support diversity in computing.
+SEAS Office of Diversity, Inclusion, and Belonging
+Much of the diversity work at SEAS is centralized in the Office of Diversity, Inclusion, and Belonging. They support initiatives, recruiting, changes to processes, trainings, affinity groups, discussions and more.
+Message from the Peer Concentration Advisors
+Computer Science Peer Concentration Advisors
+To our peers in Harvard Computer Science,
+We hope you have been finding strength during these challenging times, reflecting, growing, and standing together. These past few weeks have been especially difficult for many of you, and we write to condemn the endless systemic racism our Black peers face in this country, as well as express that we stand with all of you who are mourning, protesting, and/or advocating.
+We, the Computer Science Peer Concentration Advisors, stand in firm solidarity with Black communities and the Black Lives Matter movement, both now and always. We call for justice for George Floyd, Breonna Taylor, Tony McDade, Ahmaud Arbery, David McAtee, Layleen Polanco, Korryn Gaines, Sandra Bland, Eric Garner, Freddie Gray, Tamir Rice, Trayvon Martin, and every other victim of police brutality and racial violence.
+The purpose of the CS PCA program is to help build a sense of community among students and faculty in the Computer Science program and to ensure that students are supported in their academic pursuits, which calls for each of us to stand with our Black peers in both our PCA and CS communities, as well as to stand up for racial equity as allies to our Black community members. We further recognize that the technology industry and field at large would not be where they are now were it not for the groundbreaking contributions of Black computer scientists and technologists, in various positions across industry and academia.
+We especially encourage non-Black members of our community to take time to engage with resources, educate yourself and those around you, and take action to help create structural change in our society. If you are looking for a place to start, please feel free to consult some of the resources we’ve listed at the end of this email.
+The resources we share are in no way exhaustive, and we know that a statement alone cannot suffice. We have been communicating with the CS department to push for stronger diversity and inclusion, and hope to increase both transparency and initiative within the department. For a better understanding of the efforts of the SEAS Committee on Diversity, Inclusion, and Belonging and the related Computer Science Diversity Committee, please find related information here, and more generally here.
+As always, please don’t hesitate to let us know if you have any questions or concerns, or if you would like to talk. We are here to support you in any and every way we can, not only as peer advisors to you, but also as advisors to the CS department, advocating for you. You can reach the CS PCAs at cs-pca@seas.harvard.edu; the CS DUS team at cs-dus@seas.harvard.edu; and Alexis Stokes, the SEAS Director of Diversity, Inclusion and Belonging, at astokes@seas.harvard.edu. We also always welcome your anonymous feedback via https://forms.gle/UcsjJxxD9x1akUyWA (which can also always be found on the CS advising website).
+With love and solidarity,
+Your Peer Concentration Advisors
+Here are some ways you can get started in supporting the Black Lives Matter movement:
+General:
+
+Read this open letter to President Bacow, sign petitions, record your donations, and share
+Resource kit compiled by Harvard’s Black Students Association
+General non-Harvard-affiliated resources
+
+https://blacklivesmatters.carrd.co
+https://standinsolidarity.co/
+
+
+
+Donate:
+
+To reach victims, protestors, black-owned businesses, organizations, and more
+To support organizations actively supporting black people in tech:
+
+https://www.fullstackacademy.com/blog/black-coders-tech-orgs
+https://www.blacktechmatters.co/
+
+
+To help support new black-owned businesses
+To have your contributions matched by Harvard organizations
+If you or someone you know is currently interning/working at a larger tech company, make sure to take advantage of donation-matching programs to double or triple your donation power!
+
+Sign petitions:
+
+To call on Harvard
+To seek justice for innocent lives
+
+Text, call, email:
+
+Send emails seeking justice for innocent black lives
+For more places to text/call
+
+Read:
+
+
+Statement of Solidarity from Harvard’s Tech-Affiliated Organizations
+
+
+Tech Related Readings:
+
+Race for Technology: Abolitionist Tools for the New Jim Code by Ruha Benjamin
+Algorithms of Oppression: How Search Engines Reinforce Racism by Safiya Noble
+
+
+
+Anti-Racism Readings:
+
+White Fragility by Robin DiAngelo
+Too Much Schooling, Too Little Education: A Paradox of Black Life in White Societies by Mwalimu Shujaa
+Evidence of Things Not Seen by James Baldwin
+Pedagogy of the Oppressed by Paulo Freire
+The New Jim Crow by Michelle Alexander
+How to Be an Antiracist by Ibram X. Kendi
+The Burning House by Anders Walker
+Nobody by Marc Lamont Hill
+So You Want to Talk About Race by Ijeoma Oluo
+Blindspot: Hidden Biases of Good People by Mahzarin Banaji
+
+
+
+Watch:
+
+I am Not Your Negro
+13th
+When They See Us
+Fruitvale Station
+Just Mercy
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Harvard John A. Paulson School of Engineering and Applied Sciences
+
+
+
+
+© 2023 President and Fellows of Harvard College
+
+Accessibility | Trademark Notice | Privacy Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

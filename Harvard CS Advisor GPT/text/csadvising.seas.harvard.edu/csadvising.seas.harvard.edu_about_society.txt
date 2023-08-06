@@ -1,0 +1,422 @@
+
+
+
+
+
+
+
+
+
+
+CS and Society :: Harvard CS Concentration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ CS Undergrad Advising
+
+
+
+
+
+
+
+          FAQ
+          
+      
+
+
+
+          First-Year Exploration
+          
+      
+
+
+
+          Sophomore Advising
+          
+      
+
+
+
+          Concentration
+          
+      
+
+
+
+        Degree programs
+        
+        
+
+
+
+        Declaring CS concentration
+        
+        
+
+
+
+        Joint, double and combined concentrations
+        
+        
+
+
+
+        Honors
+        
+        
+
+
+
+          Concentration Requirements
+          
+      
+
+
+
+        Old Requirements
+        
+        
+
+
+
+        Comparison
+        
+        
+
+
+
+
+
+          Courses
+          
+      
+
+
+
+        Sample schedules and plans of study
+        
+        
+
+
+
+        Tags for computer science courses
+        
+        
+
+
+
+
+
+        Study abroad
+        
+        
+
+
+
+        Cross-registering at MIT
+        
+        
+
+
+
+
+
+          Secondary Field
+          
+      
+
+
+
+          Advising
+          
+      
+
+
+
+          Peer Concentration Advisors
+          
+      
+
+
+
+
+
+          Research
+          
+      
+
+
+
+        CS91r
+        
+        
+
+
+
+        Senior Thesis
+        
+        
+
+
+
+
+
+          Get Involved
+          
+      
+
+
+
+        Teaching and advising
+        
+        
+
+
+
+        Alex Patel Fellowship
+        
+        
+
+
+
+        Clubs and Activities
+        
+        
+
+
+
+        Entrepreneurship
+        
+        
+
+
+
+
+
+          Resources
+          
+      
+
+
+
+        How to Succeed in CS Courses
+        
+        
+
+
+
+
+
+          Diversity in CS
+          
+      
+
+
+
+          Forms
+          
+      
+
+
+
+          About CS
+          
+      
+
+
+
+        Careers of alumni
+        
+        
+
+
+
+        CS and Society
+        
+        
+
+
+
+        Curriculum Committee
+        
+        
+
+
+
+
+
+          Contact
+          
+      
+
+
+
+More
+
+
+ Courses
+
+
+ Course Tags
+
+
+ Accessibility
+
+
+
+
+
+
+
+
+
+
+Academics
+
+
+Computer Science
+
+
+
+
+
+
+
+
+
+
+ navigation
+                        
+
+
+
+Harvard Computer Science > About CS > CS and Society
+          
+        
+          
+        
+          
+        
+                 
+                  
+
+
+
+
+
+
+
+
+
+
+
+
+              
+              CS and Society
+            
+Harvard Computer Science has several programs that allow undergraduate students to think about the broader issues in tech and CS.
+Embedded EthiCS
+Embedded EthiCS meets the challenge of making ethical reasoning integral to computer science education with a distributed pedagogy that introduces ethics directly into standard computer science courses across the curriculum. It works by embedding philosophers into courses to teach a module for the course that explores an ethical issue that the course material raises. In a data systems class, the philosopher might explore issues of privacy in large, distributed systems. In a programming languages course, she might ask students to consider ethical specifications as well as functional ones. In a human-computer interaction course, she might explore whether software engineers should design systems that are accessible to visually impaired users. In a machine learning class, she might explore how solving problems using machine learning can lead to inadvertent discrimination. In a networks class, she might explore the issue of censorship on social media platforms.
+Center for Research on Computation and Society
+The Center for Research on Computation and Society (CRCS), at the Harvard John A. Paulson School of Engineering and Applied Sciences, brings together computer scientists and scholars from a broad range of fields to make advances in computational research that serve public interest. We are currently collaborating on interdisciplinary projects in areas such as conservation and public health. CRCS is informed by a deep knowledge of the societal issues at stake and by a commitment to advancing the human condition through cutting edge collaboration between computational and social science.
+CRCS offers a variety of programming, including the AI for Social Impact Seminar Series.
+Berkman Klein Center for Internet & Society at Harvard University
+The Berkman Klein Center’s mission is to explore and understand cyberspace; to study its development, dynamics, norms, and standards; and to assess the need or lack thereof for laws and sanctions. We are a research center, premised on the observation that what we seek to learn is not already recorded. Our method is to build out into cyberspace, record data as we go, self-study, and share. Our mode is entrepreneurial nonprofit.
+Check out their upcoming events here.
+Harvard Data Science Initiative
+The Harvard Data Science Initiative represents Harvard’s commitment to shaping the new science of data. It illuminates the new interdisciplinary pathways that our faculty, students, and partners will use to solve real problems, in a world with critical ethical challenges regarding facts, data, and truth.
+Please see their events calendar.
+Harvard University Privacy Tools Project
+The Privacy Tools Project is a broad effort to advance a multidisciplinary understanding of data privacy issues and build computational, statistical, legal, and policy tools to help address these issues in a variety of contexts. It was incubated by Harvard’s Center for Research on Computation and Society, and continues to be a collaborative effort between several units at Harvard University (the School of Engineering and Applied Sciences, Institute for Quantitative Social Science, and Berkman Klein Center for Internet & Society), Georgetown University (Computer Science Department), Boston University (Computer Science Department) and MIT (Center for Research in Equitable and Open Scholarship).
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Harvard John A. Paulson School of Engineering and Applied Sciences
+
+
+
+
+© 2023 President and Fellows of Harvard College
+
+Accessibility | Trademark Notice | Privacy Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

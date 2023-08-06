@@ -1,0 +1,498 @@
+
+
+
+
+
+
+
+
+
+
+Joint, double and combined concentrations :: Harvard CS Concentration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ CS Undergrad Advising
+
+
+
+
+
+
+
+          FAQ
+          
+      
+
+
+
+          First-Year Exploration
+          
+      
+
+
+
+          Sophomore Advising
+          
+      
+
+
+
+          Concentration
+          
+      
+
+
+
+        Degree programs
+        
+        
+
+
+
+        Declaring CS concentration
+        
+        
+
+
+
+        Joint, double and combined concentrations
+        
+        
+
+
+
+        Honors
+        
+        
+
+
+
+          Concentration Requirements
+          
+      
+
+
+
+        Old Requirements
+        
+        
+
+
+
+        Comparison
+        
+        
+
+
+
+
+
+          Courses
+          
+      
+
+
+
+        Sample schedules and plans of study
+        
+        
+
+
+
+        Tags for computer science courses
+        
+        
+
+
+
+
+
+        Study abroad
+        
+        
+
+
+
+        Cross-registering at MIT
+        
+        
+
+
+
+
+
+          Secondary Field
+          
+      
+
+
+
+          Advising
+          
+      
+
+
+
+          Peer Concentration Advisors
+          
+      
+
+
+
+
+
+          Research
+          
+      
+
+
+
+        CS91r
+        
+        
+
+
+
+        Senior Thesis
+        
+        
+
+
+
+
+
+          Get Involved
+          
+      
+
+
+
+        Teaching and advising
+        
+        
+
+
+
+        Alex Patel Fellowship
+        
+        
+
+
+
+        Clubs and Activities
+        
+        
+
+
+
+        Entrepreneurship
+        
+        
+
+
+
+
+
+          Resources
+          
+      
+
+
+
+        How to Succeed in CS Courses
+        
+        
+
+
+
+
+
+          Diversity in CS
+          
+      
+
+
+
+          Forms
+          
+      
+
+
+
+          About CS
+          
+      
+
+
+
+        Careers of alumni
+        
+        
+
+
+
+        CS and Society
+        
+        
+
+
+
+        Curriculum Committee
+        
+        
+
+
+
+
+
+          Contact
+          
+      
+
+
+
+More
+
+
+ Courses
+
+
+ Course Tags
+
+
+ Accessibility
+
+
+
+
+
+
+
+
+
+
+Academics
+
+
+Computer Science
+
+
+
+
+
+
+
+
+
+
+ navigation
+                        
+
+
+
+Harvard Computer Science > Concentration > Joint, double and combined concentrations
+          
+        
+          
+        
+          
+        
+                 
+                  
+
+
+
+
+
+
+
+Electives
+Secondary Fields
+Joint Concentrations
+Double Concentrations
+The Mind, Brain, and Behavior (MBB) Program
+Electrical and Computer Engineering
+Additional Advice
+
+
+
+
+
+
+
+
+
+
+
+
+              
+              Joint, double and combined concentrations
+            
+There are several ways to combine other interests with computer science.
+Electives
+Even if you are in an Honors program, a significant portion of your coursework
+is purely elective, meaning available for whatever courses you choose (rather
+than dedicated to CS or General Education requirements). Take interesting
+courses—that’s what college is for! Not all your interests need to be reflected
+in your official degree program.
+Secondary Fields
+A lightweight way of getting official recognition within Harvard for work in
+two fields is to do one or the other as a secondary field. This generally
+involves taking 4 or 5 courses in the secondary field. Secondary fields appear
+on your transcript, but not your diploma.
+
+About secondary fields (Harvard Student Handbook)
+List of secondary fields (Harvard Student Handbook)
+Requirements for a secondary field in computer science (4 courses)
+
+Joint Concentrations
+Students with serious interests in both computer science and a related
+concentration—one that is either foundational to the study of computing, or
+where computing is being applied in significant ways—may pursue a joint
+concentration between the two. This is not a “double major”: the two fields
+must overlap, and the student must write a senior thesis acceptable to both
+concentrations. Computer science has had successful joint concentrators with
+engineering, social sciences, natural sciences, and the humanities.
+Compared to the basic CS track, joint concentrators may take fewer
+Core Computer Science classes, and may use CS 91r to satisfy some CS
+requirements, but must write a thesis.
+
+Joint concentrations in general (Harvard Student Handbook)
+Computer science joint concentration requirements
+
+Students are responsible for ensuring that their degree program meets all
+deadlines and requirements of both concentrations. CS allows courses to count
+towards the requirements of both concentrations, but some other concentrations
+do not. We advise all our joint concentrators to satisfy the basic
+requirements for at least one of their concentrations, in case they do not
+complete a thesis. Students considering a joint concentration should consult
+the DUS team early to plan their courses, and consider whether a
+secondary field or elective would better meet their needs.
+Joint concentrations are honors-track programs. Each
+field recommends honors separately, and in most circumstances the minimum
+recommendation takes precedence. The primary field (the first-listed
+concentration) is ultimately responsible for the English honors
+recommendation, however.
+Double Concentrations
+Students with serious interests in both computer science and any concentration, not necessarily related,
+may pursue a double
+concentration of the two. This is a “double major”: the student must fulfill
+all the requirements for both a CS concentration (regular, honors, or MBB) and
+their other concentration, and at most two courses may be counted toward both concentrations.
+Students are responsible for ensuring that their degree program meets all
+deadlines and requirements of both concentrations. The (regular, honors, or MBB) CS side of
+a double concentration is equivalent in course requirements and honors to a (regular, honors, or MBB) concentration.
+The Mind, Brain, and Behavior (MBB) Program
+Students interested in addressing questions of neuroscience and cognition from
+the perspective of computer science may pursue a special program of study
+affiliated with the University-wide Mind, Brain, and Behavior
+Initiative. This honors-track program allows
+students to participate in a variety of related activities. Similar programs
+are available through the Anthropology, History and Science, Human
+Evolutionary Biology, Linguistics, Neurooscience, Philosophy, and Psychology
+concentrations.
+
+Computer science MBB requirements
+Frequently Asked Questions about the MBB track
+
+Electrical and Computer Engineering
+If you want to study hardware (e.g., chips, circuits, and memory) as
+well as software, consider pursuing the Electrical and Computer
+Engineering
+track
+as part of the Engineering Sciences concentration. This is distinct
+from, but parallel to, the Computer Science concentration.
+Additional Advice
+The Peer Concentration Advisors have compiled the CS Interdisciplinary Paths Unofficial Guide, a resource that contains further advice on combining computer science with other fields, including sample plans of study and specific courses that may be of interest.
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Harvard John A. Paulson School of Engineering and Applied Sciences
+
+
+
+
+© 2023 President and Fellows of Harvard College
+
+Accessibility | Trademark Notice | Privacy Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,518 @@
+
+
+
+
+
+
+
+
+
+
+First-Year Exploration :: Harvard CS Concentration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ CS Undergrad Advising
+
+
+
+
+
+
+
+          FAQ
+          
+      
+
+
+
+          First-Year Exploration
+          
+      
+
+
+
+          Sophomore Advising
+          
+      
+
+
+
+          Concentration
+          
+      
+
+
+
+        Degree programs
+        
+        
+
+
+
+        Declaring CS concentration
+        
+        
+
+
+
+        Joint, double and combined concentrations
+        
+        
+
+
+
+        Honors
+        
+        
+
+
+
+          Concentration Requirements
+          
+      
+
+
+
+        Old Requirements
+        
+        
+
+
+
+        Comparison
+        
+        
+
+
+
+
+
+          Courses
+          
+      
+
+
+
+        Sample schedules and plans of study
+        
+        
+
+
+
+        Tags for computer science courses
+        
+        
+
+
+
+
+
+        Study abroad
+        
+        
+
+
+
+        Cross-registering at MIT
+        
+        
+
+
+
+
+
+          Secondary Field
+          
+      
+
+
+
+          Advising
+          
+      
+
+
+
+          Peer Concentration Advisors
+          
+      
+
+
+
+
+
+          Research
+          
+      
+
+
+
+        CS91r
+        
+        
+
+
+
+        Senior Thesis
+        
+        
+
+
+
+
+
+          Get Involved
+          
+      
+
+
+
+        Teaching and advising
+        
+        
+
+
+
+        Alex Patel Fellowship
+        
+        
+
+
+
+        Clubs and Activities
+        
+        
+
+
+
+        Entrepreneurship
+        
+        
+
+
+
+
+
+          Resources
+          
+      
+
+
+
+        How to Succeed in CS Courses
+        
+        
+
+
+
+
+
+          Diversity in CS
+          
+      
+
+
+
+          Forms
+          
+      
+
+
+
+          About CS
+          
+      
+
+
+
+        Careers of alumni
+        
+        
+
+
+
+        CS and Society
+        
+        
+
+
+
+        Curriculum Committee
+        
+        
+
+
+
+
+
+          Contact
+          
+      
+
+
+
+More
+
+
+ Courses
+
+
+ Course Tags
+
+
+ Accessibility
+
+
+
+
+
+
+
+
+
+
+Academics
+
+
+Computer Science
+
+
+
+
+
+
+
+
+
+
+ navigation
+                        
+
+
+
+Harvard Computer Science > First-Year Exploration
+          
+        
+          
+        
+                 
+                  
+
+
+
+
+
+CS Courses for first-year students
+
+Fall term
+Spring term
+
+
+Mathematical preparation
+
+Recommended math courses for first year students
+
+
+Additional Resources
+
+
+
+
+
+
+
+
+
+
+              
+              First-Year Exploration
+            
+Class of 2026 Welcome! Please check our concentration requirements. In particular, we recommend that first-year students who place into the Math 18-55 level (i.e., do not need to take Math Ma/1a/1b) take a linear algebra course in the first-year fall term, instead of multivariate calculus. See mathematical preparation for more information and specific course recommendations.
+
+SEAS will host a Zoom advising event (Password:344932)  for first-year students on Thursday, Jan. 12th from 2-3pm ET.
+
+Welcome to Harvard! We’re glad you’re interested in Computer Science.
+This page contains some specific advice for which courses you can take in the first year.
+Some more information is on our FAQ, while the requirements for the CS concentration are detailed here. In addition, the CS Peer Concentration Advisors and our CS undergraduate Piazza forum are excellent places to get answers from fellow students.
+If you would like to explore a concentration in Computer Science, a great way to begin is by taking CS and Math courses in your first year. If, however, you don’t discover Computer Science until your sophomore year, it’s not too late to start.
+CS Courses for first-year students
+Aside from mathematical preparation courses, there are several CS courses to consider in your first year. Below is a list of some common choices. This is not an exclusive list; see the course catalog for more. The most common way to meet the Programming 1 & 2 requirements for CS students is to take CS 50 or CS 32 and CS 51 or CS 61.  However, there are other options depending on your background and interest (see below).
+We expect that most CS students will satisfy the formal reasoning requirement by taking CS 20 their first-year Spring, CS 120 or CS121 their sophomore fall, and a third course later (CS 124 sophomore spring is recommended), though some students with CS/math background take one or two of CS 120, 121, or 124 in their first year. If you have a strong background in Computer Science and/or Mathematics, you may want to consider taking more advanced courses in your first year; see the concentration courses page for advanced courses that might let you explore the Computer Science concentration.
+Fall term
+
+
+CS 50: Introduction to Computer Science is our introduction to the concentration and computer science. It is a popular course among concentrators and non-concentrators alike. 68% of CS50 students have never taken CS before.
+
+
+CS 61: Systems Programming and Machine Organization Some students may already have the background to skip CS 50, and CS 61 is a great course on systems programming.  This courses fulfills both the programming 2 and systems tags.
+
+See CS 61 Problem Set Zero to get a sense of whether your background is sufficient for this course.
+Professor Mike Smith created tutorials to help students transition from CS 32 to CS 61 (Python to C++), and these could also be helpful for transitioning from CS 50 to 61. This link will invite you to join the “CS help” Team under the “Harvard University” organization. This Team is set up to not collect any personal information at account creation.
+
+
+
+CS 120: Introduction to Algorithms and their Limitations  is mostly taken by sophomores, but is also taken by some first-year students that already have the mathematical preparation for it and are interested in the more theoretical aspects of CS. This course fulfills both the Computational Limitations tag and the Algorithms tag for the CS formal reasoning requirements.
+
+
+CS 121: Introduction to theoretical computer science is mostly taken by sophomores, but is also taken by some first-year students that already have the mathematical preparation for it and are interested in the more theoretical aspects of CS. See CS 121 Homework Zero to get a sense of whether your background is sufficient for this course. See also this FAQ about the similarities and differences between CS 120, 121, and 124.
+
+
+Spring term
+
+
+CS 32: Computational Thinking and Problem Solving is an alternative to CS 50. CS 32 takes a problem-solving approach to Computer Science and uses one programming language, Python. This course is appropriate for students who could not take CS 50 in the Fall term or who want a different introduction to Computer Science.
+
+
+CS 51: Abstraction and Design in Computer Science is a common next course to take after  CS 50 (though students can take CS 61 instead; they can also take all three of CS 50, 51, and 61).
+
+
+CS 20: Discrete Mathematics for Computer Science is a very common course for first-year CS students and fulfills the Discrete Mathematics requirement for Formal Reasoning.
+
+
+CS 124: Data Structures and Algorithms is mostly taken by sophomores but is sometimes taken by first-year students that have the proof/discrete math background for it.
+
+
+Mathematical preparation
+Mathematics underlies many areas of computer science, whether it’s the use of linear algebra, probability, and calculus for machine learning, graphics, and optimization, the use of graphs in algorithms design, the use of logic in programming languages, and many more.
+Therefore,  Computer Science concentrators will need a strong foundation in mathematics in order to succeed.
+Since math courses tend to be prerequisites to many other more advanced courses, we strongly encourage all Computer Science students do not delay taking their math courses. It is best you start working on satisfying the math requirements freshman fall. This also allows you to keep your options open in case you want to consider other concentrations with math requirements such as engineering, applied mathematics, statistics, economics, and others.
+If you were placed into Math 1a or Math 1b and are interested in Computer Science then it is even more important that you take these courses right away, so you can satisfy your math requirements as soon as possible. If you were placed into the Math M sequence, you should contact the CS Directors of Undergraduate Studies as soon as possible to get advice on how to navigate the math requirements. Any path within CS can be completed starting with Math Ma with careful planning. Some examples are available on our sample plans page.
+The main mathematical prerequisites for computer science students are:
+
+
+Linear Algebra: The linear algebra requirement can be satisfied in many different ways, including by taking  Math 21b/22a/23a/25a/55a or AM 22a (see below). We note that multivariate calculus is not required for the computer science concentration. We recommend that students who want to take both linear algebra and multivariate calculus choose a sequence with linear algebra in the fall semester.
+
+
+Probability: The most common way to satisfy the probability requirement is to take Statistics 110.
+
+
+Proofs and discrete mathematics: Several computer science courses, including CS 120, CS 121, and CS 124, require background in proofs and discrete mathematics, see this page. A few students can get this background on their own (in particular, students who take the Math 25 / 55 sequence and also some of the students who take the Math 22 / 23 or AM 22 sequence). However most CS students should take CS 20: Discrete Mathematics.
+
+
+Recommended math courses for first year students
+We strongly encourage first-year students to keep their options open and consider more than one concentration.
+Therefore, we recommend you check with other concentrations that you are considering which of the math courses below will satisfy their requirements (e.g., see the handbook entries for statistics and applied mathematics).
+There are many  math courses at Harvard, most offered by the math department but some offered by other departments as well. The Math Department  has put together a document detailing the different introductory math courses they offer.
+Here is some advice on how to satisfy the mathematical preparation requirements.
+These are not the only ways to do so, see here for more details.
+Which math course should I take in first-year fall?
+
+
+If you are placed into Math Ma, Mb, 1a or 1b then we recommend you take the course that you are placed into in your first-year fall. In the semester after you have taken Math 1b, we recommend you take one of the linear algebra courses listed below.
+
+
+If you are placed into the Math 18-55 series, then we recommend you take a linear algebra course in your first-year fall. Options for linear algebra courses are below.
+
+
+Many CS students would find either Applied Math 22a: Solving and Optimizing  or Math 22a: Linear Algebra and Vector Analysis to be good courses to take in their first year fall. Both cover linear algebra. If you are considering a concentration that requires multi-variate calculus (including many of the engineering concentrations), then you can follow these by either Applied Math 22b or Math 22b respectively.
+
+
+Another option is to take  Math 21b: Linear Algebra and Differential Equations.  Despite the “b” in the name, Math 21b is offered in the fall, and it is possible to take it before Math 21a. Comparing Math 21b vs Math 22a: Math 22a is not more difficult, nor does it require more background than Math 21a. It is more focused on rigorous reasoning (aka proofs) than computations, which can be a good fit for Computer Science students. Students report that it is a little more time consuming however (on average 10 hours per week for Math 22 as opposed to 8 hours per week for Math 21). Either one is sufficient for Computer Science students.
+
+
+If you enjoy math and proofs, and want to take a deeper introductory sequence than the above, you can take Math 25a  or  Math 55a. Both are proof-based courses, but the latter is much more work intensive, and requires some prior math background. While neither is required for the CS concentration, students that take these courses will find them useful for the more mathematical aspects of CS such as theory and programming languages. Students that take Math 25 or 55 can and should skip CS 20 and catch up on the discrete math needed via  self study.
+
+
+Most students that take Math 21 and many students tkat take Math 22 or AM 22  (as opposed to proof-based math courses such as Math 25 / 55) will want to take CS 20: Discrete Mathematics for Computer Science  in the spring, since the latter will prepare you for CS theory courses such as CS 120, CS 121, and CS 124. (Students that take Math 22 or AM 22 which involve some proofs should decide whether or not CS 20 is for them on a case by case basis, and are always welcome to contact their advisors or the CS 20 instructors for advice.)  While a multivariate calculus course such as Math 21a or AM 22b is not required for CS, these courses are required for other concentrations, and so taking such a course in the spring is a good way to keep your options open, and the math is still useful in Computer Science.
+
+
+All CS students should take Statistics 110: Probability or another approved course on probability at some point during their concentration.  Probability and statistics are essential for many areas of CS including artificial intelligence, machine  learning, and theoretical CS, and are also important for general “data literacy”. Most CS students take Stat 110 in their sophomore or junior fall, but a few students with particularly strong mathematical preparation take it in their first-year fall.
+
+
+Additional Resources
+We suggest exploring this website for more information about the concentration and requirements. Many students find our page on courses that count towards the concentration especially helpful.
+To engage with the Computer Science Community, we suggest reaching out the Peer Concentration Advisors, joining the CS Undergraduate Piazza for thoughts from your peers, and getting involved with CS-related clubs and activities.
+A recent CS alumna  provides an overview of the 2020 computer science curriculum and provides her own tips and tricks for navigating the requirements in this CS degree overview video. She also shares her thoughts on common career tracks for CS concentrators, and her perspective on computer science at Harvard as a whole.
+If you have any questions about CS at Harvard, please don’t hesitate to contact us!
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Harvard John A. Paulson School of Engineering and Applied Sciences
+
+
+
+
+© 2023 President and Fellows of Harvard College
+
+Accessibility | Trademark Notice | Privacy Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

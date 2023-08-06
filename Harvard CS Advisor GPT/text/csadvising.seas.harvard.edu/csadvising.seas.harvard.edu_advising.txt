@@ -1,0 +1,505 @@
+
+
+
+
+
+
+
+
+
+
+Advising :: Harvard CS Concentration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ CS Undergrad Advising
+
+
+
+
+
+
+
+          FAQ
+          
+      
+
+
+
+          First-Year Exploration
+          
+      
+
+
+
+          Sophomore Advising
+          
+      
+
+
+
+          Concentration
+          
+      
+
+
+
+        Degree programs
+        
+        
+
+
+
+        Declaring CS concentration
+        
+        
+
+
+
+        Joint, double and combined concentrations
+        
+        
+
+
+
+        Honors
+        
+        
+
+
+
+          Concentration Requirements
+          
+      
+
+
+
+        Old Requirements
+        
+        
+
+
+
+        Comparison
+        
+        
+
+
+
+
+
+          Courses
+          
+      
+
+
+
+        Sample schedules and plans of study
+        
+        
+
+
+
+        Tags for computer science courses
+        
+        
+
+
+
+
+
+        Study abroad
+        
+        
+
+
+
+        Cross-registering at MIT
+        
+        
+
+
+
+
+
+          Secondary Field
+          
+      
+
+
+
+          Advising
+          
+      
+
+
+
+          Peer Concentration Advisors
+          
+      
+
+
+
+
+
+          Research
+          
+      
+
+
+
+        CS91r
+        
+        
+
+
+
+        Senior Thesis
+        
+        
+
+
+
+
+
+          Get Involved
+          
+      
+
+
+
+        Teaching and advising
+        
+        
+
+
+
+        Alex Patel Fellowship
+        
+        
+
+
+
+        Clubs and Activities
+        
+        
+
+
+
+        Entrepreneurship
+        
+        
+
+
+
+
+
+          Resources
+          
+      
+
+
+
+        How to Succeed in CS Courses
+        
+        
+
+
+
+
+
+          Diversity in CS
+          
+      
+
+
+
+          Forms
+          
+      
+
+
+
+          About CS
+          
+      
+
+
+
+        Careers of alumni
+        
+        
+
+
+
+        CS and Society
+        
+        
+
+
+
+        Curriculum Committee
+        
+        
+
+
+
+
+
+          Contact
+          
+      
+
+
+
+More
+
+
+ Courses
+
+
+ Course Tags
+
+
+ Accessibility
+
+
+
+
+
+
+
+
+
+
+Academics
+
+
+Computer Science
+
+
+
+
+
+
+
+
+
+
+ navigation
+                        
+
+
+
+Harvard Computer Science > Advising
+          
+        
+          
+        
+                 
+                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              
+              Advising
+            
+Need advice or information for navigating Computer Science at Harvard and beyond? There are several resources available to you, listed below.
+Directors of Undergraduate Studies
+The Directors of Undergraduate Studies for Computer Science (including the Assistant Director of Undergraduate Studies) can help any student, including concentrators, secondaries, pre-concentrators, or anyone else interested in Computer Science. See the contact page for how to contact the DUSes.
+For administrative issues, you can contact Beth Musser, our Undergraduate Program Coordinator.
+Peer Concentration Advisors
+Peer Concentration Advisors (PCAs) serve as peer advisors for current CS concentrators and pre-concentrators, providing a valuable perspective and helping students to discover additional resources and opportunities. Students can reach out to meet with PCAs with similar academic, career, or extracurricular interests.
+More information is on the PCA page.
+Concentration Advisors
+Every Computer Science concentrator is assigned an advisor from
+the Computer
+Science faculty, shown in your my.harvard Advising Network with the role “Ind Concentration Advisor”.
+Your advisor can help guide you through your CS degree and will release the advising hold on your study card at the start of each term. But your advisor is not just there to release the study card hold: we encourage you to consult with them on which areas of CS you want to learn more about, research and summer opportunities, and your plans for your remaining time at Harvard and beyond. (For questions about concentration requirements or administrative issues, you should probably contact the Directors of Undergraduate Studies.)
+You should meet with your concentration advisor once each term,  typically (but not necessarily)
+before the Course Registration deadline. Your concentration advisor
+should email you at or before the beginning of the term, but feel free
+to reach out to them.
+We assign advisors to students (including newly declared concentrators) just before the start of each term. We try to keep you with the same advisor from term to term, but faculty occasionally go on leave and we may have needed to assign you to a different advisor. When you declare, or if you would like to change your concentration advisor, you are welcome to express your preferences, if any, for your concentration advisor by filling in this form. We will try to accommodate your preferences, but may be unable to do so.
+Information sessions
+Some information sessions that demystify various aspects of being a CS concentrator are listed below.
+
+
+
+Date
+Topic
+Time, Place
+
+
+
+
+2022-09-23
+How to Prepare for Technical Interviews
+3:30-5pm, RSVP required, 1 Brattle Sq #203
+
+
+2022-10-12
+Computer Science Industry Mixer
+5-6pm, RSVP required, SEC LL2 Atrium
+
+
+2022-10-18
+AB/SM information session
+noon, RSVP required, Zoom
+
+
+2022-10-24
+CS career paths in health alumni panel
+3:45-4:45pm, RSVP required, SEC 1.413
+
+
+2022-11-01
+Undergraduate Research Labs Open House
+5:30-6:45pm, virtual, RSVP required
+
+
+2022-11-02
+Research Paths in CS After Graduation Panel
+4:30pm-5:30pm, RSVP for Zoom link
+
+
+2022-11-09
+AB/SM information session
+4pm, RSVP required, Zoom
+
+
+2022-11-10
+Entrepreneurship CS Alumni Panel
+4pm, Zoom, RSVP required
+
+
+2022-11-14
+What is Product Development?
+4:30-5pm, Pierce Hall, RSVP
+
+
+2022-11-17
+The Product Development Lifecycle
+4pm, Zoom, RSVP required
+
+
+
+Online Resources
+Answers to many common questions and issues are available on this website. Other resources (such as online guides and the Piazza CS student forum) are listed on the Resources page.
+Harvard College Advising Programs Office
+The Harvard College Advising Programs
+Office is charged with
+coordinating, supporting, and facilitating academic advising programs
+for all undergraduates and, as such, works with students, faculty, the
+First-Year Experience Office, the Houses and other Harvard College and FAS
+offices on all aspects of pre-concentration and concentration advising.
+CS Feedback
+This is a form for anonymous feedback, for your ideas for CS to consider, or to let us know how you’re doing. CS Feedback.
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Harvard John A. Paulson School of Engineering and Applied Sciences
+
+
+
+
+© 2023 President and Fellows of Harvard College
+
+Accessibility | Trademark Notice | Privacy Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

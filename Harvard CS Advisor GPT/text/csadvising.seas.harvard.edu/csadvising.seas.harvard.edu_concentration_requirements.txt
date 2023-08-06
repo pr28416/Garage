@@ -1,0 +1,722 @@
+
+
+
+
+
+
+
+
+
+
+Concentration Requirements :: Harvard CS Concentration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ CS Undergrad Advising
+
+
+
+
+
+
+
+          FAQ
+          
+      
+
+
+
+          First-Year Exploration
+          
+      
+
+
+
+          Sophomore Advising
+          
+      
+
+
+
+          Concentration
+          
+      
+
+
+
+        Degree programs
+        
+        
+
+
+
+        Declaring CS concentration
+        
+        
+
+
+
+        Joint, double and combined concentrations
+        
+        
+
+
+
+        Honors
+        
+        
+
+
+
+          Concentration Requirements
+          
+      
+
+
+
+        Old Requirements
+        
+        
+
+
+
+        Comparison
+        
+        
+
+
+
+
+
+          Courses
+          
+      
+
+
+
+        Sample schedules and plans of study
+        
+        
+
+
+
+        Tags for computer science courses
+        
+        
+
+
+
+
+
+        Study abroad
+        
+        
+
+
+
+        Cross-registering at MIT
+        
+        
+
+
+
+
+
+          Secondary Field
+          
+      
+
+
+
+          Advising
+          
+      
+
+
+
+          Peer Concentration Advisors
+          
+      
+
+
+
+
+
+          Research
+          
+      
+
+
+
+        CS91r
+        
+        
+
+
+
+        Senior Thesis
+        
+        
+
+
+
+
+
+          Get Involved
+          
+      
+
+
+
+        Teaching and advising
+        
+        
+
+
+
+        Alex Patel Fellowship
+        
+        
+
+
+
+        Clubs and Activities
+        
+        
+
+
+
+        Entrepreneurship
+        
+        
+
+
+
+
+
+          Resources
+          
+      
+
+
+
+        How to Succeed in CS Courses
+        
+        
+
+
+
+
+
+          Diversity in CS
+          
+      
+
+
+
+          Forms
+          
+      
+
+
+
+          About CS
+          
+      
+
+
+
+        Careers of alumni
+        
+        
+
+
+
+        CS and Society
+        
+        
+
+
+
+        Curriculum Committee
+        
+        
+
+
+
+
+
+          Contact
+          
+      
+
+
+
+More
+
+
+ Courses
+
+
+ Course Tags
+
+
+ Accessibility
+
+
+
+
+
+
+
+
+
+
+Academics
+
+
+Computer Science
+
+
+
+
+
+
+
+
+
+
+ navigation
+                        
+
+
+
+Harvard Computer Science > Concentration > Concentration Requirements
+          
+        
+          
+        
+          
+        
+                 
+                  
+
+
+
+
+
+CS Concentration Requirements
+DETAILED REQUIREMENTS
+
+Basic Requirements: 11–14 courses (44–56 credits)
+Honors Requirements: 13–16 courses (52–64 credits)
+Requirements for Joint Concentrations: 10–13 courses (40–52 credits) for CS Field
+Requirements for Mind, Brain, and Behavior Program: 13–16 courses (52–64 credits)
+More information
+
+
+
+
+
+
+
+
+
+
+
+
+              
+              Concentration Requirements
+            
+This page describes the current version of the computer science concentration requirements. Students who completed at least one term in the college prior to Fall 2021 may elect to follow the Old (2020  and earlier) requirements (comparison).
+
+See the Degree Programs page or the Computer Science handbook entry for more information about the different tracks within the computer science concentration.
+The courses page provides more detailed information of which courses count for which requirements. See also sample schedules for guidance on specific courses to take in your first two years as well as example plans of study to complete all of your requirements.
+If you are ready to declare a CS concentration, please follow these steps.
+You can also see how to combine CS with other areas in the form of a secondary concentration, joint concentration, or other means.
+CS Concentration Requirements
+Computer Science’s concentration requirements are as follows. For the basic
+plan, 9 core computer science courses are required. Collectively, these
+courses must meet requirements in programming, formal reasoning, systems, computation and
+the world, and advanced computer science. A single course may fulfill multiple
+requirements (for example, CS 109a counts for both Programming 1 and
+Computation and the World). The basic requirements also include 2–5 courses in
+Mathematics, including mathematical preparation, Linear Algebra, and
+Probability.
+
+
+
+Requirement
+Basic
+Honors
+Joint
+MBB
+
+
+
+
+Mathematical preparation
+2–5 courses
+
+
+Early calculus (Math Ma/Mb/1a/1b)
+0–3 courses as needed
+
+
+
+Linear Algebra
+                (Math 21b/22a, AM 22a, …)
+            
+1 course
+
+
+
+Probability (Stat 110, ES 150, …)
+            
+1 course
+
+
+Requirement
+Basic
+Honors
+Joint
+MBB
+
+
+Computer science core
+9 courses
+11 courses
+8 courses
+8 courses
+
+
+
+Programming 1 (CS 32, CS 50, …) &
+                Programming 2 (CS 51, CS 61, …)
+            
+2 courses
+
+
+
+Formal Reasoning
+                (CS 20, CS 120, CS 121, CS 124, CS 134, CS 152, …)
+            
+3 courses
+
+
+
+                Most Discrete Mathematics,
+                Computational Limitations,
+                Algorithms, and
+                Intermediate Algorithms
+                courses also count toward the Formal Reasoning requirement.
+            
+
+
+
+Discrete Mathematics
+                (CS 20, AM 107, …)
+            
+1 course, or place out*
+
+
+
+Computational Limitations
+                (CS 120, CS 121, …)
+            
+1 course
+
+
+
+Algorithms (CS 120, CS 124, …)
+            
+1 course
+N/A
+1 course
+N/A
+
+
+
+Intermediate Algorithms
+                (CS 124, …)
+            
+N/A
+1 course
+N/A
+1 course
+
+
+
+Systems
+
+1 course
+
+
+
+Computation and the World
+
+1 course
+
+
+Most Artificial Intelligence courses also count toward the Computation and the World requirement.
+
+
+
+Artificial Intelligence
+
+N/A
+1 course
+N/A
+1 course
+
+
+
+Advanced Computer Science (CS 100+)
+            
+4 courses
+5 courses
+4 courses, or 3 courses + one CS 91r
+4 courses, or 3 courses + one CS 91r
+
+
+Requirement
+Basic
+Honors
+Joint
+MBB
+
+
+Mind, brain, & behavior track
+N/A
+N/A
+N/A
+3 MBB courses (MCB 80, approved related field, approved junior tutorial)
+
+
+Requirement
+Basic
+Honors
+Joint
+MBB
+
+
+
+Thesis
+
+N/A
+Optional (required for high or highest honors)
+Required
+Required
+
+
+
+
+If you place out of discrete mathematics, you still need to take a total of three formal reasoning courses, see the tags page for some options. The process for placing out of the discrete math requirement is here.
+
+A basic, honors, or MBB CS concentration can be combined with another concentration as a double concentration. The CS requirements for such a concentration are the same as the CS requirements for an undoubled basic, honors, or MBB CS concentration, respectively, except that at most two courses used for the other concentration may be used for the CS concentration.
+DETAILED REQUIREMENTS
+Note:  Students who completed at least one term in the college prior to Fall 2021 may choose to follow the old concentration requirements, available in the relevant archived version of the Handbook for Students and contact the department for further information.
+Basic Requirements: 11–14 courses (44–56 credits)
+
+Required courses (11–14 courses): A student’s Plan of Study must satisfy each of the requirements below.
+
+Mathematical preparation (2–5 courses, see Note on Mathematical preparation below):
+
+Pre-calculus and single-variable calculus: Either Mathematics Ma, Mb, and 1b, or Mathematics 1a and 1b. Students may place out of some or all of this requirement depending on their starting Mathematics course.
+Linear algebra: One course in linear algebra. Satisfied by Applied Mathematics 22a, Mathematics 21b, Mathematics 22a, Mathematics 23a, Mathematics 25a, Mathematics 55a, or a more advanced course.
+Probability: One course in probability. Satisfied by Statistics 110, Engineering Sciences 150, Mathematics 154, or a more advanced course.
+
+
+Computer Science core (9 courses): Nine courses from an approved list on the concentration’s website. This list contains computer science courses and some courses in related fields. These courses must, taken together, satisfy the following “tag” requirements. The concentration website has a list of tags and the corresponding courses. A tag requirement is satisfied or partially satisfied by a plan of study containing a corresponding course. Each course on a plan of study may satisfy zero, one, two, or more tag requirements. Example plans of study satisfying these requirements can be found on the concentration website. While some courses can satisfy multiple tags, students still need to take nine Computer Science core courses.
+
+Programming 1 and Programming 2 tags (2 courses in the computer science core): Two courses on software construction and good software engineering practices. The requirement is satisfied by either one course tagged Programming 1 and one tagged Programming 2, or by two courses tagged Programming 2. Note that some Programming 1 courses, such as CS 32 and CS 50, cannot be taken for concentration credit after more advanced programming courses.
+Formal Reasoning tag (3 courses in the computer science core): Three courses on formal reasoning about computer science, including at least:
+
+Discrete Mathematics tag (0 or 1 course in the computer science core): One course with significant discrete math content. Students may skip this requirement with approval from the Directors of Undergraduate Studies; see the Computer Science website for more information. Note that some Discrete Math courses, such as CS 20, cannot be taken for concentration credit after more advanced formal reasoning courses.
+Computational Limitations tag (1 course in the computer science core): One course covering topics in computability and complexity.
+Algorithms tag (1 course in the computer science core): One course covering topics in algorithms.
+
+
+Systems tag (1 course in the computer science core): One course containing significant computer system development.
+Computation and the World tag (1 course in the computer science core): One course on interactions between computation and the world (for example, concerning informational, natural, human, or social systems).
+Advanced Computer Science tag (4 courses in the computer science core): Four sufficiently advanced Computer Science courses, roughly corresponding to all CS courses numbered 100 and above. (See the concentration website for the full list.)
+
+
+Note on Mathematical preparation: The total number of required courses for the concentration depends on the starting Mathematics course (see Requirements above).
+
+Students starting in Mathematics Ma: 14 courses (five courses to complete the mathematics requirements).
+Students starting in Mathematics 1a: 13 courses (four courses to complete the mathematics requirements).
+Students starting in Mathematics 1b: 12 courses (three courses to complete the mathematics requirements).
+Students starting in Mathematics 21b or similar: 11 courses (two courses to complete the mathematics requirements).
+
+
+
+
+Tutorial: Optional. Available as Computer Science 91r. This course is repeatable, but may be taken at most twice for academic credit, and only one semester of Computer Science 91r may be counted toward concentration requirements as a computer science core course. Students wishing to enroll in Computer Science 91r must file a project proposal to be signed by the student and the faculty supervisor and approved by the Directors of Undergraduate Studies. The project proposal form can be found on the Computer Science website.
+Thesis: None.
+General Examination: None
+Other Information:
+
+Approved courses: With the approval of the Directors of Undergraduate Studies, other courses may be used to satisfy requirements. If a course is cross-listed with another department it meets the same requirements for the concentration as the COMPSCI-numbered course. In general, a course may be substituted with a more advanced version on the same or similar topic. Students must secure advance approval for course substitutions by filing a Plan of Study to be approved by the Directors of Undergraduate Studies. The Plan of Study form and a description of the process to submit the form can be found on the Computer Science website.
+Pass/Fail and Sat/Unsat: No more than two of the courses used to satisfy CS Requirements may be taken PA/FL or SUS. Of the tag requirements, courses taken PA/FL or SUS can be used only for the Programming 1 and Advanced Computer Science tags. For instance, if taken PA/FL, CS 124 would not satisfy the Formal Reasoning or Algorithms tags.
+Reduction of requirements for prior work: Except for Mathematics Ma, Mathematics Mb/1a, and Mathematics 1b, there is no reduction in concentration requirements for prior work.
+Plans of study: Concentrators must file a Plan of Study showing how they intend to satisfy these degree requirements, and keep their plan of study up to date until their program is complete. If the plan is acceptable, the student will be notified that it has been approved. To petition for an exception to any rule, the student should file a new plan of study and notify the Directors of Undergraduate Studies of the rationale for any exceptional conditions. Approval of a plan of study is the student’s guarantee that a given set of courses will satisfy degree requirements. The Plan of Study form and a description of the process to submit the form can be found on the Computer Science website.
+
+
+
+Honors Requirements: 13–16 courses (52–64 credits)
+
+Required courses (13–16 courses): A student’s Plan of Study must satisfy each of the requirements below. Courses are allowed to satisfy multiple requirements, but a student’s Plan of Study must still comprise thirteen to sixteen courses in total.
+
+Mathematical preparation (2–5 courses): Same as Basic Requirements.
+Computer Science core (11 courses): Eleven courses from an approved list on the concentration’s website. This is the same list as for the basic requirements, but two more courses are required. These courses, taken together, must satisfy the following tag requirements.
+
+Programming 1 and Programming 2 tags (2 courses in the computer science core): Same as Basic Requirements.
+Formal Reasoning tag (3 courses in the computer science core): Same as Basic Requirements, but requiring Intermediate Algorithms rather than Algorithms, as follows.
+
+Discrete Mathematics tag (0 or 1 course in the computer science core): Same as Basic Requirements.
+Computational Limitations tag (1 course in the computer science core): Same as Basic Requirements.
+Intermediate Algorithms tag (1 course in the computer science core): One course covering basic and intermediate topics in algorithms. Replaces the Algorithms tag from the Basic Requirements.
+
+
+Systems tag (1 course in the computer science core): Same as Basic Requirements.
+Computation and the World tag (1 course in the computer science core): Same as Basic Requirements.
+Artificial Intelligence tag (1 course in the computer science core): One course covering topics in artificial intelligence. (Most such courses will simultaneously satisfy the Computation and the World tag.)
+Advanced Computer Science tag (5 courses in the computer science core): Five sufficiently advanced Computer Science courses (one more than in the Basic Requirements).
+
+
+
+
+Tutorial: Same as Basic Requirements.
+Thesis: Optional but encouraged. See honors requirements on the Computer Science website. Students writing theses are often enrolled in Computer Science 91r. This course is repeatable, but may be taken at most twice for academic credit, and only one semester of Computer Science 91r may be counted toward concentration requirements as a Computer Science core course. Students wishing to enroll in Computer Science 91r must file a project proposal to be signed by the student and the faculty supervisor and approved by the Directors of Undergraduate Studies. The project proposal form can be found on the Computer Science website.
+General Examination: Same as Basic Requirements.
+Other Information: Same as Basic Requirements.
+
+Requirements for Joint Concentrations: 10–13 courses (40–52 credits) for CS Field
+Joint concentrations with certain other fields are possible. This option is intended for students who have interests in the intersection of two fields, not simply in the two fields independently; for example, a combined concentration in computer science and linguistics might be appropriate for a student with a special interest in computational linguistics. Course requirements are the same as the Basic Requirements, with three exceptions: only eight (instead of nine) CS core courses are required, Computer Science 91r may be used to satisfy an Advanced Computer Science requirement, and a thesis that combines the two fields is required. Note that courses satisfying CS requirements may also be double-counted towards the requirements of the other field.
+Joint concentrations are not “double majors.” Joint concentrators should be interested in the overlap between two fields, not simply in both. A thesis in the intersection of the fields is required for joint concentrators, read by both concentrations. The student is typically awarded the minimum honors recommended by the two concentrations separately. These requirements, including the Thesis Requirement, are the same whether Computer Science is the primary field or the allied field of the joint concentration.
+Students interested in combined programs should consult the Directors of Undergraduate Studies at an early date and should work carefully with both concentrations to ensure all deadlines and requirements of both concentrations are met. Students with separate interests in more than one field should consider pursuing a secondary rather than a joint concentration or simply using some of their electives to study one of the fields. We advise all of our joint concentrators to make sure that they satisfy the non-joint requirements for at least one concentration, in case they are unable to complete a thesis.
+Requirements for Mind, Brain, and Behavior Program: 13–16 courses (52–64 credits)
+Students interested in addressing questions of neuroscience and cognition from the perspective of computer science may pursue a special program of study affiliated with the University-wide Mind, Brain, and Behavior Initiative, that allows them to participate in a variety of related activities. (Similar programs are available through the Anthropology, History and Science, Human Evolutionary Biology, Linguistics, Neurobiology, Philosophy, and Psychology concentrations.) Requirements for this honors-only program are based on those of the computer science Requirements for Honors Eligibility, as explained below:
+
+Required courses (13–16 courses):
+
+Mathematical preparation (2–5 courses):  Same as  Honors Requirements.
+Computer Science core (8 courses): Same as Honors Requirements, with the following exceptions:
+
+Eight courses, rather than 11 courses, are required.
+Advanced Computer Science tag (4 courses in the computer science core): Four sufficiently advanced Computer Science courses, rather than 5 courses, are required. In addition, one CS 91r course may be used to satisfy this requirement.
+Mind, brain, and behavior courses (3 courses):
+
+MCB/Neuroscience 80
+An approved course in an MBB-related field outside computer science
+An approved MBB junior tutorial
+
+
+
+
+
+
+Tutorial: Same as  Honors Requirements.
+Thesis: A computationally-oriented thesis on a Mind, Brain, and Behavior-related topic is required. Students pursuing thesis research may want to enroll in Computer Science 91r.
+General Examination: None.
+Other information: Same as Honors Requirements.
+Note: Students pursuing the Mind, Brain, and Behavior track are assigned an adviser in the field and are expected to participate in the University-wide Mind, Brain, and Behavior research milieu, including a non-credit senior year seminar for Mind, Brain, and Behavior thesis writers. To participate in the MBB track, students must both complete the Computer Science concentration Plan of Study and register at the beginning of every academic year on the MBB website. Interested students should contact the Computer Science liaison to the MBB program, Professor Stuart Shieber.
+
+More information
+
+Information about College honors
+Computer Science handbook entry
+CS Mind, Brain, and Behavior Track Frequently Asked Questions
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Harvard John A. Paulson School of Engineering and Applied Sciences
+
+
+
+
+© 2023 President and Fellows of Harvard College
+
+Accessibility | Trademark Notice | Privacy Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

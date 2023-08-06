@@ -1,0 +1,446 @@
+
+
+
+
+
+
+
+
+
+
+How to Succeed in CS Courses :: Harvard CS Concentration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ CS Undergrad Advising
+
+
+
+
+
+
+
+          FAQ
+          
+      
+
+
+
+          First-Year Exploration
+          
+      
+
+
+
+          Sophomore Advising
+          
+      
+
+
+
+          Concentration
+          
+      
+
+
+
+        Degree programs
+        
+        
+
+
+
+        Declaring CS concentration
+        
+        
+
+
+
+        Joint, double and combined concentrations
+        
+        
+
+
+
+        Honors
+        
+        
+
+
+
+          Concentration Requirements
+          
+      
+
+
+
+        Old Requirements
+        
+        
+
+
+
+        Comparison
+        
+        
+
+
+
+
+
+          Courses
+          
+      
+
+
+
+        Sample schedules and plans of study
+        
+        
+
+
+
+        Tags for computer science courses
+        
+        
+
+
+
+
+
+        Study abroad
+        
+        
+
+
+
+        Cross-registering at MIT
+        
+        
+
+
+
+
+
+          Secondary Field
+          
+      
+
+
+
+          Advising
+          
+      
+
+
+
+          Peer Concentration Advisors
+          
+      
+
+
+
+
+
+          Research
+          
+      
+
+
+
+        CS91r
+        
+        
+
+
+
+        Senior Thesis
+        
+        
+
+
+
+
+
+          Get Involved
+          
+      
+
+
+
+        Teaching and advising
+        
+        
+
+
+
+        Alex Patel Fellowship
+        
+        
+
+
+
+        Clubs and Activities
+        
+        
+
+
+
+        Entrepreneurship
+        
+        
+
+
+
+
+
+          Resources
+          
+      
+
+
+
+        How to Succeed in CS Courses
+        
+        
+
+
+
+
+
+          Diversity in CS
+          
+      
+
+
+
+          Forms
+          
+      
+
+
+
+          About CS
+          
+      
+
+
+
+        Careers of alumni
+        
+        
+
+
+
+        CS and Society
+        
+        
+
+
+
+        Curriculum Committee
+        
+        
+
+
+
+
+
+          Contact
+          
+      
+
+
+
+More
+
+
+ Courses
+
+
+ Course Tags
+
+
+ Accessibility
+
+
+
+
+
+
+
+
+
+
+Academics
+
+
+Computer Science
+
+
+
+
+
+
+
+
+
+
+ navigation
+                        
+
+
+
+Harvard Computer Science > Resources > How to Succeed in CS Courses
+          
+        
+          
+        
+          
+        
+                 
+                  
+
+
+
+
+
+
+
+Resources
+Peer Advice
+
+
+
+
+
+
+
+
+
+
+
+
+              
+              How to Succeed in CS Courses
+            
+Resources
+
+Alex Patel Fellows 
+Select courses (CS 51, CS 61, CS 121, and CS 124) have the additional support of an Alex Patel Fellow. The Fellows help students for whom the normal course support channels are insufficient: students who need tutoring, not simply answers to questions. Fellows are assigned to appropriate Computer Science courses and augment course staff by providing individual tutoring to students. Although the Fellows are part of the course staff, they do not participate in grading, section, or regular office hours; instead they focus their time on providing one-on-one tutoring.
+The Academic Resource Center
+The Academic Resource Center (ARC) is a resource for students (and graduate students) to help them gain the skills they need to succeed in an academic environment and beyond. It offers peer tutoring, workshops, study spaces, and academic coaching. Sign up for most programs via their scheduler, https://arcscheduler.fas.harvard.edu/. Examples of their STEM programming include:
+
+How to Use Practice Exams: Practice exams are the bread and butter preparation tools of many STEM courses! In this session, learn the do’s and don’ts for using them effectively as you prepare for exams.
+Course Correcting After Exam Results: Trying to find the feedback in your exam performance? Join this session for a discussion on how to process your performance on an exam and identify opportunities to adjust your specific approach. Note: You may want to bring an exam with you, so you can refer to it during this session!
+Recognizing and Effective Study Strategies for Math & ScienceResponding to Burnout: Join this workshop to learn about the warning signs of burnout and strategies for responding to this state.
+Expanding Your Problem Solving: Moving from Class to PSet: Finding the leap from classwork to homework a challenge? Learn strategies to retain more from class and apply it on assignments.
+Effective Study Strategies for Math & Science: This session will discuss best practices for exam studying in math and science course work. We discuss the cognitive science behind studying to point out productive and unproductive approaches for exam preparation. Take advantage of this opportunity to tune up your own preparation methods!
+How to Study for Math Tests: Studying for a math exam requires a specific set of skills. In this workshop, we will discuss best practices to successfully prepare for problem-based math exams. From class notes to problem sets and practice exams, we will look at how to build understanding and identify effective and custom approaches.
+
+
+The Accessible Education Office
+The Accessible Education Office (AEO) serves students with disabilities to ensure equity, inclusion, and access in all areas of student life. Our office works in partnership with Harvard faculty, staff, and students to develop and implement accessibility plans based on individualized assessments of student needs.
+Course Staff
+Your course staff–the teaching assistants, course assistants, and head instructors–all want you to succeed and learn. Please talk to them about your questions, concerns, and difficulty.
+The CS DUS/Advising Team
+The Computer Science Directors of Undergraduate Studies and the Assistant Director of Undergraduate Studies, are always happy to meet with students. Please see their office hours at the link above or email cs-dus@seas.harvard.edu.
+Peers
+Students who have study partners do better than those who do not have partners. Within the bounds of your courses’s collaboration policy, we strongly suggest finding peers for learning together.
+
+Peer Advice
+
+WiCS Academic Support Guide
+WiCS Advocacy compiled possible academic resources available to support Harvard Computer Science students with the hope of expanding your awareness of when and why one may access different forms of academic support (October 2020).
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Harvard John A. Paulson School of Engineering and Applied Sciences
+
+
+
+
+© 2023 President and Fellows of Harvard College
+
+Accessibility | Trademark Notice | Privacy Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
